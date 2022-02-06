@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ja nie mogę, Busters ma bloga!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
