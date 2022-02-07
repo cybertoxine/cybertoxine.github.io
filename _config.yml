@@ -22,7 +22,7 @@ authors:
     Natalia:
       name:           Natalia
       site:           https://busterspharma.leki.expert/
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Farmaceuta, psychodietetyk, naukowiec."
       email:          jakiemail@gmail.com
       twitter:        https://twitter.com/BustersPharma
