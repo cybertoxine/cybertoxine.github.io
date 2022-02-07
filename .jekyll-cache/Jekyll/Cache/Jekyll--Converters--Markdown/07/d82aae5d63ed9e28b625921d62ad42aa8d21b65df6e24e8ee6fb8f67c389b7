@@ -1,4 +1,4 @@
-I"o�<div class="container">
+I"_�<div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
@@ -1121,6 +1121,92 @@
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/charm-old-cities/">
 	<img class="w-100" src="/assets/images/home.jpg" alt="Could we reinvent the charm of old cities" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="przepisy"><span>Przepisy</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/muffinki-z-serem/">Muffinki nie muszą być słodkie.</a>
+	</h2>
+	<p class="excerpt">
+	   There are lots of powerful things you can do with the Markdown editor
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#przepisy">Przepisy</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#muffinki">muffinki</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 07, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/muffinki-z-serem/">
+	<img class="w-100" src="/assets/images/3.jpg" alt="Muffinki nie muszą być słodkie." />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="muffinki"><span>muffinki</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/muffinki-z-serem/">Muffinki nie muszą być słodkie.</a>
+	</h2>
+	<p class="excerpt">
+	   There are lots of powerful things you can do with the Markdown editor
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#przepisy">Przepisy</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#muffinki">muffinki</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 07, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/muffinki-z-serem/">
+	<img class="w-100" src="/assets/images/3.jpg" alt="Muffinki nie muszą być słodkie." />
 	</a>
 	</div>
 

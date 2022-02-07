@@ -1,4 +1,4 @@
-I"�T<div class="container">
+I"T<div class="container">
     
 
     
@@ -11,26 +11,28 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/welcome-to-jekyll/">
-    <div class="topfirstimage" style="background-image: url( /assets/images/demo1.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <a href="/muffinki-z-serem/">
+    <div class="topfirstimage" style="background-image: url( /assets/images/3.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/welcome-to-jekyll/">Ja nie mogę, Busters ma bloga!</a>
+    <a class="text-dark" href="/muffinki-z-serem/">Muffinki nie muszą być słodkie.</a>
     </h2>
     <p class="excerpt">
-        You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the s...
+        There are lots of powerful things you can do with the Markdown editor
     </p>
     <div>
         <small class="d-block text-muted">
             In <span class="catlist">
                 
-                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#przepisy">Przepisy</a><span class="sep">, </span>
+                
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#muffinki">muffinki</a><span class="sep">, </span>
                 
                 </span>                   
         </small>
         <small class="text-muted">
-            Feb 04, 2019
+            Feb 07, 2022
         </small>
     </div>
     </div>
@@ -40,6 +42,31 @@
     <div class="col-md-6">
         
         <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
+                <a href="/welcome-to-jekyll/">
+                 <img class="w-100" src="http://localhost:4000/assets/images/demo1.jpg" alt="Ja nie mogę, Busters ma bloga!" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/welcome-to-jekyll/">Ja nie mogę, Busters ma bloga!</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Feb 04, 2019
+                    </small>
+                </div>
+            </div>
+        
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
                 <a href="/powerful-things-markdown-editor/">
@@ -66,11 +93,11 @@
                 </div>
             </div>
         
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
                 <a href="/first-mass-produced/">
-                 <img class="w-100" src="/assets/images/17.jpg" alt="The first mass-produced book to deviate from a rectilinear format" />
+                <img class="w-100" src="/assets/images/17.jpg" alt="The first mass-produced book to deviate from a rectilinear format" />
                 </a>
                 </div>
                                 
@@ -91,38 +118,13 @@
                 </div>
             </div>
         
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/education/">
-                <img class="w-100" src="/assets/images/3.jpg" alt="Education must also train one for quick, resolute and effective thinking." />
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/education/">Education must also train one for quick, resolute and effective thinking.</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Feb 01, 2019
-                    </small>
-                </div>
-            </div>
-        
     </div>
     
 </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
  
 
  
@@ -194,6 +196,38 @@
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/muffinki-z-serem/">Muffinki nie muszą być słodkie.</a>
+	</h2>
+	<p class="excerpt">
+	   There are lots of powerful things you can do with the Markdown editor
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#przepisy">Przepisy</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#muffinki">muffinki</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 07, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/muffinki-z-serem/">
+	<img class="w-100" src="/assets/images/3.jpg" alt="Muffinki nie muszą być słodkie." />
+	</a>
+	</div>
+
+</div>
+        
         
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
@@ -471,38 +505,6 @@
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/red-riding/">
 	<img class="w-100" src="/assets/images/3.jpg" alt="Red Riding Hood" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/press-and-education/">Press and education</a>
-	</h2>
-	<p class="excerpt">
-	   Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, i...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 25, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/press-and-education/">
-	<img class="w-100" src="/assets/images/7.jpg" alt="Press and education" />
 	</a>
 	</div>
 
