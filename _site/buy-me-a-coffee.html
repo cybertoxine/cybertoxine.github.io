@@ -119,8 +119,8 @@ var documents = [{
     }, {
     "id": 4,
     "url": "http://localhost:4000/authors-list.html",
-    "title": "Authors",
-    "body": "Authors:                                             Natalia :       (View Posts)      Farmaceuta, psychodietetyk, naukowiec.                           &nbsp;       &nbsp;                                      "
+    "title": "Autor",
+    "body": "Autor:                                             Natalia :       (View Posts)      Farmaceuta, psychodietetyk, naukowiec.                           &nbsp;       &nbsp;                                      "
     }, {
     "id": 5,
     "url": "http://localhost:4000/buy-me-a-coffee.html",
@@ -129,13 +129,13 @@ var documents = [{
     }, {
     "id": 6,
     "url": "http://localhost:4000/categories.html",
-    "title": "Categories",
-    "body": "          Categories          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}                  {% include sidebar-featured. html %}          "
+    "title": "Kategorie",
+    "body": "          Kategorie          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}                  {% include sidebar-featured. html %}          "
     }, {
     "id": 7,
     "url": "http://localhost:4000/contact.html",
-    "title": "Contact",
-    "body": "  Please send your message to {{site. name}}. We will reply as soon as possible!   "
+    "title": "Kontakt",
+    "body": "  Wyślij wiadomość do mnie. Otrzymasz odpowiedź tak szybko jak to możliwe!   "
     }, {
     "id": 8,
     "url": "http://localhost:4000/",

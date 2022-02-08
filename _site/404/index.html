@@ -119,7 +119,7 @@ var documents = [{
     }, {
     "id": 4,
     "url": "http://localhost:4000/authors-list.html",
-    "title": "Authors",
+    "title": "Autor",
     "body": "{{page. title}}:     {% for author in site. authors %}                                         {{ author[1]. name }} :       (View Posts)      {{ author[1]. bio }}                          &nbsp;       &nbsp;                                    {% endfor %}  "
     }, {
     "id": 5,
@@ -129,13 +129,13 @@ var documents = [{
     }, {
     "id": 6,
     "url": "http://localhost:4000/categories.html",
-    "title": "Categories",
-    "body": "          Categories          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}                  {% include sidebar-featured. html %}          "
+    "title": "Kategorie",
+    "body": "          Kategorie          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}                  {% include sidebar-featured. html %}          "
     }, {
     "id": 7,
     "url": "http://localhost:4000/contact.html",
-    "title": "Contact",
-    "body": "  Please send your message to {{site. name}}. We will reply as soon as possible!   "
+    "title": "Kontakt",
+    "body": "  Wyślij wiadomość do mnie. Otrzymasz odpowiedź tak szybko jak to możliwe!   "
     }, {
     "id": 8,
     "url": "http://localhost:4000/",
