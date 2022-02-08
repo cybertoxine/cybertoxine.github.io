@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'BustersPharma'
-email: 'jakiemail@gmail.com'
+email: 'pharmabusters@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -23,8 +23,8 @@ authors:
       name:           Natalia
       site:           https://busterspharma.leki.expert/
       avatar:         assets/images/avatar1.jpg
-      bio:            "Farmaceuta, psychodietetyk, naukowiec."
-      email:          jakiemail@gmail.com
+      bio:            "Świeża porcja zdrowotnych newsów wybranych pod kątem dużej użyteczności społecznej. Polemika z mitami znanymi z reklam, wskazywanie szkodliwych trendów z obszaru lifestyle i bezlitosne rozprawianie się z nimi. Pokazywanie, że można jeść smacznie, zdrowo, tanio, a samą tylko wyszukaną kompozycją posiłków wyzwalać w innych niepohamowaną rządzę spróbowania tego jak to jest jeść zdrowo.<br> <br> <br>Koniec i bomba,<br> kto je suple ten trąba."
+      email:          pharmabusters@gmail.com
       twitter:        https://twitter.com/BustersPharma
  
 # Defaults
