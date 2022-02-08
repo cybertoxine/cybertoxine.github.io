@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/charm-old-cities/</loc>
-<lastmod>2019-01-18T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/customer-service/</loc>
 <lastmod>2019-01-18T00:00:00+01:00</lastmod>
 </url>
@@ -65,16 +61,20 @@
 <lastmod>2019-02-02T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/powerful-things-markdown-editor/</loc>
-<lastmod>2019-02-03T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/welcome-to-jekyll/</loc>
 <lastmod>2019-02-04T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/muffinki-z-serem/</loc>
-<lastmod>2022-02-07T00:00:00+01:00</lastmod>
+<loc>http://localhost:4000/rocket-science-w-kuchni/</loc>
+<lastmod>2022-02-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/czy_to_zapiekanka/</loc>
+<lastmod>2022-02-02T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tylko_jajko_rozpoznaje/</loc>
+<lastmod>2022-02-03T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404/</loc>
