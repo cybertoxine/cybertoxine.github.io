@@ -1,6 +1,6 @@
 # Site
 name: 'BustersPharma'
-description: 'Zdrowy styl życia, dietetyka, farmacja.'
+description: 'Psychodietetyka, farmacja, przepisy na zdrowe i smaczne posiłki ukazane w atrakcyjnej formie, opatrzone ciekawym i wartościowym opisem.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
