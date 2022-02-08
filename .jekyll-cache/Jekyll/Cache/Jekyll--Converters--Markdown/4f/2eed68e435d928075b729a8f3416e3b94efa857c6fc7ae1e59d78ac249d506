@@ -1,23 +1,27 @@
-I"0<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Tags</h1>
-            
-         
-        <h4 class="font-weight-bold spanborder text-capitalize" id="sticky"><span>sticky</span></h4>
-            
+I"�8<div class="container">
+    
+ <!--endif page url is / -->
+    
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+    
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
+
         
         
-        
-          
-         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/charm-old-cities/">Could we reinvent the charm of old cities</a>
+	<a class="text-dark" href="/press-and-education/">Press and education</a>
 	</h2>
 	<p class="excerpt">
-	   Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th c...
+	   Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, i...
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">
@@ -29,99 +33,20 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		Jan 18, 2019
+		Jan 25, 2019
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/charm-old-cities/">
-	<img class="w-100" src="/assets/images/home.jpg" alt="Could we reinvent the charm of old cities" />
+	<a href="/press-and-education/">
+	<img class="w-100" src="/assets/images/7.jpg" alt="Press and education" />
 	</a>
 	</div>
 
 </div>
-          
         
         
         
-        
-
-         
-        <h4 class="font-weight-bold spanborder text-capitalize" id="featured"><span>featured</span></h4>
-            
-        
-        
-        
-          
-         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/first-mass-produced/">The first mass-produced book to deviate from a rectilinear format</a>
-	</h2>
-	<p class="excerpt">
-	   The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the prot...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Feb 02, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/first-mass-produced/">
-	<img class="w-100" src="/assets/images/17.jpg" alt="The first mass-produced book to deviate from a rectilinear format" />
-	</a>
-	</div>
-
-</div>
-          
-        
-        
-        
-          
-         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/we-all-wait-for-summer/">We all wait for summer</a>
-	</h2>
-	<p class="excerpt">
-	   This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Mos...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 28, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/we-all-wait-for-summer/">
-	<img class="w-100" src="/assets/images/1.jpg" alt="We all wait for summer" />
-	</a>
-	</div>
-
-</div>
-          
-        
-        
-        
-          
-         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
@@ -151,12 +76,41 @@
 	</div>
 
 </div>
-          
         
         
         
-          
-         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/options-for-creating-new-site-with-jekyll/">Options for creating a new site with Jekyll</a>
+	</h2>
+	<p class="excerpt">
+	   jekyll new &lt;PATH&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called myblog. Here are...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 23, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/options-for-creating-new-site-with-jekyll/">
+	<img class="w-100" src="/assets/images/13.jpg" alt="Options for creating a new site with Jekyll" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
@@ -184,12 +138,73 @@
 	</div>
 
 </div>
-          
         
         
         
-          
-         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/is-intelligence-enough/">Is Intelligence Enough</a>
+	</h2>
+	<p class="excerpt">
+	   Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult. We are prone to let our mental life become...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 21, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/is-intelligence-enough/">
+	<img class="w-100" src="https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=798&amp;q=80" alt="Is Intelligence Enough" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/quick-start-guide/">Quick Start Guide</a>
+	</h2>
+	<p class="excerpt">
+	   If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 20, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/quick-start-guide/">
+	<img class="w-100" src="/assets/images/12.jpg" alt="Quick Start Guide" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
@@ -219,27 +234,16 @@
 	</div>
 
 </div>
-          
         
         
         
-        
-
-         
-        <h4 class="font-weight-bold spanborder text-capitalize" id="summer"><span>summer</span></h4>
-            
-        
-        
-        
-          
-         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/powerful-things-markdown-editor/">Powerful things you can do with the Markdown editor</a>
+	<a class="text-dark" href="/customer-service/">What is Jekyll</a>
 	</h2>
 	<p class="excerpt">
-	   There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about t...
+	   No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML &amp; CSS go in. Static sites come out ready for deployment. Permalinks, c...
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">
@@ -251,30 +255,82 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		Feb 03, 2019
+		Jan 18, 2019
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/powerful-things-markdown-editor/">
-	<img class="w-100" src="https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" alt="Powerful things you can do with the Markdown editor" />
+	<a href="/customer-service/">
+	<img class="w-100" src="/assets/images/11.jpg" alt="What is Jekyll" />
 	</a>
 	</div>
 
 </div>
-          
         
         
         
-        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/charm-old-cities/">Could we reinvent the charm of old cities</a>
+	</h2>
+	<p class="excerpt">
+	   Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th c...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 18, 2019
+	</small>
+</div>
 
-        
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/charm-old-cities/">
+	<img class="w-100" src="/assets/images/home.jpg" alt="Could we reinvent the charm of old cities" />
+	</a>
+	</div>
 
+</div>
+        
+        
+        
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+            <ul class="pagination"> 
+              
+                <li class="page-item"><a class="page-link" href="/">&laquo; Prev</a></li>
+              
+
+              
+                
+                <li class="page-item"><a class="page-link" href="/">1</a></li>
+                
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">2</span></li>
+                
+              
+
+              
+                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
+              
+            </ul>
+                  
         </div>
         
-            <div class="col-md-4">
+    </div>
+    
+    <div class="col-md-4">
         <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <h4 class="font-weight-bold spanborder"><span>Wyróżnione</span></h4>  
     <ol class="list-featured">				
                         
             <li class="mb-4">
@@ -361,7 +417,10 @@
     </ol>
 </div>     
     </div>
-        
-    </div>
+    
+</div>
+
+
+
 </div>
 :ET
