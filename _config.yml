@@ -1,11 +1,11 @@
 # Site
-name: 'BustersPharma'
+name: 'UZBlog'
 description: 'Psychodietetyka, farmacja, przepisy na zdrowe i smaczne posiłki ukazane w atrakcyjnej formie, opatrzone ciekawym i wartościowym opisem.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'busterspharma'
-email: 'busterspharma@gmail.com'
+disqus: 'xxx'
+email: 'piog@op.pl'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,13 +19,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Natalia:
-      name:           Natalia
-      site:           https://busterspharma.leki.expert/
+    UZ:
+      name:           Uzet
+      site:           https://cybertoxine.github.io
       avatar:         assets/images/avatar1.jpg
-      bio:            "Świeża porcja zdrowotnych newsów wybranych pod kątem dużej użyteczności społecznej. Polemika z mitami znanymi z reklam, wskazywanie szkodliwych trendów z obszaru lifestyle i bezlitosne rozprawianie się z nimi. Pokazywanie, że można jeść smacznie, zdrowo, tanio, a samą tylko wyszukaną kompozycją posiłków wyzwalać w innych niepohamowaną rządzę spróbowania tego jak to jest jeść zdrowo.<br> <br> <br>Koniec i bomba,<br> kto je suple ten trąba."
-      email:          pharmabusters@gmail.com
-      twitter:        https://twitter.com/BustersPharma
+      bio:            "blblblablabla blabla"
+      email:          piog@op.pl
+      twitter:        
  
 # Defaults
 defaults:
