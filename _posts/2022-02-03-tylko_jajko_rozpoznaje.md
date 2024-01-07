@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Tylko jajko tutaj rozpoznaję."
-author: Natalia
-categories: [ Przepisy, coś z jajkiem ]
-image: assets/images/002.jpg
+author: UZ
+categories: [ blblblablabla blabla, blblblablabla blablablblblablabla blabla ]
+image: assets/images/home.jpg
 tags: [summer]
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
