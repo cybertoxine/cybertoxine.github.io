@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Śniadanie."
-author: Natalia
-categories: [ Przepisy, zapiekanki ]
-image: assets/images/001.jpg
+author: UZ
+categories: [ blblblablabla blabla, blblblablabla blablablblblablabla blabla ]
+image: assets/images/home.jpg
 ---
-Śniadanie to podstawa- wiele o tym słyszymy ale czy umiemy komponować posiłki, by temu wyzwaniu sprostały ? Pamiętaj o dobrych tłuszczach (oliwa z oliwek, orzechy, avocado),wielu warzywach (papryka pietruszka!) dobrych węglowodanach (płatki owsiane chleb żytni) i białku(jajka)
+blblblablabla blablablblblablabla blablablblblablabla blablablblblablabla blablablblblablabla blablablblblablabla blabla
+blblblablabla blablablblblablabla blablablblblablabla blabla
 
 
 
-## Ale to nie wszystko...
+## blblblablabla blablablblblablabla blablablblblablabla blabla
 
-Z białek dla wegan - tofu, hummus lub fasola będą dobrą alternatywa ! Jak również moc kasz i orzechów
+blblblablabla blablablblblablabla blabla
 
