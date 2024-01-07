@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Rocket science w kuchni."
-author: Natalia
-categories: [ Psychologia, integralność ]
-image: assets/images/rocket.jpg
+title:  "blblblablabla blablablblblablabla blabla"
+author: UZ
+categories: [ blblblablabla blabla, blblblablabla blablablblblablabla blabla ]
+image: assets/images/home.jpg
 tags: [sticky]
 ---
 
