@@ -1,6 +1,6 @@
 # Site
 name: 'UZBlog'
-description: 'Psychodietetyka, farmacja, przepisy na zdrowe i smaczne posiłki ukazane w atrakcyjnej formie, opatrzone ciekawym i wartościowym opisem.'
+description: 'blabla.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Natalia
+      author: UZ
       avatar: assets/images/avatar1.jpg
       
   # all pages
