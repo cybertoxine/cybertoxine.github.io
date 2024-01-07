@@ -1,35 +1,35 @@
 ---
 layout: post
 title:  "Co jest ważne w zdrowych dietach?"
-author: Natalia
-categories: [ Dietetyka ]
-image: assets/images/003.jpg
+author: UZ
+categories: [ blblblablabla blabla ]
+image: assets/images/home.jpg
 ---
 
-Co takiego łączy uważane za zdrowe diety z całego świata? 
+blblblablabla blabla
 
 .
 
 
-### Woda.
+### blblblablabla blabla
 
-Pij codziennie na zmianę z naparami z imbirem, cytryną i miodem.
+blblblablabla blabla
 
-### Warzywa 
+### blblblablabla blabla 
 
-Niech stanowią duża cześć posiłku! 
+blblblablabla blabla 
 
-### Bialko 
+### blblblablabla blabla 
 
-Dobre źródło, odpowiednia ilość.
+blblblablabla blabla
 
-### Weglowodany
+### blblblablabla blabla
 
-Idealnie jakby były złożone.
+blblblablabla blabla.
 
-### Tluszcze
+### blblblablabla blabla
 
 !
 
-Dla chętnych odsyłam do fajnego opracowania:
-[Healthy Eating Plate](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/)
+blblblablabla blabla
+[Healthy Eating Plate](https://blblblablabla blabla)
