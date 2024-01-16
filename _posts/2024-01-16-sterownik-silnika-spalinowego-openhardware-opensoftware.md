@@ -11,6 +11,7 @@ tags: [sticky]
 
 ![walking]({{ site.baseurl }}/assets/images/sssm.png)
 
+Link do repo na GH:<a href="https://github.com/cybertoxine/CEECU">CEECU</a>
 
 #### Early 18th century woodcut of Bucharest
 
