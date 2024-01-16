@@ -7,6 +7,8 @@ image: assets/images/sss.jpg
 tags: [sticky]
 ---
 
+![walking]({{ site.baseurl }}/assets/images/sssm.png)
+
 Żeliwo szare jest odlewem żelazo-węglowym, w którym część węglowa stanowi grafit  w postaci płatków. Żeliwo szare charakteryzuje się dobrą podatnością na obróbkę skrawaniem, dużą odpornością na ścieranie oraz dobrymi właściwościami odlewniczymi. Cechuje się również ciągliwością, zdolnością tłumienia drgań i stosunkowo niskim kosztem wytwarzania.
 
 #### Early 18th century woodcut of Bucharest
