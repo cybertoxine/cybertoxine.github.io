@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "blblblablabla blablablblblablabla blabla"
+title:  "Otwartoźródłowy Sterownik Silnika Spalinowego czyli OSSS"
 author: UZ
-categories: [ blblblablabla blabla, blblblablabla blablablblblablabla blabla ]
-image: assets/images/home.jpg
+categories: [ opensoftware, openhardware, sterownik silnika spalinowego, tuning, kogeneracja, agregat prądotwórczy, sport motorowy ]
+image: assets/images/sss.jpg
 tags: [sticky]
 ---
 
