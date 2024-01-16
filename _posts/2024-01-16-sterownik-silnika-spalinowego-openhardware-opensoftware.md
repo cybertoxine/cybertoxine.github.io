@@ -11,7 +11,7 @@ W ostatnim dziesięcioleciu wielokrotnie już wieszczono rychły koniec zastosow
 
 Na horyzoncie pojawiają się też nowe (może raczej "odgrzebane"?) zastosowania silników cieplnych spalania wewnętrznego np. kogeneracja elektryczności przy okazji produkcji ciepła do ogrzewania pomieszczeń - w myśl ideii samowystarczalnego domu, czy szerzej, gospodarstwa.
 
-Na świecie przeprowasza się liczne i udane próby zasilania silników spalinowych amoniakiem. Wszystko wskazuje na to, że będzie on "zielonym" paliwem najbliższej przyszłości.
+Na świecie przeprowadza się liczne i udane próby zasilania silników spalinowych amoniakiem. Wszystko wskazuje na to, że będzie on "zielonym" paliwem najbliższej przyszłości.
 
 Temat sterowania tłokowymi silnikami spalania wewnętrznego jest więc jak najbardziej na topie. Projekt ten ma na celu stworzenie urządzenia umożliwiającego sterowanie pracą takiego silnika w celu uzyskania optymalnych dla danego zastosowania parametrów pracy. Projekt zakłada uzyskanie pełnowartościowego, w pełni funkcjonalnego i prostego w konfiguracji urządzenia przy minimalnym nakładzie finansowym w sensie materiałów potrzebnych do jego budowy i póżniejszej obsługi.
 
