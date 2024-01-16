@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Otwartoźródłowy Sterownik Silnika Spalinowego czyli OSSS"
+title:  "Otwartoźródłowy Sterownik Silnika Spalinowego"
 author: UZ
-categories: [ opensoftware, openhardware, sterownik silnika spalinowego, tuning, kogeneracja, agregat prądotwórczy, sport motorowy ]
+categories: [ energoelektronika, opensoftware, openhardware, sterownik silnika spalinowego, tuning, kogeneracja, agregat prądotwórczy, sport motorowy ]
 image: assets/images/sss.jpg
 tags: [sticky]
 ---
