@@ -6,6 +6,7 @@ categories: [ energoelektronika, opensoftware, openhardware, sterownik silnika s
 image: assets/images/wmo.jpg
 tags: [sticky]
 ---
+Ostatnia aktualizacja: 01.11.2025
 
 Spis treści:
 
@@ -13,27 +14,32 @@ Spis treści:
 2. Po co mi Speeduino?
 3. Co postanowiłem zmienić/uzupełnić w Speeduino i dlaczego?
 4. Konkretne rozwiązania i ich opis. Część teoretyczna.
+   
    Stage one:
-   1. dodanie modułu zapłonowowego na SiC MOSFETach
-   2. dodanie kondycjonera sygnału z czujnika reluktancyjnego położenia wału korbowego
-   3. ???
-   4. ???
+
+   a. dodanie modułu zapłonowowego na SiC MOSFETach </br>
+   b. dodanie kondycjonera sygnału z czujnika reluktancyjnego położenia wału korbowego </br>
+   c. ??? </br>
+   d. ??? </br>
+
    Stage two:
-   1. Użycie AVR128DB64 zamiast ATmega2560.
-   2. Wykrywanie spalania stukowego na drodze DSP
-   3. Prawidłowe wysterowanie wtryskiwaczy niskoimpedancyjnych.
-   4. Możliwość (potencjalna, teoretyczna i jeszcze muszę się zastanowić ;-) ) udawania fabrycznego ECU po podłączeniu do czytnika OBD.
-   5. ???
-   6. ???
-5. Przebieg realizacji.
-6. Efekty i wnioski.
+
+   a. Użycie AVR128DB64 zamiast ATmega2560. </br>
+   b. Wykrywanie spalania stukowego na drodze DSP. </br>
+   c. Prawidłowe wysterowanie wtryskiwaczy niskoimpedancyjnych. </br>
+   d. Możliwość (potencjalna, teoretyczna i jeszcze muszę się zastanowić ;-) ) udawania fabrycznego ECU po podłączeniu do czytnika OBD. </br>
+   e. ??? </br>
+   f. ??? </br>
+   
+6. Przebieg realizacji.
+7. Efekty i wnioski.
    
 
 
 <!--
 ![walking]({{ site.baseurl }}/assets/images/sssm.png)
 -->
-
+</br></br></br></br>
 to be continued...
 
 
