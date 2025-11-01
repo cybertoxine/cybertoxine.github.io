@@ -14,16 +14,16 @@ Spis treści:
 2. Po co mi Speeduino?
 3. Co postanowiłem zmienić/uzupełnić w Speeduino i dlaczego?
 4. Konkretne rozwiązania i ich opis. Część teoretyczna.
-   
+   </br>
    Stage one:
-
+   </br>
    a. dodanie modułu zapłonowowego na SiC MOSFETach </br>
    b. dodanie kondycjonera sygnału z czujnika reluktancyjnego położenia wału korbowego </br>
    c. ??? </br>
-   d. ??? </br>
-
+   d. ??? 
+</br>
    Stage two:
-
+</br>
    a. Użycie AVR128DB64 zamiast ATmega2560. </br>
    b. Wykrywanie spalania stukowego na drodze DSP. </br>
    c. Prawidłowe wysterowanie wtryskiwaczy niskoimpedancyjnych. </br>
