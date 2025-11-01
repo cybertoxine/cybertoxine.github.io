@@ -6,7 +6,7 @@ categories: [ energoelektronika, opensoftware, openhardware, sterownik silnika s
 image: assets/images/wmo.jpg
 tags: [sticky]
 ---
-Ostatnia aktualizacja: 01.11.2025
+<p style="color:green;">Ostatnia aktualizacja: 01.11.2025</p>
 
 <b>Spis treści:</b>
 
