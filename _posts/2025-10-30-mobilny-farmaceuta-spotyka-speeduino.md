@@ -17,7 +17,7 @@ u tego jegomościa powodują wzwody".\
 "Gdybym tak na ciuchy, szpilki i zegarki\
 dostawała tyle ile kosztują go turbo te sprężarki...\
 ...pokochałabym" - Pomyślała Ruda -\
-"Same tu pijaki a w robocie nuda."\ 
+"Same tu pijaki a w robocie nuda." 
 
 <p style="color:green;">Ostatnia aktualizacja: 01.11.2025</p>
 
