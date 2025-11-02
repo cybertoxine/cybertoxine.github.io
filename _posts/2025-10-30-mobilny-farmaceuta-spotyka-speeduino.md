@@ -6,18 +6,7 @@ categories: [ energoelektronika, opensoftware, openhardware, sterownik silnika s
 image: assets/images/wmo.jpg
 tags: [sticky]
 ---
-Pod Debrzeńskim lasem stało raz Seicento.\
-Wieśniaczkom się nie podobało. Bez butów panienkom.\
-Kierowca też chyba nie trafiał w ich gusta.\
-"Na buty mi nie da!" Mówiła raz Tłusta.\
-\
-Chuda powiedziała "tylko samochody\
-u tego jegomościa powodują wzwody".\
-\
-"Gdybym tak na ciuchy, szpilki i zegarki\
-dostawała tyle ile kosztują go turbo te sprężarki...\
-...pokochałabym" - Pomyślała Ruda -\
-"Same tu pijaki a w robocie nuda." 
+
 
 <p style="color:green;">Ostatnia aktualizacja: 01.11.2025</p>
 
@@ -38,7 +27,22 @@ dostawała tyle ile kosztują go turbo te sprężarki...\
    - [5e] ???   
 - [6] Przebieg realizacji.
 - [7] Efekty i wnioski.
-   
+
+
+Tymczasem w Debrznie:
+
+Pod Debrzeńskim lasem stało raz Seicento.\
+Wieśniaczkom się nie podobało. Bez butów panienkom.\
+Kierowca też chyba nie trafiał w ich gusta.\
+"Na buty mi nie da!" Mówiła raz Tłusta.\
+\
+Chuda powiedziała "tylko samochody\
+u tego jegomościa powodują wzwody".\
+\
+"Gdybym tak na ciuchy, szpilki i zegarki\
+dostawała tyle ile kosztują go turbo te sprężarki...\
+...pokochałabym" - Pomyślała Ruda -\
+"Same tu pijaki a w robocie nuda." 
 
 
 <!--
