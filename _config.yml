@@ -1,5 +1,5 @@
 # Site
-name: 'UZBlog'
+name: 'Blog Mobilnego Farmaceuty czyli apteczne schizy kontra motoryzacyjny realizm.'
 description: 'blabla.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -19,12 +19,12 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    UZ:
-      name:           Uzet
+    MF:
+      name:           Piotrek
       site:           https://cybertoxine.github.io
       avatar:         assets/images/avatar777.jpg
-      bio:            "Farmaceuta, Elektromechanik Pojazdów Samochodowych. Lubi jeździć Rometem po lesie i zbierać owoce, ziółka oraz kwiatki."
-      email:          piog@op.pl zbi
+      bio:            "Farmaceuta, Elektromechanik Pojazdów Samochodowych. Mieszka na zmianę w Braniewie albo w Daewoo Lanosie (nawet zimą). Ma kampera ze styroszmatu. Lubi jeździć Rometem Ogarem 202 po lesie i zbierać owoce, ziółka oraz kwiatki. Na wiosnę zawsze zasala śledzie."
+      email:          piog@op.pl 
       twitter:        
  
 # Defaults
@@ -35,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: UZ
-      avatar: assets/images/avatar1.jpg
+      author: MF
+      avatar: assets/images/avatar777.jpg
       
   # all pages
   - scope:
