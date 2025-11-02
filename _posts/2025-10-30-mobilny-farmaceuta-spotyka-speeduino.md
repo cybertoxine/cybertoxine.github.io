@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mobilny Farmaceuta spotyka Speeduino."
-author: UZ
+author: MF
 categories: [ energoelektronika, opensoftware, openhardware, sterownik silnika spalinowego, tuning, kogeneracja, agregat prądotwórczy, sport motorowy ]
 image: assets/images/wmo.jpg
 tags: [sticky]
