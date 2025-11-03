@@ -29,6 +29,10 @@ tags: [sticky]
 - [7] Efekty i wnioski.
 
 
+[4a]
+
+![walking]({{ site.baseurl }}/assets/images/sicignition.png)
+
 Tymczasem w Debrznie:
 
 Pod Debrzeńskim lasem stało raz Seicento.\
@@ -45,9 +49,7 @@ dostawała tyle ile kosztują go turbo te sprężarki...\
 "Same tu pijaki a w robocie nuda." 
 
 
-<!--
-![walking]({{ site.baseurl }}/assets/images/sssm.png)
--->
+
 
 
 
