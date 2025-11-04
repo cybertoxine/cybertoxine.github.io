@@ -33,11 +33,20 @@ tags: [sticky]
 
 ![walking]({{ site.baseurl }}/assets/images/sicignition.png)
 
-U1, U2 - Niezbyt szybkie transoptory. Szybkość podczas załączania nie jest potrzebna, prąd płynący w uzwojeniu pierwotnym cewki zapłonowej i tak narasta powoli.
+- U1, U2 - Niezbyt szybkie transoptory. Szybkość podczas załączania nie jest potrzebna, prąd płynący w uzwojeniu pierwotnym cewki zapłonowej i tak narasta powoli.
 Dałem dwie sztuki bo koszt prawie zerowy a mamy większą wydajność prądową. Układ przez to jest pewniejszy - czasem przy częściowym uszkodzeniu bramki MOSFET-a potrafi płynąć niewielki prąd. Poza tym wilgoć itd.
+
 U3 - Szybki transoptor, powoduje momentalne załączenie T2 i prawie natychmiastowe sprowadzenie potencjału bramki MOSFET-a do 0V. Tu szybkość jest ważna bo cewka ma wygenerować stromy pik napięcia po stronie wtórnej.
+
 T1 - MOSFET z węglika krzemu. Podczas przeglądania for na temat speeduino kilka razy natknąłem się na wpisy opisujące problem zakłucania pracy mikrokontrolera przez moduł zapłonowy.
 Postanowiłem więc maksymalnie odizolować obwód wysokiego napięcia od obwodów mikrokontrolera. T1 ma malutką pojemność dren-bramka i dren-źródło co skutkuje niewielkim przedostawaniem się zakłuceń ze strony pierwotnej cewki zapłonowej w stronę mikrokontrolera. Dodatkową izolację z apewniają U1,U2 i U3. Tranzystor jest dość drogi (około 20zł) ale ze względu na wspomniane wyżej małe pojemności wewnętrzne, małą rezystancję w stanie załączenia, dopuszczalne bardzo wysokie napięcie pracy, prawie niezmieniające się wraz ze zmianą temperatury parametry, szybkość wyłączania (w przeciwieństwie do IGBT brak "ogona prądowego") i odporność na wysokie temperatury wart swojej ceny biorąc pod uwagę warunki panujące w okolicach sportowo eksploatowanego silnika spalinowego.
+
+T2 - Rozładowuje bramkę T1 przez R6 po zadziałaniu U3.
+
+T3 - Element obwodu ograniczającego prąd płynący przez cewkę. Gdy napięcie na R8 przekroczy 0.6V T3 zaczyna rozładowywać bramkę T1 działając w kontrze do U1 i U2.
+
+D1 - Dioda Shottky z węglika krzemu. Element obwodu ograniczającego piki wysokiego napięcia po stronie wtórnej, zabezpieczającego T1 i cewkę przed uszkodzeniem. Kombinacja dużej szybkości i wysokiego dopuszczalnego napięcia wstecznego.
+
 
 
 
