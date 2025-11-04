@@ -33,7 +33,7 @@ tags: [sticky]
 
 ![walking]({{ site.baseurl }}/assets/images/sicignition.png)
 
-- U1, U2 - Niezbyt szybkie transoptory. Szybkość podczas załączania nie jest potrzebna, prąd płynący w uzwojeniu pierwotnym cewki zapłonowej i tak narasta powoli.
+U1, U2 - Niezbyt szybkie transoptory. Szybkość podczas załączania nie jest potrzebna, prąd płynący w uzwojeniu pierwotnym cewki zapłonowej i tak narasta powoli.
 Dałem dwie sztuki bo koszt prawie zerowy a mamy większą wydajność prądową. Układ przez to jest pewniejszy - czasem przy częściowym uszkodzeniu bramki MOSFET-a potrafi płynąć niewielki prąd. Poza tym wilgoć itd.
 
 U3 - Szybki transoptor, powoduje momentalne załączenie T2 i prawie natychmiastowe sprowadzenie potencjału bramki MOSFET-a do 0V. Tu szybkość jest ważna bo cewka ma wygenerować stromy pik napięcia po stronie wtórnej.
@@ -46,6 +46,43 @@ T2 - Rozładowuje bramkę T1 przez R6 po zadziałaniu U3.
 T3 - Element obwodu ograniczającego prąd płynący przez cewkę. Gdy napięcie na R8 przekroczy 0.6V T3 zaczyna rozładowywać bramkę T1 działając w kontrze do U1 i U2.
 
 D1 - Dioda Shottky z węglika krzemu. Element obwodu ograniczającego piki wysokiego napięcia po stronie wtórnej, zabezpieczającego T1 i cewkę przed uszkodzeniem. Kombinacja dużej szybkości i wysokiego dopuszczalnego napięcia wstecznego.
+.
+D2-D8 - Diody Zenera. Odkłada się na nich moc przepięć ze strony pierwotnej. Każda z nich ma napięcie przebicia lawinowego wynoszące 200V więc zabezpieczenie zaczyna działać "miękko" (dzięki R9) przy 600V i "twardo" przy 800V.
+
+D9 - Dioda Zenera. Zabezpieczenie przed pikami napięcia mogącymi pojawić się na bramce T1.
+
+C1 - Niskoimpedancyjny elekrolit 105st. C w obwodzie 12V.
+
+C2 - Dodatkowa "przycięcie" szybkozmiennych sygnałów.
+
+C3 - Stabilizacja napięcia na D2-D8 oraz zniwelowanie indukcyjności obwodu zawierającego diody Zenera. 
+
+C4 - Wiadomo. Na szynie 20V.
+
+R1 - Ograniczenie prądu płynącego przez U3 i bramkę T2.
+
+R2 - Przyspieszenie wyłączania T2.
+
+R3, R4 - Ograniczenie prądu płynącego przez U1 i U2.
+
+R5 - Opór na tyle niewielki, że "przeważa" nad R3 i R4 w momencie zadziałania ograniczenia prądu płynącego przez cewkę.
+
+R6 - Ograniczenie prądu płynącego przez T2. 
+
+R7 - Ograniczenie prądu płynącego przez bramkę T3 w momencie zadziałania ograniczenia prądu cewki.
+
+R8 - Ustala maksymalną wartość prądu cewki. Pełni rolę bezpiecznika w razie uszkodzenia T1.
+
+R9 - Punkt w którym można nawet bez oscyloskopu sprawdzić, czy napięcie w obwodzie pierwotnym cewki nie jest zbyt wysokie.
+
+
+
+
+
+
+
+
+
 
 
 
