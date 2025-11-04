@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 03.11.2025</p>
+<p style="color:green;">Ostatnia aktualizacja: 04.11.2025</p>
 
 <b>Spis treści:</b>
 
@@ -75,6 +75,9 @@ R8 - Ustala maksymalną wartość prądu cewki. Pełni rolę bezpiecznika w razi
 
 R9 - Punkt w którym można nawet bez oscyloskopu sprawdzić, czy napięcie w obwodzie pierwotnym cewki nie jest zbyt wysokie.
 
+R10 - Ograniczenie prądu płynącego przez LED-a w U3.
+
+R11 - Ograniczenie prądu płynącego przez LED-y w U1 i U2.
 
 
 
