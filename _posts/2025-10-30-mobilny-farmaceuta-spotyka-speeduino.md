@@ -29,7 +29,7 @@ tags: [sticky]
 - [7] Efekty i wnioski.
 
 
-[4a]
+<p style="border: 2px solid red; border-radius: 10px; background-color: white;">[4a]</p>
 
 ![walking]({{ site.baseurl }}/assets/images/sicignition.png)
 
