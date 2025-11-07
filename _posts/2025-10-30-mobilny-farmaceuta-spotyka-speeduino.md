@@ -79,6 +79,20 @@ R10 - Ograniczenie prądu płynącego przez LED-a w U3.
 
 R11 - Ograniczenie prądu płynącego przez LED-y w U1 i U2.
 
+![walking]({{ site.baseurl }}/assets/images/boostt.png)
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
 
 ###
 
