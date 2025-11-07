@@ -31,6 +31,10 @@ tags: [sticky]
 
 <p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4a]&nbsp; &nbsp;</span></p>
 
+## Moduł zapłonowy dla jednej cewki:
+
+Dla większej ilości cewek potrzebna wielokrotność poniższego układu.
+
 ![walking]({{ site.baseurl }}/assets/images/sicignition.png)
 
 U1, U2 - Niezbyt szybkie transoptory. Szybkość podczas załączania nie jest potrzebna, prąd płynący w uzwojeniu pierwotnym cewki zapłonowej i tak narasta powoli.
@@ -78,6 +82,8 @@ R9 - Punkt w którym można nawet bez oscyloskopu sprawdzić, czy napięcie w ob
 R10 - Ograniczenie prądu płynącego przez LED-a w U3.
 
 R11 - Ograniczenie prądu płynącego przez LED-y w U1 i U2.
+
+## Przetwornica napięcia do zasilania driverów bramek SiC-MOSFET-ów:
 
 ![walking]({{ site.baseurl }}/assets/images/boostt.png)
 
