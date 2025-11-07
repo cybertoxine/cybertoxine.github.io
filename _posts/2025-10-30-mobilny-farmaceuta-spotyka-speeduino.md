@@ -81,6 +81,17 @@ R11 - Ograniczenie prądu płynącego przez LED-y w U1 i U2.
 
 ![walking]({{ site.baseurl }}/assets/images/boostt.png)
 
+C1  - Niskoimpedancyjny elektrolityczny.
+
+C2 - Niskoimpedancyjny elektrolityczny. Chociaż chyba lepiej tu tantalowy 25V.
+
+U1 - Dobry, tani, nieco przestarzały już układ scalony przetwornicy. 52KHz, cycle by cycle current limit przy 5A. Tutaj w nietypowej konfiguracji buck-boost, nieopisanej w nocie katalogowej.
+Przewymiarowane bo IC jest w stanie "przepompować" 20W mocy w tej topologii i przy tym napięciu zasilania. Zdecydowałem się jednak na ten układ bo modyfikując L1 można łatwo uzyskać szereg wyjść o różnych napięciach. Oprócz 20V potrzebne jest 5V. Prawdopodobnie przyda się też 3.3V. Prawdopodobnie zajdzie potrzeba zasilenia bramek high side N-MOSFET-ów z izolowanego, "pływającego" uzwojenia. Narazie niech tak zostanie (prosto, tanio, wystarczająco dobrze i elastycznie).
+
+T1 - MOSFET z pojemnością bramki tylko 300pF.
+
+D1 - Zaczyna przewodzić gdy górny klucz wbudowany w U1 przestaje przewodzić.
+
 #
 #
 #
