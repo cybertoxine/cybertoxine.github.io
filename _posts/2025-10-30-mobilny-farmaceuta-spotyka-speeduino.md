@@ -92,6 +92,22 @@ T1 - MOSFET z pojemnością bramki tylko 300pF.
 
 D1 - Zaczyna przewodzić gdy górny klucz wbudowany w U1 przestaje przewodzić.
 
+D2, D3 - Zabezpieczenie bramki T1 przed przepięciami.
+
+D4 - Jak D1. Na zmianę przewodzą U1 + T1 i D1 + D4. Kondensator wyjściowy jest ładowany tylko w czasie zanikania pola magnetycznego w dławiku więc łatwo "doczepić" wiele wyjść, jak w flybacku.
+
+D5 - Jakiś LED o znamionowym ciągłym prądzie pracy większym bądź równym 20mA.
+
+R1 - Szeregowo z bramką T1.
+
+R2 - Ograniczenie prądu płynącego przez LED, niewielkie wstępne obciążenie przetwornicy.
+
+R3, R4 - Dzielnik napięcia, ustala napięcie wyjściowe.
+
+L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być mały, stratny i o większej indukcyjności.
+
+
+
 #
 #
 #
