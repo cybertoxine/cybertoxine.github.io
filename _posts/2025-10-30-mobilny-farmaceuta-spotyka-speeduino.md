@@ -116,11 +116,11 @@ L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być
 
 <p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4b]&nbsp; &nbsp;</span></p>
 
-### Dwa różne podejścia do sprawy. Analogowe i cyfowe.
+### Dwa różne podejścia do sprawy. Analogowe i cyfrowe.
 
 Najprostsze z sensownych analogowe z izolacją galwaniczną:
 
-![walking]({{ site.baseurl }}/assets/images/signal2.png)
+![walking]({{ site.baseurl }}/assets/images/signal3.png)
 
 
 
