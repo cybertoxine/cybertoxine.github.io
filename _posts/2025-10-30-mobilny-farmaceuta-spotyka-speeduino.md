@@ -118,6 +118,10 @@ L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być
 
 ### Dwa różne podejścia do sprawy. Analogowe i cyfowe.
 
+Najprostsze z sensownych analogowe z izolacją galwaniczną:
+
+![walking]({{ site.baseurl }}/assets/images/signal.png)
+
 
 
 #
