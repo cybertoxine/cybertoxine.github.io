@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 07.11.2025</p>
+<p style="color:green;">Ostatnia aktualizacja: 12.11.2025</p>
 
 <b>Spis treści:</b>
 
@@ -22,9 +22,10 @@ tags: [sticky]
 - [5] Konkretne rozwiązania etapu drugiego i ich opis (część teoretyczna).
    - [5a] Użycie AVR128DB64 zamiast ATmega2560. 
    - [5b] Wykrywanie spalania stukowego na drodze DSP. 
-   - [5c] Prawidłowe wysterowanie wtryskiwaczy niskoimpedancyjnych. 
+   - [5c] Prawidłowe wysterowanie benzynowych wtryskiwaczy niskoimpedancyjnych. 
    - [5d] Możliwość udawania fabrycznego ECU po podłączeniu do czytnika OBD.
-   - [5e] ???   
+   - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
+   - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod pisany w assemblerze, na RISC-V w Pythonie.
 - [6] Przebieg realizacji.
 - [7] Efekty i wnioski.
 
@@ -113,6 +114,11 @@ R3, R4 - Dzielnik napięcia, ustala napięcie wyjściowe.
 L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być mały, stratny i o większej indukcyjności.
 
 
+<p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4a]&nbsp; &nbsp;</span></p>
+
+### Dwa różne podejścia do sprawy. Analogowe i cyfowe.
+
+
 
 #
 #
@@ -127,22 +133,6 @@ L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być
 #
 
 
-###
-
-Tymczasem w Debrznie:
-
-Pod Debrzeńskim lasem stało raz Seicento.\
-Wieśniaczkom się nie podobało. Bez butów panienkom.\
-Kierowca też chyba nie trafiał w ich gusta.\
-"Na buty mi nie da!" Mówiła raz Tłusta.\
-\
-Chuda powiedziała "tylko samochody\
-u tego jegomościa powodują wzwody".\
-\
-"Gdybym tak na ciuchy, szpilki i zegarki\
-dostawała tyle ile kosztują go turbo te sprężarki...\
-...pokochałabym" - Pomyślała Ruda -\
-"Same tu pijaki a w robocie nuda." 
 
 
 
