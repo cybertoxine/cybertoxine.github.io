@@ -120,7 +120,7 @@ L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być
 
 Najprostsze z sensownych analogowe z izolacją galwaniczną:
 
-![walking]({{ site.baseurl }}/assets/images/signal.png)
+![walking]({{ site.baseurl }}/assets/images/signal2.png)
 
 
 
