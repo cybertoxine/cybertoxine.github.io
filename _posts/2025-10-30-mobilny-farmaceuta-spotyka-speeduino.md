@@ -25,7 +25,7 @@ tags: [sticky]
    - [5c] Prawidłowe wysterowanie benzynowych wtryskiwaczy niskoimpedancyjnych. 
    - [5d] Możliwość udawania fabrycznego ECU po podłączeniu do czytnika OBD.
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
-   - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod pisany w assemblerze, na RISC-V w Pythonie.
+   - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji.
 - [7] Efekty i wnioski.
 
@@ -114,7 +114,7 @@ R3, R4 - Dzielnik napięcia, ustala napięcie wyjściowe.
 L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być mały, stratny i o większej indukcyjności.
 
 
-<p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4a]&nbsp; &nbsp;</span></p>
+<p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4b]&nbsp; &nbsp;</span></p>
 
 ### Dwa różne podejścia do sprawy. Analogowe i cyfowe.
 
