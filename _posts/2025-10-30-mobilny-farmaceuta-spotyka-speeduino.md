@@ -122,6 +122,14 @@ Najprostsze z sensownych analogowe z izolacją galwaniczną:
 
 ![walking]({{ site.baseurl }}/assets/images/signal3.png)
 
+Ten sam układ z dodaną kompensacją bicia koła z wieńcem zębatym:
+
+![walking]({{ site.baseurl }}/assets/images/signal3c.png)
+
+Różnica polega na tym, że teraz układ "stara się" utrzymać stały, równy stosunek czasów trwania stanów wysokich i niskich na wyjściu U2.
+
+
+
 
 
 #
