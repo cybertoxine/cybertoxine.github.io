@@ -124,7 +124,7 @@ Najprostsze z sensownych analogowe z izolacją galwaniczną:
 
 Ten sam układ z dodaną kompensacją "falowania" sygnału z czujnika. Falowania będącego skutkiem bicia na kole z wieńcem zębatym:
 
-![walking]({{ site.baseurl }}/assets/images/signal3c.png)
+![walking]({{ site.baseurl }}/assets/images/signal3c2.png)
 
 Różnica polega na tym, że teraz układ "stara się" utrzymać stały, równy stosunek czasów trwania stanów wysokich i niskich na wyjściu U2.
 
