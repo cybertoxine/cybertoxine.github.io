@@ -122,7 +122,7 @@ Najprostsze z sensownych analogowe z izolacją galwaniczną:
 
 ![walking]({{ site.baseurl }}/assets/images/signal3.png)
 
-Ten sam układ z dodaną kompensacją bicia koła z wieńcem zębatym:
+Ten sam układ z dodaną kompensacją "falowania" sygnału z czujnika. Falowania będącego skutkiem bicia na kole z wieńcem zębatym:
 
 ![walking]({{ site.baseurl }}/assets/images/signal3c.png)
 
