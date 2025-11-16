@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Droga do praktycznego wykorzystania ogniwa glinowo-tlenowego. Pół-bateria-pół-ogniwo paliwowe w akompaniamencie niskorezystancyjnych kluczy."
-author: UZ
+author: MF
 categories: [ elektrochemia, energoelektronika ]
 image: assets/images/aluair.jpg
 tags: [ featured ]
