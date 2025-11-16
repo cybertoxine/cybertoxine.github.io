@@ -118,6 +118,8 @@ L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być
 
 ### Dwa różne podejścia do sprawy. Analogowe i cyfrowe.
 
+## Analogowe:
+
 Najprostsze z sensownych analogowe z izolacją galwaniczną:
 
 ![walking]({{ site.baseurl }}/assets/images/signal3.png)
@@ -135,6 +137,7 @@ Wątpię by izolacja galwaniczna okazała się potrzebna. Poniżej rozwiązanie 
 Koszt elementów elektronicznych potrzebnych do zbudowania powyższego układu nie przekracza 10zł. LM324, 3 tranzystory, 3 optoizolatory, kilka diod, kondensatorów i rezystorów.
 Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens. Nie podaję tutaj wartości elementów gdyż nie potrafię do końca przewidzieć jak układ się zachowa. Niby LM324B powinien "się wyrabiać" przy 10kHz na wyjściu czujnika VR. Muszę nad tym posiedzieć z oscyloskopem.
 
+## Cyfrowe:
 
 
 
