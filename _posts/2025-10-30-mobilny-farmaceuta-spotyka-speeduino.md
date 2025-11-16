@@ -133,7 +133,7 @@ Wątpię by izolacja galwaniczna okazała się potrzebna. Poniżej rozwiązanie 
 ![walking]({{ site.baseurl }}/assets/images/signal4.png)
 
 Koszt elementów elektronicznych potrzebnych do zbudowania powyższego układu nie przekracza 10zł. LM324, 3 tranzystory, 3 optoizolatory, kilka diod, kondensatorów i rezystorów.
-Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens.
+Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens. Nie podaję tutaj wartości elementów gdyż nie potrafię do końca przewidzieć jak układ się zachowa. Niby LM324B powinien "się wyrabiać" przy 10kHz na wyjściu czujnika VR. Muszę nad tym posiedzieć z oscyloskopem.
 
 
 
