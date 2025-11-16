@@ -128,6 +128,14 @@ Ten sam układ z dodaną kompensacją "falowania" sygnału z czujnika. Falowania
 
 Różnica polega na tym, że teraz układ "stara się" utrzymać stały, równy stosunek czasów trwania stanów wysokich i niskich na wyjściu U2.
 
+Wątpię by izolacja galwaniczna okazała się potrzebna. Poniżej rozwiązanie optymalne - regulacja wzmocnienia, symetryzacja, ukształtowanie prostokątnego sygnału wyściowego, bez izolacji galwanicznej.
+
+![walking]({{ site.baseurl }}/assets/images/signal4.png)
+
+Koszt elementów elektronicznych potrzebnych do zbudowania powyższego układu nie przekracza 10zł. LM324, 3 tranzystory, 3 optoizolatory, kilka diod, kondensatorów i rezystorów.
+Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens.
+
+
 
 
 
