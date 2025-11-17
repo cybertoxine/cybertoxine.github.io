@@ -139,8 +139,8 @@ Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie w
 
 ## Cyfrowe (DSP):
 
-Problemy opisane przy okazji przedstawiania możliwych rozwiązań analogowych są możliwe do rozwiązania za pomocą mikrokontrlera w cenie paczki chipsów,
-Za przykład niech posłuży ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
+Problemy opisane przy okazji przedstawiania rozwiązań analogowych są możliwe do rozwiązania za pomocą mikrokontrlera w cenie paczki chipsów.
+Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
 Tor analogowy tego mikrokontrolera posiada pasmo ograniczone od góry ze spadkiem o 3dB w punkcie 38.5 KHz (dla konwersji różnicowych 4KHz).
 W kilku miejscach w sieci ludzie raportowali, że przetwornik AD w tym mikrokontolerze potrafi pracować z precyzją bliską 8 bitów gdy taktowany jest zegarem 2MHz.
 Daje to częstotliwość próbkowania 2 mln/13/s = 153KHz i 104 cykle szybkiego, krótkopotokowego rdzenia na 1 próbkę. Wystarczająco dobrze,
