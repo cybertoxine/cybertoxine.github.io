@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 16.11.2025</p>
+<p style="color:green;">Ostatnia aktualizacja: 17.11.2025</p>
 
 <b>Spis treści:</b>
 
@@ -137,7 +137,16 @@ Wątpię by izolacja galwaniczna okazała się potrzebna. Poniżej rozwiązanie 
 Koszt elementów elektronicznych potrzebnych do zbudowania powyższego układu nie przekracza 10zł. LM324, 3 tranzystory, 3 optoizolatory, kilka diod, kondensatorów i rezystorów.
 Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens. Nie podaję tutaj wartości elementów gdyż nie potrafię do końca przewidzieć jak układ się zachowa. Niby LM324B powinien "się wyrabiać" przy 10kHz na wyjściu czujnika VR. Muszę nad tym posiedzieć z oscyloskopem.
 
-## Cyfrowe:
+## Cyfrowe (DSP):
+
+Problemy opisane przy okazji przedstawiania możliwych rozwiązań analogowych są możliwe do rozwiązania za pomocą mikrokontrlera w cenie paczki chipsów,
+Za przykład niech posłuży ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
+Tor analogowy tego mikrokontrolera posiada pasmo ograniczone od góry ze spadkiem o 3dB w punkcie 38.5 KHz (dla konwersji różnicowych 4KHz).
+W kilku miejscach w sieci ludzie raportowali, że przetwornik AD w tym mikrokontolerze potrafi pracować z precyzją bliską 8 bitów gdy taktowany jest zegarem 2MHz.
+Daje to częstotliwość próbkowania 2 mln/13/s = 153KHz i 104 cykle szybkiego, krótkopotokowego rdzenia na 1 próbkę. Wystarczająco dobrze,
+Niestety rdzeń wspomnianego ATtiny pozbawiono możliwości wykonywania instrukcji MUL, a szkoda. Utrudnia to lub uniemożliwia implementację bardziej złożonych algorytmów.
+No ale "good enough is good enough" i do tego wczoraj wieczorem kosztował 3zł przy zakupie 100 sztuk. 
+Prawdopodobnie udałoby się znaleźć coś tańszego jednak z punktu widzenia hobbysty z ograniczonymi zasobami czasowymi bardzo ważna jest dobra dokumentacja i "rozpracowanie" jakim dany układ może się pochwalić w społeczności. Rozkodowanie XXX stron chińskich znaczków jest czaso- i energo-chłonne nawet z pomocą AI.
 
 
 
