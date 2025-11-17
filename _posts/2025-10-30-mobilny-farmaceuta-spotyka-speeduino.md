@@ -141,7 +141,7 @@ Najlepszym ustawieniem wydaje się być 1.5 mln/13/s = 115KHz i 208 cykli rdzeni
 
 Niestety rdzeń wspomnianego ATtiny pozbawiono możliwości wykonywania instrukcji MUL, a szkoda. Utrudnia to albo uniemożliwia implementację bardziej złożonych algorytmów.
 
-![walking]({{ site.baseurl }}/assets/images/tiny44k.png)
+![walking]({{ site.baseurl }}/assets/images/tiny44k2.png)
 
 
 
