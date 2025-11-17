@@ -17,8 +17,8 @@ tags: [sticky]
 - [3] Co postanowiłem zmienić/uzupełnić w Speeduino i dlaczego?
 - [4] Konkretne rozwiązania etapu pierwszego i ich opis (część teoretyczna).
    - [4a] Dodanie modułu zapłonowowego na SiC MOSFETach. 
-   - [4b] Dodanie kondycjonera sygnału z czujnika reluktancyjnego położenia wału korbowego. 
-   - [4c] ???
+   - [4b] Przetwornica.
+   - [4c] Dodanie kondycjonera sygnału z czujnika reluktancyjnego położenia wału korbowego.  
 - [5] Konkretne rozwiązania etapu drugiego i ich opis (część teoretyczna).
    - [5a] Użycie AVR128DB64 zamiast ATmega2560. 
    - [5b] Wykrywanie spalania stukowego na drodze DSP. 
@@ -84,7 +84,9 @@ R10 - Ograniczenie prądu płynącego przez LED-a w U3.
 
 R11 - Ograniczenie prądu płynącego przez LED-y w U1 i U2.
 
-## Przetwornica napięcia do zasilania driverów bramek SiC-MOSFET-ów:
+<p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4b]&nbsp; &nbsp;</span></p>
+
+## Przetwornica napięcia. (zasilanie m.in. driverów bramek SiC-MOSFET-ów):
 
 ![walking]({{ site.baseurl }}/assets/images/boostt.png)
 
@@ -114,23 +116,13 @@ R3, R4 - Dzielnik napięcia, ustala napięcie wyjściowe.
 L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być mały, stratny i o większej indukcyjności.
 
 
-<p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4b]&nbsp; &nbsp;</span></p>
+<p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4c]&nbsp; &nbsp;</span></p>
 
-### Dwa różne podejścia do sprawy. Analogowe i cyfrowe.
+## Kondycjoner sygnału z czujnika reluktancyjnego położenia wału korbowego. Dwa różne podejścia do sprawy. Analogowe i cyfrowe.
 
 ## Analogowe:
 
-Najprostsze z sensownych analogowe z izolacją galwaniczną:
-
-![walking]({{ site.baseurl }}/assets/images/signal3.png)
-
-Ten sam układ z dodaną kompensacją "falowania" sygnału z czujnika. Falowania będącego skutkiem bicia na kole z wieńcem zębatym:
-
-![walking]({{ site.baseurl }}/assets/images/signal3c2.png)
-
-Różnica polega na tym, że teraz układ "stara się" utrzymać stały, równy stosunek czasów trwania stanów wysokich i niskich na wyjściu U2.
-
-Wątpię by izolacja galwaniczna okazała się potrzebna. Poniżej rozwiązanie optymalne - regulacja wzmocnienia, symetryzacja, ukształtowanie prostokątnego sygnału wyściowego, bez izolacji galwanicznej.
+Regulacja wzmocnienia, przesuwanie przebiegu w stronę zera, ukształtowanie prostokątnego sygnału wyściowego, bez izolacji galwanicznej:
 
 ![walking]({{ site.baseurl }}/assets/images/signal4.png)
 
@@ -139,15 +131,16 @@ Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie w
 
 ## Cyfrowe (DSP):
 
-Problemy opisane przy okazji przedstawiania rozwiązań analogowych są możliwe do rozwiązania za pomocą mikrokontrlera w cenie paczki chipsów.
+Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do rozwiązania za pomocą mikrokontrolera w cenie paczki chipsów.
 Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
-Tor analogowy tego mikrokontrolera posiada pasmo ograniczone od góry ze spadkiem o 3dB w punkcie 38.5 KHz (dla konwersji różnicowych 4KHz).
-W kilku miejscach w sieci ludzie raportowali, że przetwornik AD w ATtiny44A potrafi pracować z precyzją bliską 8 bitów gdy taktowany jest zegarem 2MHz.
-Daje to częstotliwość próbkowania 2 mln/13/s = 153KHz i 104 cykle szybkiego, krótkopotokowego rdzenia na 1 próbkę. Wystarczająco dobrze,
-Niestety rdzeń wspomnianego ATtiny pozbawiono możliwości wykonywania instrukcji MUL, a szkoda. Utrudnia to albo uniemożliwia implementację bardziej złożonych algorytmów.
-"Good enough is good enough" i do tego wczoraj wieczorem kosztował 3zł przy zakupie 100 sztuk. 
-Prawdopodobnie udałoby się znaleźć coś tańszego jednak z punktu widzenia hobbysty z ograniczonymi zasobami czasowymi bardzo ważna jest dobra dokumentacja i "rozpracowanie" jakim dany układ może się pochwalić w społeczności. Rozkodowanie XX stron dziwnych dla europejczyka znaczków jest czaso- i energo-chłonne nawet z pomocą AI ponadto dokumentacje najtańszych "chińczyków" wyglądają na okrojone.
+Tor analogowy tego mikrokontrolera posiada pasmo ograniczone od góry ze spadkiem o 3dB w punkcie 38.5 KHz (dla konwersji różnicowych jest to 4KHz).
 
+W kilku miejscach w sieci ludzie raportowali, że przetwornik AD w ATtiny44A potrafi pracować z precyzją bliską 8 bitów gdy taktowany jest zegarem 2MHz.
+Daje to częstotliwość próbkowania 2 mln/13/s = 153KHz i 104 cykle szybkiego, krótkopotokowego rdzenia na 1 próbkę. Wystarczająco dobrze.
+
+Niestety rdzeń wspomnianego ATtiny pozbawiono możliwości wykonywania instrukcji MUL, a szkoda. Utrudnia to albo uniemożliwia implementację bardziej złożonych algorytmów.
+
+![walking]({{ site.baseurl }}/assets/images/tiny44k.png)
 
 
 
