@@ -23,7 +23,7 @@ tags: [sticky]
    - [5a] Użycie AVR128DB64 zamiast ATmega2560. 
    - [5b] Wykrywanie spalania stukowego na drodze DSP. 
    - [5c] Prawidłowe wysterowanie benzynowych wtryskiwaczy niskoimpedancyjnych. 
-   - [5d] Możliwość udawania fabrycznego ECU po podłączeniu do czytnika OBD.
+   - [5d] CAN.
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji.
