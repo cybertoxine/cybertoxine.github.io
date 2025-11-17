@@ -131,12 +131,13 @@ Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie w
 
 ## Cyfrowe (DSP):
 
-Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do rozwiązania za pomocą mikrokontrolera w cenie paczki chipsów.
+Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie paczki chipsów.
 Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
 Tor analogowy tego mikrokontrolera posiada pasmo ograniczone od góry ze spadkiem o 3dB w punkcie 38.5 KHz (dla konwersji różnicowych jest to 4KHz).
 
 W kilku miejscach w sieci ludzie raportowali, że przetwornik AD w ATtiny44A potrafi pracować z precyzją bliską 8 bitów gdy taktowany jest zegarem 2MHz.
-Daje to częstotliwość próbkowania 2 mln/13/s = 153KHz i 104 cykle szybkiego, krótkopotokowego rdzenia na 1 próbkę. Wystarczająco dobrze.
+Daje to częstotliwość próbkowania 2 mln/13/s = 153KHz i 104 cykle (przy zegarze 16MHz z wewnętrznego oscylatora) szybkiego, krótkopotokowego rdzenia na 1 próbkę. Wystarczająco dobrze.
+Najlepszym ustawieniem wydaje się być 1.5 mln/13/s = 115KHz i 208 cykli rdzenia na próbkę (lekkie przetaktowanie do 24MHz), jednak wtedy należałoby dołożyć zewnętrzny oscylator.
 
 Niestety rdzeń wspomnianego ATtiny pozbawiono możliwości wykonywania instrukcji MUL, a szkoda. Utrudnia to albo uniemożliwia implementację bardziej złożonych algorytmów.
 
