@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 17.11.2025</p>
+<p style="color:green;">Ostatnia aktualizacja: 20.11.2025</p>
 
 <b>Spis treści:</b>
 
@@ -128,6 +128,10 @@ Regulacja wzmocnienia, przesuwanie przebiegu w stronę zera, ukształtowanie pro
 
 Koszt elementów elektronicznych potrzebnych do zbudowania powyższego układu nie przekracza 10zł. LM324, 3 tranzystory, 3 optoizolatory, kilka diod, kondensatorów i rezystorów.
 Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens. Nie podaję tutaj wartości elementów gdyż nie potrafię do końca przewidzieć jak układ się zachowa. Niby LM324B powinien "się wyrabiać" przy 10kHz na wyjściu czujnika VR. Muszę nad tym posiedzieć z oscyloskopem.
+
+## Analogowe uproszczone:
+
+![walking]({{ site.baseurl }}/assets/images/simplean.png)
 
 ## Cyfrowe (DSP):
 
