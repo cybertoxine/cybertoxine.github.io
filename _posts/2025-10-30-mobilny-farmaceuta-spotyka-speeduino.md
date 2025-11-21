@@ -133,6 +133,10 @@ Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie w
 
 ![walking]({{ site.baseurl }}/assets/images/simplean3.png)
 
+Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnału z czujnika przy użyciu pomarańczowych LEDów. Zamiast sprzężenia zwrotnego utrzymjącego 50% wypełnienie sygnału wyjściowego jest tutaj przemieszczanie się (w takt obrotu wału korbowego, chodzi o zmniejszenie wpływu zmian odległości czujnika od wieńca zębatego) punktu odniesienia dla komparatora przy wejściu odwracającym wzmacjniacza. Komparator jest bez histerezy, pozostaje jedynie histereza portu wejściowego mikrokontolera. 
+
+Mimo swojej prostoty układ ma duże szanse na poprawne działanie w rzeczywistych warunkach więc zostanie wykonany w pierwszej kolejności. 
+
 ## Cyfrowe (DSP):
 
 Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie paczki chipsów.
