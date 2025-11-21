@@ -139,6 +139,8 @@ Mimo swojej prostoty układ ma duże szanse na poprawne działanie w rzeczywisty
 
 ## Cyfrowe (DSP):
 
+Mój faworyt.
+
 Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie paczki chipsów.
 Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
 Tor analogowy tego mikrokontrolera posiada pasmo ograniczone od góry ze spadkiem o 3dB w punkcie 38.5 KHz (dla konwersji różnicowych jest to 4KHz).
@@ -150,6 +152,8 @@ Najlepszym ustawieniem wydaje się być 1.5 mln/13/s = 115KHz i 208 cykli rdzeni
 Niestety rdzeń wspomnianego ATtiny pozbawiono możliwości wykonywania instrukcji MUL, a szkoda. Utrudnia to albo uniemożliwia implementację bardziej złożonych algorytmów.
 
 ![walking]({{ site.baseurl }}/assets/images/tiny44k2.png)
+
+
 
 
 
