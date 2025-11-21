@@ -131,7 +131,7 @@ Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie w
 
 ## Analogowe uproszczone:
 
-![walking]({{ site.baseurl }}/assets/images/simplean2.png)
+![walking]({{ site.baseurl }}/assets/images/simplean3.png)
 
 ## Cyfrowe (DSP):
 
