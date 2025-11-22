@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 20.11.2025</p>
+<p style="color:green;">Ostatnia aktualizacja: 22.11.2025</p>
 
 <b>Spis treści:</b>
 
@@ -152,6 +152,17 @@ Najlepszym ustawieniem wydaje się być 1.5 mln/13/s = 115KHz i 208 cykli rdzeni
 Niestety rdzeń wspomnianego ATtiny pozbawiono możliwości wykonywania instrukcji MUL, a szkoda. Utrudnia to albo uniemożliwia implementację bardziej złożonych algorytmów.
 
 ![walking]({{ site.baseurl }}/assets/images/tiny44k2.png)
+
+Układ jest izolowany galwanicznie. Zasilany z osobnego uzwojenia nawiniętego na rdzeniu wcześniej przedstawianej przetwornicy. Na wyjściu znajduje się transoptor. 
+Dzięki takiemu manewrowi całość zachowuje się jak wzmacniacz operacyjny nie posiadający (praktycznie) limitu co do wysokości napięcia na wejściach, układ reaguje tylko na różnicę napięć przy R12 i R13.
+
+Zakres dynamiczny ADC pracującego z podwyższoną częstotliwością jest mały. W tym mikrokontrolerze można liczyć na max 8 bitów dlatego też płynnie i w zależności od poziomu sygnału na wejściu zmienia się napięcie odniesienia dla przetwornika (PWM na nóżce 5) oraz zmianom ulega rezystancja U4 (PWM na nóżce 6) czyli jest tutaj sterowana programowo automatyczna regulacja wzmocnienia.
+
+Rozwiązanie z DSP na pierwszy rzut oka wygląda na overkill jednak jego niski koszt i elastyczność czyni go sensownym wyborem dla asemblerowego magika.
+
+BTW Gdy zastosuje się ATtiny44A pozostaje wolne 6 pinów (z resetem 7). Wystarczy na przykład do wysterowania 3-cyfrowego wyświetlacza i odbioru danych UARTem...albo co tam do głowy przyjdzie.
+
+
 
 
 
