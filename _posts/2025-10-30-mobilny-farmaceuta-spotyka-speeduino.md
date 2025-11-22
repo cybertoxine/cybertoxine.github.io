@@ -118,7 +118,7 @@ L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być
 
 <p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4c]&nbsp; &nbsp;</span></p>
 
-## Kondycjoner sygnału z czujnika reluktancyjnego położenia wału korbowego. Dwa różne podejścia do sprawy. Analogowe i cyfrowe.
+## Kondycjoner sygnału z czujnika reluktancyjnego położenia wału korbowego. Trzy różne podejścia do sprawy. Analogowe, analogowe uproszczone oraz DSP.
 
 ## Analogowe:
 
@@ -133,7 +133,7 @@ Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie w
 
 ![walking]({{ site.baseurl }}/assets/images/simplean3.png)
 
-Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnału z czujnika przy użyciu pomarańczowych LEDów. Zamiast sprzężenia zwrotnego utrzymjącego 50% wypełnienie sygnału wyjściowego jest tutaj przemieszczanie się (w takt obrotu wału korbowego, chodzi o zmniejszenie wpływu zmian odległości czujnika od wieńca zębatego) punktu odniesienia dla komparatora przy wejściu odwracającym wzmacjniacza. Komparator jest bez histerezy, pozostaje jedynie histereza portu wejściowego mikrokontolera. 
+Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnału z czujnika przy użyciu pomarańczowych LEDów. Zamiast sprzężenia zwrotnego utrzymjącego 50% wypełnienie sygnału wyjściowego jest tutaj przemieszczanie się (w takt obrotu wału korbowego, chodzi o zmniejszenie wpływu zmian odległości czujnika od wieńca zębatego) punktu odniesienia dla komparatora przy wejściu odwracającym wzmacniacza. Komparator jest bez histerezy, pozostaje jedynie histereza portu wejściowego mikrokontolera. 
 
 Mimo swojej prostoty układ ma duże szanse na poprawne działanie w rzeczywistych warunkach więc zostanie wykonany w pierwszej kolejności. 
 
