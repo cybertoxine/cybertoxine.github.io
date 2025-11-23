@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 22.11.2025</p>
+<p style="color:green;">Ostatnia aktualizacja: 23.11.2025</p>
 
 <b>Spis treści:</b>
 
@@ -27,7 +27,11 @@ tags: [sticky]
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji.
+   - [6a] Etapu pierwszego.
+   - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
+   - [7a] Etap pierwszy.
+   - [7b] Etap drugi.
 
 
 <p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4a]&nbsp; &nbsp;</span></p>
