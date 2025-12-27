@@ -170,6 +170,12 @@ Mój faworyt.
 
 ![walking]({{ site.baseurl }}/assets/images/tiny44kombo.png)
 
+Przetaktowywanie układów scalonych nie jest dobrą praktyką w przypadku konstruowania profesjonalnych, komercyjnych urządzeń. Jednakże "indywiduum" składające samemu sobie potrzebne mu urządzenie stoi na uprzywilejowanej pozycji - można preprowadzić selekcję układów i wytypować te, które pracują stabilnie z zegarem nieco wyższym od dopuszczalnego, przedstawionego w nocie katalogowej.
+
+W praktyce wygląda to tak, że prawie każdy egzemplarz Attiny44A z serii o maksymalnej dopuszczalnej temperaturze pracy do 125 st. C w temperaturze pokojowej, przy dobrze odfiltrowanym napięciu zasilania wynoszącym 5V i przy dostarczeniu sygnału zegara z zewnętrznego oscylatora pracuje stabilnie z taktowaniem 24MHz. Wspominam o tym by podkreślić potrzebę wyboru odpowiedniej serii układu oraz potrzebę przeprowadzenia selekcji pod kątem odpowiedniego marginesu bezpieczeństwa, innymi słowy "zapasu stabilności". Normalnie powinno się po prostu dokonać wyboru któregoś z szybszych mikrokontrolerów,których na rynku nie brakuje. Mój wybór jest podyktowany lenistwem, przyzwyczajeniem, dobrą znajomością dokumentacji układu i doświadczeniem w "męczeniu" go. Ponadto 8 bitowe AVR-y mają prosty i zwięzły asembler co przy kombinowaniu przy DSP okazuje się wielką zaletą.
+
+
+
 
 
 
