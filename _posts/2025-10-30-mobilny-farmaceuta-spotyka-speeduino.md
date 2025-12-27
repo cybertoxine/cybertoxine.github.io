@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 23.11.2025</p>
+<p style="color:green;">Ostatnia aktualizacja: 27.12.2025</p>
 
 <b>Spis treści:</b>
 
@@ -143,8 +143,6 @@ Mimo swojej prostoty układ ma duże szanse na poprawne działanie w rzeczywisty
 
 ## Cyfrowe (DSP):
 
-Mój faworyt.
-
 Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie paczki chipsów.
 Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
 Tor analogowy tego mikrokontrolera posiada pasmo ograniczone od góry ze spadkiem o 3dB w punkcie 38.5 KHz (dla konwersji różnicowych jest to 4KHz).
@@ -165,6 +163,12 @@ Zakres dynamiczny ADC pracującego z podwyższoną częstotliwością jest mały
 Rozwiązanie z DSP na pierwszy rzut oka wygląda na overkill jednak jego niski koszt i elastyczność czyni go sensownym wyborem dla asemblerowego magika.
 
 BTW Gdy zastosuje się ATtiny44A pozostaje wolne 6 pinów (z resetem 7). Wystarczy na przykład do wysterowania 3-cyfrowego wyświetlacza i odbioru danych UARTem...albo co tam do głowy przyjdzie.
+
+## DSP opcja druga:
+
+Mój faworyt.
+
+![walking]({{ site.baseurl }}/assets/images/tiny44kombo.png)
 
 
 
