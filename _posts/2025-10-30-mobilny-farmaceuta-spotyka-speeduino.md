@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 27.12.2025</p>
+<p style="color:green;">Ostatnia aktualizacja: 29.12.2025 09:54</p>
 
 <b>Spis treści:</b>
 
