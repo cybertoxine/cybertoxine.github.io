@@ -205,6 +205,7 @@ Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni
 
 
 
+
 #
 #
 #
