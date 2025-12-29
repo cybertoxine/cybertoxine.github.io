@@ -124,7 +124,7 @@ L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być
 
 ## Kondycjoner sygnału z czujnika reluktancyjnego położenia wału korbowego. Trzy różne podejścia do sprawy. Analogowe, analogowe uproszczone oraz DSP.
 
-## Analogowe:
+### Analogowe:
 
 Regulacja wzmocnienia, przesuwanie przebiegu w stronę zera, ukształtowanie prostokątnego sygnału wyściowego, bez izolacji galwanicznej:
 
@@ -133,7 +133,7 @@ Regulacja wzmocnienia, przesuwanie przebiegu w stronę zera, ukształtowanie pro
 Koszt elementów elektronicznych potrzebnych do zbudowania powyższego układu nie przekracza 10zł. LM324, 3 tranzystory, 3 optoizolatory, kilka diod, kondensatorów i rezystorów.
 Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens. Nie podaję tutaj wartości elementów gdyż nie potrafię do końca przewidzieć jak układ się zachowa. Niby LM324B powinien "się wyrabiać" przy 10kHz na wyjściu czujnika VR. Muszę nad tym posiedzieć z oscyloskopem.
 
-## Analogowe uproszczone:
+### Analogowe uproszczone:
 
 ![walking]({{ site.baseurl }}/assets/images/simplean3.png)
 
@@ -141,7 +141,7 @@ Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnał
 
 Mimo swojej prostoty układ ma duże szanse na poprawne działanie w rzeczywistych warunkach więc zostanie wykonany w pierwszej kolejności. 
 
-## Cyfrowe (DSP):
+### Cyfrowe (DSP):
 
 Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie paczki chipsów.
 Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
@@ -164,7 +164,7 @@ Rozwiązanie z DSP na pierwszy rzut oka wygląda na overkill jednak jego niski k
 
 BTW Gdy zastosuje się ATtiny44A pozostaje wolne 6 pinów (z resetem 7). Wystarczy na przykład do wysterowania 3-cyfrowego wyświetlacza i odbioru danych UARTem...albo co tam do głowy przyjdzie.
 
-## DSP opcja druga:
+### DSP opcja druga:
 
 Mój faworyt.
 
@@ -181,7 +181,7 @@ Mikrokontroler załącza optoizolatory U6-U15 tak by modulować poziom sygnału 
 W sumie daje to wysoką czułość i dokładność przy niskich obrotach wieńca zębatego i jednocześnie poprawne próbkowanie sygnału przy wysokich obrotach. 
 Nie jestem pewien czy R12, R13, R15, R16, R17 doprowadzą do nasycenia tranzystory w optoizolatorach. Ich dokładne wartości powinny być ustalone eksperymentalnie.
 W CTR optoizolatorów bywają znaczne różnice pomiędzy egzemplarzami, występuje też problem stażenia.
-Programowe przełączanie optoizolatorów odbywa się w momencie mijania 2 "wybitych" zębów i z zachowaniem odpowiednich deadtime-ów.
+Programowe przełączanie optoizolatorów odbywa się w momencie mijania dwóch "wybitych" zębów i z zachowaniem odpowiednich deadtime-ów.
 Chodzi o to by zniekształcenia sygnału powstające w chwili zmiany oporu były jak najmniejsze i powstawały w chwili, która nie ma znaczenia dla odczytu położenia wału korbowego. 
 Przy wysokich obrotach zmniejszona impedancja regulowanego rezystora powoduje zwiększenie prądu płynącego przez uzwojenie czujnika i zmniejszenie indukcji w jego rdzeniu. 
 Poprawia to (nieznacznie) liniowość odpowiedzi czujnika na zmianę natężenia pola magnetycznego w jego otoczeniu.
@@ -190,27 +190,6 @@ Komparator wbudowany w Attiny przez PA1 wyczuwa moment w którym napięcie podwa
 Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni rolę diagnostyczną.
 
 
-
-
-
-
-
-
-
-
-
-
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 
 
 
