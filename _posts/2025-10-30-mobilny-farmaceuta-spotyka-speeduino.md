@@ -184,7 +184,7 @@ Poprawia to (nieznacznie) liniowość odpowiedzi czujnika na zmianę natężenia
 
 Komparator wbudowany w Attiny przez PA1 wyczuwa moment w którym napięcie podwajacza osiąga 3.75V albo spada poniżej tej wartości uruchamiając procedurę zmniejszania bądź zwiększania rezystancji regulowanego rezystora.
 
-Zaciski czujnika reluktancyjnego zachowują się jak wejścia wzmacniacza operacyjnego o regulowanej impedancji wejściowej, poprawiono tym samym odporność na zakłucenia.
+Zaciski do podłączenia czujnika reluktancyjnego zachowują się jak wejścia wzmacniacza operacyjnego o regulowanej impedancji wejściowej, poprawiono tym samym odporność na zakłucenia.
 
 Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni rolę diagnostyczną.
 
