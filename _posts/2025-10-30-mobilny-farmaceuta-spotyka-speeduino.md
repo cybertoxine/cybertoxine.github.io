@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 29.12.2025 09:54</p>
+<p style="color:green;">Ostatnia aktualizacja: 29.12.2025 11:33</p>
 
 <b>Spis treści:</b>
 
@@ -175,7 +175,7 @@ Przetaktowywanie układów scalonych nie jest dobrą praktyką w przypadku konst
 W praktyce wygląda to tak, że prawie każdy egzemplarz Attiny44A z serii o maksymalnej dopuszczalnej temperaturze pracy do 125 st. C w temperaturze pokojowej, przy dobrze odfiltrowanym napięciu zasilania wynoszącym 5V i przy dostarczeniu sygnału zegara z zewnętrznego oscylatora pracuje stabilnie z taktowaniem 24MHz. Wspominam o tym by podkreślić potrzebę wyboru odpowiedniej serii układu oraz potrzebę przeprowadzenia selekcji pod kątem odpowiedniego marginesu bezpieczeństwa, innymi słowy "zapasu stabilności". Normalnie powinno się po prostu dokonać wyboru któregoś z szybszych mikrokontrolerów, których na rynku nie brakuje. Mój wybór jest podyktowany lenistwem, przyzwyczajeniem, dobrą znajomością dokumentacji układu i doświadczeniem w "męczeniu" go. Ponadto 8 bitowe AVR-y mają prosty i zwięzły asembler co przy kombinowaniu przy DSP okazuje się wielką zaletą.
 
 Zegar: 24 MHz, częstotliwość taktowania ADC: 1.5 MHz, napięcie zasilania mikrokontrolera: 5V. Napięcie referencyjne dla ADC zmienia się wraz ze zmianą amplitudy napięcia z czujnika.
-AREF jest dołączony do + podwajacza napięcia utworzonego przez C6, C7, D4, D5. Podwajacz jest zasilany z gałęzi utworzonej przez cyfrowo regulowany rezystor połączony równolegle (przez R10) z czujnikiem reluktancyjnym. Dzięki temu rozwiązaniu poziom sygnału dla ADC na PA3 zawsze wypełnia przedział między poziomem GND i AREF z minimalnym albo zerowym clippingiem.
+AREF jest dołączony do + podwajacza napięcia utworzonego przez C6, C7, D4, D5. Podwajacz jest zasilany z gałęzi utworzonej przez cyfrowo regulowany rezystor połączony równolegle (przez R10) z czujnikiem reluktancyjnym. Dzięki temu rozwiązaniu amplituda sygnału dla ADC na PA3 jest zawsze wysoka, bardzo bliska napięciu na AREF. Przebieg sygnału wypełnia przedział między poziomem GND i AREF z minimalnym albo zerowym clippingiem.
 Dodatkowo udało się zmniejszyć negatywny wpływ ograniczonego do 8-bitów zakresu dynamicznego ADC (amplituda sygnału w odniesieniu do AREF jest zawsze wysoka ale nie przesterowuje wejścia ADC).
 Mikrokontroler załącza optoizolatory U6-U15 tak by modulować poziom sygnału na wejściu podwajacza. Są 32 wartości oporu do wyboru.
 W sumie daje to wysoką czułość i dokładność przy małych obrotach wieńca zębatego i jednocześnie poprawne próbkowanie sygnału przy wysokich obrotach. 
