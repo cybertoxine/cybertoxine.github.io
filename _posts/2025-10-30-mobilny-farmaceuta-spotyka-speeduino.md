@@ -170,16 +170,12 @@ Mój faworyt.
 
 ![walking]({{ site.baseurl }}/assets/images/tiny44kombo.png)
 
-Przetaktowywanie układów scalonych nie jest dobrą praktyką w przypadku konstruowania profesjonalnych, komercyjnych urządzeń. Jednakże "indywiduum" składające samemu sobie potrzebne mu urządzenie stoi na uprzywilejowanej pozycji - można przeprowadzić selekcję układów i wytypować te, które pracują stabilnie z zegarem nieco wyższym od dopuszczalnego, przedstawionego w nocie katalogowej.
-
+Przetaktowywanie układów scalonych nie jest dobrą praktyką w przypadku konstruowania profesjonalnych, komercyjnych urządzeń. Jednakże "indywiduum" składające samemu sobie potrzebne mu urządzenie stoi na uprzywilejowanej pozycji. Można przeprowadzić selekcję układów i wytypować te, które pracują stabilnie z zegarem nieco wyższym od dopuszczalnego, przedstawionego w nocie katalogowej.
 W praktyce wygląda to tak, że prawie każdy egzemplarz Attiny44A z serii o maksymalnej dopuszczalnej temperaturze pracy do 125 st. C w temperaturze pokojowej, przy dobrze odfiltrowanym napięciu zasilania wynoszącym 5V i przy dostarczeniu sygnału zegara z zewnętrznego oscylatora pracuje stabilnie z taktowaniem 24MHz. Wspominam o tym by podkreślić potrzebę wyboru odpowiedniej serii układu oraz potrzebę przeprowadzenia selekcji pod kątem odpowiedniego marginesu bezpieczeństwa, innymi słowy "zapasu stabilności". Normalnie powinno się po prostu dokonać wyboru któregoś z szybszych mikrokontrolerów, których na rynku nie brakuje. Mój wybór jest podyktowany lenistwem, przyzwyczajeniem, dobrą znajomością dokumentacji układu i doświadczeniem w "męczeniu" go. Ponadto 8 bitowe AVR-y mają prosty i zwięzły asembler co przy kombinowaniu przy DSP okazuje się wielką zaletą.
 
 Zegar: 24 MHz, częstotliwość taktowania ADC: 1.5 MHz, napięcie zasilania mikrokontrolera: 5V. Napięcie referencyjne dla ADC zmienia się wraz ze zmianą amplitudy napięcia z czujnika.
 AREF jest dołączony do + podwajacza napięcia utworzonego przez C6, C7, D4, D5. Podwajacz jest zasilany z gałęzi utworzonej przez cyfrowo regulowany rezystor połączony równolegle (przez R10) z czujnikiem reluktancyjnym. Rozwiązanie owe skutkuje tym, że amplituda sygnału dla ADC na PA3 jest zawsze wysoka, bardzo bliska napięciu na AREF. Przebieg sygnału wypełnia przedział między poziomem GND i AREF z minimalnym albo zerowym clippingiem. Powyższym trickiem udało się zmniejszyć negatywny wpływ ograniczonego do 8-bitów zakresu dynamicznego ADC.
-
-Poprzez R7 można dokonywać niewielkiej korekty napięcia na podwajaczu minimalizując ryzyko clippingu albo też zwiększyć czułość ADC gdy nastąpi gwałtowny spadek amplitudy sygnału. Wątpię jednak by w realu zachodziła taka potrzeba.
-
-R8 i R9 "pilnują" by napięcia na kondensatorach były identyczne.
+Poprzez R7 można dokonywać niewielkiej korekty napięcia na podwajaczu minimalizując ryzyko clippingu albo też zwiększyć czułość ADC gdy nastąpi gwałtowny spadek amplitudy sygnału. Wątpię jednak by w realu zachodziła taka potrzeba. R8 i R9 "pilnują" by napięcia na kondensatorach były identyczne.
 
 Mikrokontroler załącza optoizolatory U6-U15 tak by modulować poziom sygnału na wejściu podwajacza. Są 32 wartości oporu do wyboru.
 W sumie daje to wysoką czułość i dokładność przy niskich obrotach wieńca zębatego i jednocześnie poprawne próbkowanie sygnału przy wysokich obrotach. 
@@ -187,10 +183,8 @@ Nie jestem pewien czy R12, R13, R15, R16, R17 doprowadzą do nasycenia tranzysto
 W CTR optoizolatorów bywają znaczne różnice pomiędzy egzemplarzami, występuje też problem stażenia.
 Programowe przełączanie optoizolatorów odbywa się w momencie mijania 2 "wybitych" zębów i z zachowaniem odpowiednich deadtime-ów.
 Chodzi o to by zniekształcenia sygnału powstające w chwili zmiany oporu były jak najmniejsze i powstawały w chwili, która nie ma znaczenia dla odczytu położenia wału korbowego. 
-
 Przy wysokich obrotach zmniejszona impedancja regulowanego rezystora powoduje zwiększenie prądu płynącego przez uzwojenie czujnika i zmniejszenie indukcji w jego rdzeniu. 
 Poprawia to (nieznacznie) liniowość odpowiedzi czujnika na zmianę natężenia pola magnetycznego w jego otoczeniu.
-
 Komparator wbudowany w Attiny przez PA1 wyczuwa moment w którym napięcie podwajacza osiąga 3.75V albo spada poniżej tej wartości uruchamiając procedurę zwiększania albo zmniejszania rezystancji regulowanego rezystora. Zaciski do podłączenia czujnika reluktancyjnego zachowują się jak wejścia wzmacniacza operacyjnego o regulowanej impedancji wejściowej, poprawiono tym samym odporność na zakłócenia.
 
 Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni rolę diagnostyczną.
