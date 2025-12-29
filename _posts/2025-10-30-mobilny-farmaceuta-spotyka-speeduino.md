@@ -179,7 +179,7 @@ AREF jest dołączony do + podwajacza napięcia utworzonego przez C6, C7, D4, D5
 Dodatkowo udało się zmniejszyć negatywny wpływ ograniczonego do 8-bitów zakresu dynamicznego ADC (amplituda sygnału w odniesieniu do AREF jest zawsze wysoka ale nie przesterowuje wejścia ADC).
 Mikrokontroler załącza optoizolatory U6-U15 tak by modulować poziom sygnału na wejściu podwajacza. Są 32 wartości oporu do wyboru.
 W sumie daje to wysoką czułość i dokładność przy małych obrotach wieńca zębatego i jednocześnie poprawne próbkowanie sygnału przy wysokich obrotach. 
-Przy wysokich obrotach zmniejszona impedancja regulowanego rezystora powoduje zwiększenie prądu płynącego przez uzwojenie czjnika i zmniejszenie indukcji w jego rdzeniu. 
+Przy wysokich obrotach zmniejszona impedancja regulowanego rezystora powoduje zwiększenie prądu płynącego przez uzwojenie czujnika i zmniejszenie indukcji w jego rdzeniu. 
 Poprawia to (nieznacznie) liniowość odpowiedzi czujnika na zmianę natężenia pola magnetycznego w jego otoczeniu.
 
 Komparator wbudowany w Attiny przez PA1 wyczuwa moment w którym napięcie podwajacza osiąga 3.75V albo spada poniżej tej wartości uruchamiając procedurę zmniejszania bądź zwiększania rezystancji regulowanego rezystora.
