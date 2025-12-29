@@ -10,7 +10,7 @@ tags: [sticky]
 
 <p style="color:green;">Ostatnia aktualizacja: 29.12.2025 12:15<p>
 
-<b>Spis treści:</b>
+## Spis treści:
 
 - [1] Co to jest Speeduino? Kto jest autorem i co mówi licencja na której ten projekt jest dystrybuowany? Link do repo.
 - [2] Po co mi Speeduino?
