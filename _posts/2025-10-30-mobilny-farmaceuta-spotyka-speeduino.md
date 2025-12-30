@@ -18,7 +18,7 @@ tags: [sticky]
 - [4] Konkretne rozwiązania etapu pierwszego i ich opis (część teoretyczna).
    - [4a] Dodanie modułu zapłonowowego na SiC MOSFETach. 
    - [4b] Przetwornica.
-   - [4c] Dodanie kondycjonera sygnału z czujnika reluktancyjnego położenia wału korbowego.  
+   - [4c] Dodanie kondycjonera sygnału z czujnika reluktancyjnego położenia wału korbowego.  [skocz](#kond)
 - [5] Konkretne rozwiązania etapu drugiego i ich opis (część teoretyczna).
    - [5a] Użycie AVR128DB64 zamiast ATmega2560. 
    - [5b] Wykrywanie spalania stukowego na drodze DSP. 
@@ -123,7 +123,7 @@ L1 - Tu zależy. Gdy ma być zasilany tylko moduł zapłonowy dławik może być
 <p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[4c]&nbsp; &nbsp;</span></p>
 
 ## Kondycjoner sygnału z czujnika reluktancyjnego położenia wału korbowego. Trzy różne podejścia do sprawy. Analogowe, analogowe uproszczone oraz DSP.
-
+<a name="kond"></a>
 ### Analogowe:
 
 Regulacja wzmocnienia, przesuwanie przebiegu w stronę zera, ukształtowanie prostokątnego sygnału wyściowego, bez izolacji galwanicznej:
