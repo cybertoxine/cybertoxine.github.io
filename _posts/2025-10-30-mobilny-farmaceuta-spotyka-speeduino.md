@@ -156,6 +156,8 @@ Komparator wbudowany w Attiny przez PA1 wyczuwa moment w którym napięcie podwa
 
 Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni rolę diagnostyczną.
 
+[skocz do spisu treści](#spis)
+
 
 
 
