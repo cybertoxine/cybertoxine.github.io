@@ -149,7 +149,7 @@ Mikrokontroler załącza optoizolatory U6-U15 tak by modulować poziom sygnału 
 W sumie daje to wysoką czułość i dokładność przy niskich obrotach wieńca zębatego i jednocześnie poprawne próbkowanie sygnału przy wysokich obrotach. 
 Nie jestem pewien czy R12, R13, R15, R16, R17 doprowadzą do nasycenia tranzystory w optoizolatorach. Ich dokładne wartości powinny być ustalone eksperymentalnie.
 W CTR optoizolatorów bywają znaczne różnice pomiędzy egzemplarzami, występuje też problem stażenia.
-Programowe przełączanie optoizolatorów odbywa się w momencie mijania dwóch "wybitych" zębów i z zachowaniem odpowiednich deadtime-ów.
+Programowe przełączanie optoizolatorów odbywa się w momencie mijania dwóch "wybitych" zębów i z zachowaniem odpowiednich deadtime-ów. Moment ten przedstawia poniższa grafika:
 
 ![walking]({{ site.baseurl }}/assets/images/optoc.png)
 
