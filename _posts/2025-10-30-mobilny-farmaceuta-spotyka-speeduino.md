@@ -150,6 +150,9 @@ W sumie daje to wysoką czułość i dokładność przy niskich obrotach wieńca
 Nie jestem pewien czy R12, R13, R15, R16, R17 doprowadzą do nasycenia tranzystory w optoizolatorach. Ich dokładne wartości powinny być ustalone eksperymentalnie.
 W CTR optoizolatorów bywają znaczne różnice pomiędzy egzemplarzami, występuje też problem stażenia.
 Programowe przełączanie optoizolatorów odbywa się w momencie mijania dwóch "wybitych" zębów i z zachowaniem odpowiednich deadtime-ów.
+
+![walking]({{ site.baseurl }}/assets/images/optoc.png)
+
 Chodzi o to by zniekształcenia sygnału powstające w chwili zmiany oporu były jak najmniejsze i powstawały w chwili, która nie ma znaczenia dla odczytu położenia wału korbowego. 
 Przy wysokich obrotach zmniejszona impedancja regulowanego rezystora powoduje zwiększenie prądu płynącego przez uzwojenie czujnika i zmniejszenie indukcji w jego rdzeniu. 
 Poprawia to (nieznacznie) liniowość odpowiedzi czujnika na zmianę natężenia pola magnetycznego w jego otoczeniu.
