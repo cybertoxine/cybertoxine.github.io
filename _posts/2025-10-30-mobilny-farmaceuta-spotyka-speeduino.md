@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 05.01.2026<p>
+<p style="color:green;">Ostatnia aktualizacja: 07.01.2026<p>
 <a name="spis"></a>
    
 ## Spis treści:
@@ -28,7 +28,7 @@ tags: [sticky]
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji.
-   - [6a] Etapu pierwszego.
+   - [6a] Etapu pierwszego. [skocz](#etap1)
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
    - [7a] Etap pierwszy.
@@ -161,6 +161,15 @@ Komparator wbudowany w Attiny przez PA1 wyczuwa moment w którym napięcie podwa
 Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni rolę diagnostyczną.
 
 [skocz do spisu treści](#spis)
+
+<a name="etap1"></a>
+<p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[6a]&nbsp; &nbsp;</span></p>
+
+Wykonano generator sygnału reluktancyjnego czujnika położenia wału korbowego w celu testowania różnych rozwiązań układów elektronicznych kondycjonujących ten sygnał.
+
+<iframe width="466" height="829" src="https://www.youtube.com/embed/yFezR9aNbO8" title="6 stycznia 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 
 
