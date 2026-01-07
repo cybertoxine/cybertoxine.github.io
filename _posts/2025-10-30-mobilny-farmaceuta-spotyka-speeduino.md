@@ -167,9 +167,13 @@ Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni
 
 Wykonano generator sygnału reluktancyjnego czujnika położenia wału korbowego w celu testowania różnych rozwiązań układów elektronicznych kondycjonujących ten sygnał.
 
-[![wideo]
-(https://img.youtube.com/vi/yFezR9aNbO8/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=yFezR9aNbO8)
+Przy okazji testom podlega kompozytowy pas napędowy (sieciowany silikon-włókno szklane).  
+
+![walking]({{ site.baseurl }}/assets/images/spinner.jpg)
+
+Na poniższym filmie szczytowa prędkość obrotowa wynosiła 4100 RPM. Maszynka potrafi chwilowo przekroczyć 10000 RPM. Użytkowana jest z należytą ostrożnością - uderzenie fragmentem (w razie rozerwania) żeliwnego wirującego elementu może zabić.
+
+https://www.youtube.com/watch?v=yFezR9aNbO8
 
 
 
