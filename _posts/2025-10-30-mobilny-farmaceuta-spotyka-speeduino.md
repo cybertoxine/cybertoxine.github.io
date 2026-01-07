@@ -175,6 +175,8 @@ Na poniższym filmie szczytowa prędkość obrotowa wynosiła 4100 RPM. Maszynka
 
 https://www.youtube.com/watch?v=yFezR9aNbO8
 
+[skocz do spisu treści](#spis)
+
 
 
 
