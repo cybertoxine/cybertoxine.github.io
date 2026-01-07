@@ -167,9 +167,9 @@ Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni
 
 Wykonano generator sygnału reluktancyjnego czujnika położenia wału korbowego w celu testowania różnych rozwiązań układów elektronicznych kondycjonujących ten sygnał.
 
-<iframe width="466" height="829" src="https://www.youtube.com/embed/yFezR9aNbO8" title="6 stycznia 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+[![wideo]
+(https://img.youtube.com/vi/yFezR9aNbO8/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=yFezR9aNbO8)
 
 
 
