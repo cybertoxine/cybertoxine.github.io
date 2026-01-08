@@ -116,6 +116,8 @@ Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnał
 
 ### Cel stosowania DSP i jego algorytm. Wstęp do grupy rozwiązań analogowo-cyfrowych.
 
+![walking]({{ site.baseurl }}/assets/images/vrsc2.png)
+
 ### Analogowo-cyfrowe:
 
 Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie paczki chipsów.
