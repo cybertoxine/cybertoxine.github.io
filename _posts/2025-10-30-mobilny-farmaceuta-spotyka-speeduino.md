@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 07.01.2026<p>
+<p style="color:green;">Ostatnia aktualizacja: 08.01.2026<p>
 <a name="spis"></a>
    
 ## Spis treści:
@@ -113,7 +113,10 @@ Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie w
 
 Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnału z czujnika przy użyciu pomarańczowych LEDów. Zamiast sprzężenia zwrotnego utrzymjącego 50% wypełnienie sygnału wyjściowego jest tutaj przemieszczanie się (w takt obrotu wału korbowego, chodzi o zmniejszenie wpływu zmian odległości czujnika od wieńca zębatego) punktu odniesienia dla komparatora przy wejściu odwracającym wzmacniacza. Komparator jest bez histerezy, pozostaje jedynie histereza portu wejściowego mikrokontolera. Mimo swojej prostoty układ ma duże szanse na poprawne działanie w rzeczywistych warunkach więc zostanie wykonany w pierwszej kolejności. 
 
-### Cyfrowe (DSP):
+
+### Cel stosowania DSP i jego algorytm. Wstęp do grupy rozwiązań analogowo-cyfrowych.
+
+### Analogowo-cyfrowe:
 
 Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie paczki chipsów.
 Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
