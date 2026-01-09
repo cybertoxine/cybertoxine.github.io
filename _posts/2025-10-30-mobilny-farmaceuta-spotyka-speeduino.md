@@ -105,13 +105,13 @@ Regulacja wzmocnienia, przesuwanie przebiegu w stronę zera, ukształtowanie pro
 ![walking]({{ site.baseurl }}/assets/images/signal4.png)
 
 Koszt elementów elektronicznych potrzebnych do zbudowania powyższego układu nie przekracza 10zł. LM324, 3 tranzystory, 3 optoizolatory, kilka diod, kondensatorów i rezystorów.
-Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens. Nie podaję tutaj wartości elementów gdyż nie potrafię do końca przewidzieć jak układ się zachowa. Niby LM324B powinien "się wyrabiać" przy 10kHz na wyjściu czujnika VR. Muszę nad tym posiedzieć z oscyloskopem.
+Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens. Nie podaję tutaj wartości elementów gdyż nie potrafię do końca przewidzieć jak układ się zachowa. Niby LM324B powinien "się wyrabiać" przy 10kHz na wyjściu czujnika VR, niby charakterystyka optoizolatorów nie musi odzwierciedlać zachowania się rezystora. Musiałbym nad tym posiedzieć z oscyloskopem. Przedstawione wyżej rozwiązanie ma charakter koncepcyjny. Moim zdaniem w dobie mikrokontrolerów w cenie batonika nie ma sensu iść tą drogą.
 
 ### Analogowe uproszczone:
 
 ![walking]({{ site.baseurl }}/assets/images/simplean3.png)
 
-Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnału z czujnika przy użyciu pomarańczowych LEDów. Zamiast sprzężenia zwrotnego utrzymjącego 50% wypełnienie sygnału wyjściowego jest tutaj przemieszczanie się (w takt obrotu wału korbowego, chodzi o zmniejszenie wpływu zmian odległości czujnika od wieńca zębatego) punktu odniesienia dla komparatora przy wejściu odwracającym wzmacniacza. Komparator jest bez histerezy, pozostaje jedynie histereza portu wejściowego mikrokontolera. Mimo swojej prostoty układ ma duże szanse na poprawne działanie w rzeczywistych warunkach więc zostanie wykonany w pierwszej kolejności. 
+Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnału z czujnika przy użyciu pomarańczowych LEDów. Zamiast sprzężenia zwrotnego utrzymjącego 50% wypełnienie sygnału wyjściowego jest tutaj przemieszczanie się (w takt obrotu wału korbowego, chodzi o zmniejszenie wpływu zmian odległości czujnika od wieńca zębatego) punktu odniesienia dla komparatora przy wejściu odwracającym wzmacniacza. Komparator jest bez histerezy, pozostaje jedynie histereza portu wejściowego mikrokontolera. Mimo swojej prostoty układ ma duże szanse na zadowalające działanie w rzeczywistych warunkach więc może "dla jaj" go kiedyś wykonam.
 
 
 ### Cel stosowania DSP i jego algorytm. Wstęp do grupy rozwiązań analogowo-cyfrowych.
@@ -123,12 +123,25 @@ do Speeduino.
 
 Celem stosowania DSP w układzie kondycjonera jest zmniejszenie wpływu deformacji sygnału z czujnika na proces wyznaczania aktualnej pozycji wału korbowego przez software odpalony na ATmega2560.
 
-Drugorzędny ale również istotny cel zaimplementowania obróbki cyfrowej sygnału to nadanie projektowi maksymalnej elastyczności. Wgranie innego software pozwoli na współpracę z innymi tego samego typu czujnikami i/albo pracującymi w innym otoczeniu.
+Drugorzędny ale istotny dla mnie cel zaimplementowania obróbki cyfrowej sygnału to nadanie projektowi maksymalnej elastyczności. Wgranie innego software pozwoli na współpracę z innymi tego samego typu czujnikami i/albo pracującymi w innym otoczeniu.
+
+Co do algorytmów to trzeba zadbać o małą złożoność obliczeniową wszystkich procedur. Np przy 6000 RPM na 1 ząbek z rowkiem (koło foniczne 60-2) przypada 0.166 milisekundy czyli (dla kondycjonera DSP w opcji drugiej) około 20 sampli na okres przebiegu. Pomiędzy momentami w których pojawia się wynik konwersji jest 208 cykli rdzenia.
+
+Potrzebne będą 3 funkcje. Pierwsza to dynamiczne określanie poziomu odniesienia dla detektora przejścia przez zero. Druga to sam detektor przejścia przez zero. Trzecia to automatyczna regulacja tłumienia (właściwie to sterowanie poziomem rezystancji wejściowej kondycjonera + kompensowanie skokowych zmian rezystancji krótkookresowym podładowywaniem albo rozładowywaniem kondenstorów podwajacza przy AREF).
+
+Określanie poziomu odniesienia:
+blablabla (niedługo opiszę)
+
+Detektor przejścia przez zero:
+blablabla (niedługo opiszę)
+
+Automatyczna regulacja tłumienia:
+blablabla (niedługo opiszę)
 
 
 ### Analogowo-cyfrowe:
 
-Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie paczki chipsów.
+Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie batonika.
 Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
 Tor analogowy tego mikrokontrolera posiada pasmo ograniczone od góry ze spadkiem o 3dB w punkcie 38.5 KHz (dla konwersji różnicowych jest to 4KHz).
 
@@ -186,9 +199,13 @@ Przy okazji testom podlega kompozytowy pas napędowy (sieciowany silikon-włókn
 
 ![walking]({{ site.baseurl }}/assets/images/spinner.jpg)
 
-Na poniższym filmie szczytowa prędkość obrotowa wynosiła 4100 RPM. Maszynka potrafi chwilowo przekroczyć 10000 RPM. Użytkowana jest z należytą ostrożnością - uderzenie fragmentem (w razie rozerwania) żeliwnego wirującego elementu może zabić.
+Na poniższym filmie szczytowa prędkość obrotowa wynosiła 4100 RPM. 
 
 https://www.youtube.com/watch?v=yFezR9aNbO8
+
+Maszynka potrafi chwilowo dobić do 10000 RPM. Użytkowana jest z należytą ostrożnością - uderzenie fragmentem (w razie rozerwania) żeliwnego wirującego elementu może zabić. Zastosowano modelarski szczotkowy silnik SPEED 600 o nominalnym napięciu pracy 7.2V który dobrze znosi krótkie przeciążenia.
+Przekraczanie 100W mocy na wale (przy napięciu 12V) odbywa się nieniszcząco. Po ukończeniu kondycjonera maszynka znajdzie zastosowanie jako bajerancka garażowa wysokoobrotowa szlifierka :). 
+
 
 [skocz do spisu treści](#spis)
 
