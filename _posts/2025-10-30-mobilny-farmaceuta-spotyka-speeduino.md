@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 08.01.2026<p>
+<p style="color:green;">Ostatnia aktualizacja: 09.01.2026<p>
 <a name="spis"></a>
    
 ## Spis treści:
@@ -116,7 +116,15 @@ Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnał
 
 ### Cel stosowania DSP i jego algorytm. Wstęp do grupy rozwiązań analogowo-cyfrowych.
 
+Na poniższym rysunku przedtawiono 3 różne, podobne sygnały z reluktancyjnego czujnika położenia wału korbowego, operacje na nich wykonywane i ostateczny sygnał wyjściowy nadający się do podania
+do Speeduino.
+
 ![walking]({{ site.baseurl }}/assets/images/vrsc2.png)
+
+Celem stosowania DSP w układzie kondycjonera jest zmniejszenie wpływu deformacji sygnału z czujnika na proces wyznaczania aktualnej pozycji wału korbowego przez software odpalony na ATmega2560.
+
+Drugorzędny ale również istotny cel zaimplementowania obróbki cyfrowej sygnału to nadanie projektowi maksymalnej elastyczności. Wgranie innego software pozwoli na współpracę z innymi tego samego typu czujnikami i/albo pracującymi w innym otoczeniu.
+
 
 ### Analogowo-cyfrowe:
 
