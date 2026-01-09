@@ -191,7 +191,7 @@ Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni
 <a name="etap1"></a>
 <p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[6a]&nbsp; &nbsp;</span></p>
 
-* 07.01.2026 *
+### 07.01.2026
 
 Wykonano generator sygnału reluktancyjnego czujnika położenia wału korbowego w celu testowania różnych rozwiązań układów elektronicznych kondycjonujących ten sygnał.
 
@@ -199,12 +199,26 @@ Przy okazji testom podlega kompozytowy pas napędowy (sieciowany silikon-włókn
 
 ![walking]({{ site.baseurl }}/assets/images/spinner.jpg)
 
-Na poniższym filmie szczytowa prędkość obrotowa wynosiła 4100 RPM. 
+Poniższy film przedstawia konstrukcję generatora:
 
 https://www.youtube.com/watch?v=yFezR9aNbO8
 
+Na kolejnym materiale widać sygnał generatora na ekranie oscyloskopu. Pomiar odbywa się przy różnych prędkościach obrotowych (od kilkuset RPM do 4500 RPM).
+
+https://www.youtube.com/shorts/T8YZQ1_v4hg
+
 Maszynka potrafi chwilowo dobić do 10000 RPM. Użytkowana jest z należytą ostrożnością - uderzenie fragmentem (w razie rozerwania) żeliwnego wirującego elementu może zabić. Zastosowano modelarski szczotkowy silnik SPEED 600 o nominalnym napięciu pracy 7.2V który dobrze znosi krótkie przeciążenia.
 Przekraczanie 100W mocy na wale (przy napięciu 12V) odbywa się nieniszcząco. Po ukończeniu kondycjonera maszynka znajdzie zastosowanie jako bajerancka garażowa wysokoobrotowa szlifierka :). 
+
+### 09.01.2026 
+
+Materiał paska wymaga udoskonalenia.
+
+![walking]({{ site.baseurl }}/assets/images/pasekbum.jpg)
+
+Trwa kompletowanie hardware-u.
+
+![walking]({{ site.baseurl }}/assets/images/kompletowanie.jpg)
 
 
 [skocz do spisu treści](#spis)
