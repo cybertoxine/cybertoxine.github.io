@@ -205,7 +205,7 @@ https://www.youtube.com/watch?v=yFezR9aNbO8
 
 Na kolejnym materiale widać sygnał generatora na ekranie oscyloskopu. Pomiar odbywa się przy różnych prędkościach obrotowych (od kilkuset RPM do 4500 RPM).
 
-https://www.youtube.com/shorts/T8YZQ1_v4hg
+https://www.youtube.com/watch?v=T8YZQ1_v4hg
 
 Maszynka potrafi chwilowo dobić do 10000 RPM. Użytkowana jest z należytą ostrożnością - uderzenie fragmentem (w razie rozerwania) żeliwnego wirującego elementu może zabić. Zastosowano modelarski szczotkowy silnik SPEED 600 o nominalnym napięciu pracy 7.2V który dobrze znosi krótkie przeciążenia.
 Przekraczanie 100W mocy na wale (przy napięciu 12V) odbywa się nieniszcząco. Po ukończeniu kondycjonera maszynka znajdzie zastosowanie jako bajerancka garażowa wysokoobrotowa szlifierka :). 
