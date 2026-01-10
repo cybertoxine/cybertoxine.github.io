@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 09.01.2026<p>
+<p style="color:green;">Ostatnia aktualizacja: 10.01.2026<p>
 <a name="spis"></a>
    
 ## Spis treści:
@@ -130,16 +130,24 @@ Co do algorytmów to trzeba zadbać o małą złożoność obliczeniową wszystk
 Potrzebne będą 3 funkcje. Pierwsza to dynamiczne określanie poziomu odniesienia dla detektora przejścia przez zero. Druga to sam detektor przejścia przez zero. Trzecia to automatyczna regulacja tłumienia (właściwie to sterowanie poziomem rezystancji wejściowej kondycjonera + kompensowanie skokowych zmian rezystancji krótkookresowym podładowywaniem albo rozładowywaniem kondenstorów podwajacza przy AREF).
 
 Określanie poziomu odniesienia:
-blablabla (niedługo opiszę)
+
+Przesunięcie całego przebiegu w górę lub w dół jest spowodowane cyklicznymi zmianami odległości wieńca zębatego od czujnika. Przyczynami są drgania rezonansowe wału korbowego i kadłuba silnika, zużyte łożyska, wyjątkowo niedbałe osadzenie koła z wieńcem zębatym przez pijanego serwisanta albo też wklejenie czujnika na gumę do żucia.
+
+Algorytm powinien zapamiętywać wartości poziomu sygnału z dwóch poprzednich skrajnych wychyleń sinusoidy i wyliczać średnią. Średnia będzie poziomem odniesienia.
+Detekcja szkrajnych wychyleń jest prosta. Jeśli wartości sygnału zaczynają maleć to wcześniejsza próbka była poziomem MAX. Jeśli wartości sygnału zaczynają rosnąć to poprzednia próbka była poziomem MIN.
+W praktyce by zapewnić odporność na szum potrzeba brać pod uwagę kilka kolejnych próbek. "Kły" w otoczeniu "wybitych zębów" powiny być ignorowane.
 
 Detektor przejścia przez zero:
-blablabla (niedługo opiszę)
+
+Myk polega na ustaleniu momentu w którym próbka zaczyna być większa albo mniejsza od wartości uznawanej przez zero zależnie od kierunku zmiany napięcia sygnału. Wtedy ma nastąpić zmiana stanu wyjścia kondycjonera. Odporność na szum uzyskać tutaj trudniej ponieważ potrzeba dokonać decyzji (przełączenia wyjścia) jak najbliżej chwili w której poziom zera zostaje przekroczony.A jak się przełączy to się później już nie odprzełączy...
 
 Automatyczna regulacja tłumienia:
-blablabla (niedługo opiszę)
+
+Takie wysterowywanie transoptorów aby wartość AREF oscylowała blisko 3.75V. Wartości próbek nie mogą stanowić odniesienia dla ART (bo są zależne od AREF) dlatego informacji takiej musi dostarczyć
+sprzętowy komparator.
 
 
-### Analogowo-cyfrowe:
+### DSP opcja pierwsza (optoFET):
 
 Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie batonika.
 Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
@@ -158,7 +166,7 @@ Zakres dynamiczny ADC pracującego z podwyższoną częstotliwością jest mały
 
 Rozwiązanie z DSP na pierwszy rzut oka wygląda na overkill jednak jego niski koszt i elastyczność czyni go sensownym wyborem dla asemblerowego magika. BTW Gdy zastosuje się ATtiny44A pozostaje wolne 6 pinów (z resetem 7). Wystarczy na przykład do wysterowania 3-cyfrowego wyświetlacza i odbioru danych UARTem...albo co tam do głowy przyjdzie.
 
-### DSP opcja druga:
+### DSP opcja druga (transoptorowy DRC):
 
 Mój faworyt.
 
@@ -185,6 +193,13 @@ Poprawia to (nieznacznie) liniowość odpowiedzi czujnika na zmianę natężenia
 Komparator wbudowany w Attiny przez PA1 wyczuwa moment w którym napięcie podwajacza osiąga 3.75V albo spada poniżej tej wartości uruchamiając procedurę zwiększania albo zmniejszania rezystancji regulowanego rezystora. Zaciski do podłączenia czujnika reluktancyjnego zachowują się jak wejścia wzmacniacza operacyjnego o regulowanej impedancji wejściowej, poprawiono tym samym odporność na zakłócenia.
 
 Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni rolę diagnostyczną.
+
+### Inne sposoby regulacji poziomu sygnału w torze analogowym.
+
+1. Kluczowanie stałą rezystancją z wielką częstotliwością ze zmiennym wypełnieniem, za niewielkim kondensatorem. (wada: "sianie RF-em")
+2. Fotorezystor CdS albo PbS i źródło światła (PbS ma czas reakcji do zaakceptowania, CdS jest strasznie powolny).(wada: CdS powolny, gotowe detektory PbS drogie)
+3. Obciążenie wejścia układem powodującym cykliczne zmiany pola magnetycznego w materiale rdzenia magnetycznego by w ten sposób by wywoływać w nim kontrolowane częstotliwością przełączania straty. (warto kiedyś sprawdzić)
+
 
 [skocz do spisu treści](#spis)
 
