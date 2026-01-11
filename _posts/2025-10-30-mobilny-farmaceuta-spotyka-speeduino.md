@@ -198,8 +198,8 @@ Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni
 
 1. Kluczowanie stałą rezystancją z wielką częstotliwością ze zmiennym wypełnieniem, za niewielkim kondensatorem. (wada: "sianie RF-em")
 2. Fotorezystor CdS albo PbS i źródło światła (PbS ma czas reakcji do zaakceptowania, CdS jest strasznie powolny).(wada: CdS powolny, gotowe detektory PbS drogie)
-3. Obciążenie wejścia układem powodującym cykliczne zmiany pola magnetycznego w materiale rdzenia magnetycznego by w ten sposób by wywoływać w nim kontrolowane częstotliwością przełączania straty. (warto kiedyś sprawdzić)
-4. JFET/MOSFET w pracujący w obszarze omowym czyli z napięciem bramki niewiele większym od napięcia progowego. (wada: charakterystyka podobna do charakterystyki rezystora ale jednak inna - zniekształcenia sygnału)
+3. Obciążenie wejścia układem generującym cykliczne zmiany pola magnetycznego w materiale rdzenia ferromagnetycznego (NIE chodzi o rdzeń czujnika) by wywoływać w nim kontrolowane częstotliwością przełączania straty. (warto kiedyś sprawdzić, dzielnik rezystancyjny z jednym rezystorem sterowanym częstotliwością - ciekawa koncepcja)
+4. JFET/MOSFET w pracujący w obszarze omowym czyli z napięciem bramki niewiele większym od napięcia progowego. (wada: charakterystyka podobna do charakterystyki rezystora ale jednak inna - zniekształcenia sygnału, w pobliżu napięcia progowego wzmocnienie jest bardzo duże - dużo szumu, układ będzie "zbierał szpile" z otoczenia)
 
 
 [skocz do spisu treści](#spis)
