@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 11.01.2026<p>
+<p style="color:green;">Ostatnia aktualizacja: 15.01.2026<p>
 <a name="spis"></a>
    
 ## Spis treści:
@@ -166,7 +166,7 @@ Zakres dynamiczny ADC pracującego z podwyższoną częstotliwością jest mały
 
 Rozwiązanie z DSP na pierwszy rzut oka wygląda na overkill jednak jego niski koszt i elastyczność czyni go sensownym wyborem dla asemblerowego magika. BTW Gdy zastosuje się ATtiny44A pozostaje wolne 6 pinów (z resetem 7). Wystarczy na przykład do wysterowania 3-cyfrowego wyświetlacza i odbioru danych UARTem...albo co tam do głowy przyjdzie.
 
-### DSP opcja druga (transoptorowy DRC):
+### DSP opcja druga (transoptorowy DCR):
 
 Mój faworyt.
 
@@ -235,6 +235,17 @@ Materiał paska wymaga udoskonalenia.
 Trwa kompletowanie hardware-u.
 
 ![walking]({{ site.baseurl }}/assets/images/kompletowanie.jpg)
+
+### 15.01.2026
+
+Namalowałem prototypową płytkę do kondycjonera DSP z DCR. Widok z góry. Płytka jest dwustronna. Z drugiej strony znajdą się U3 i U4 otoczone polem miedzi.
+
+![walking]({{ site.baseurl }}/assets/images/dspvrsc.png)
+
+Z elektrośmieciowego Sound Blaster-a Live! wylutowałem pasujący do projektu generator kwarcowy.
+
+![walking]({{ site.baseurl }}/assets/images/q24576.jpg)
+
 
 
 [skocz do spisu treści](#spis)
