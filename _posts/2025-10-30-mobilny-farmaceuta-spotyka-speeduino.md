@@ -147,7 +147,7 @@ Takie wysterowywanie transoptorów aby wartość AREF oscylowała blisko 3.75V. 
 sprzętowy komparator.
 
 
-### DSP opcja pierwsza (optoFET):
+### DSP opcja pierwsza (użyty optoFET):
 
 Funkcje opisane przy okazji przedstawienia rozwiązania analogowego są możliwe do zaimplementowania za pomocą mikrokontrolera w cenie batonika.
 Przykładem niech będzie ATtiny44A. Nota katalogowa podaje, że przetwornik analogowo-cyfrowy wbudowany w ten mikrokontroler pracuje z szybkością 16ksps przy 10-cio bitowej rozdzielczości.
@@ -166,7 +166,7 @@ Zakres dynamiczny ADC pracującego z podwyższoną częstotliwością jest mały
 
 Rozwiązanie z DSP na pierwszy rzut oka wygląda na overkill jednak jego niski koszt i elastyczność czyni go sensownym wyborem dla asemblerowego magika. BTW Gdy zastosuje się ATtiny44A pozostaje wolne 6 pinów (z resetem 7). Wystarczy na przykład do wysterowania 3-cyfrowego wyświetlacza i odbioru danych UARTem...albo co tam do głowy przyjdzie.
 
-### DSP opcja druga (transoptorowy DCR):
+### DSP opcja druga (użyty transoptorowy Digital Controlled Resistor):
 
 Mój faworyt.
 
