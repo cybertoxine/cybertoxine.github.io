@@ -7,7 +7,7 @@ image: assets/images/metfo0.jpg
 tags: 
 ---
 
-Ostatnio natknąłem się na tekst opisujący utawdzanie żywic epoksydowych biguanidem.
+Ostatnio natknąłem się na tekst opisujący utwardzanie żywic epoksydowych biguanidem.
 
 https://patents.google.com/patent/DE2024395C3/en
 
