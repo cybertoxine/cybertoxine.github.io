@@ -226,6 +226,8 @@ https://www.youtube.com/watch?v=T8YZQ1_v4hg
 Maszynka potrafi chwilowo dobić do 10000 RPM. Użytkowana jest z należytą ostrożnością - uderzenie fragmentem (w razie rozerwania) żeliwnego wirującego elementu może zabić. Zastosowano modelarski szczotkowy silnik SPEED 600 o nominalnym napięciu pracy 7.2V który dobrze znosi krótkie przeciążenia.
 Przekraczanie 100W mocy na wale (przy napięciu 12V) odbywa się nieniszcząco. Po ukończeniu kondycjonera maszynka znajdzie zastosowanie jako bajerancka garażowa wysokoobrotowa szlifierka :). 
 
+[skocz do spisu treści](#spis)
+
 ### 09.01.2026 
 
 Materiał paska wymaga udoskonalenia.
@@ -235,6 +237,8 @@ Materiał paska wymaga udoskonalenia.
 Trwa kompletowanie hardware-u.
 
 ![walking]({{ site.baseurl }}/assets/images/kompletowanie.jpg)
+
+[skocz do spisu treści](#spis)
 
 ### 15.01.2026
 
@@ -246,6 +250,13 @@ Z elektrośmieciowego Sound Blaster-a Live! wylutowałem pasujący do projektu g
 
 ![walking]({{ site.baseurl }}/assets/images/q24576.jpg)
 
+[skocz do spisu treści](#spis)
+
+### 19.01.2026
+
+Robiąc dwustronnie wyszłoby mniejsze. Narazie to prototyp, póżniej "ścisnę". Nawet teraz wymiary są do zaakceptowania.
+
+![walking]({{ site.baseurl }}/assets/images/vrscplytka.jpg)
 
 
 [skocz do spisu treści](#spis)
