@@ -7,11 +7,11 @@ image: assets/images/metfo0.jpg
 tags: 
 ---
 
-Ostatnio natknąłem się na tekst opisujący utwardzanie żywic epoksydowych biguanidem.
+Ostatnio natknąłem się na tekst opisujący utwardzanie żywic epoksydowych 1-(2,6-dimetylofenylo)biguanidem.
 
 https://patents.google.com/patent/DE2024395C3/en
 
-Czy metformina (1,1-dimetylobiguanid) również zareaguje w ten sposób? Sprawdźmy.
+Czy metformina (1,1-dimetylobiguanid) zareaguje w podobny sposób? Sprawdźmy.
 
 Na początku ostrzeżenie: podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
 
