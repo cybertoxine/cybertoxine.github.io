@@ -33,4 +33,4 @@ Produktem reakcji była bardzo twarda, trudna do zarysowania, krucha, spójna (d
 
 ![walking]({{ site.baseurl }}/assets/images/metfo5.jpg)
 
-Optymalnych warunków przeprowadzania reakcji utwardzania nie znam. Opisana próba dowodzi jedynie, że utwardzanie żywic epoksydowych metforminą jest możliwe.
+Nie ustaliłem optymalnych warunków przeprowadzania sieciowania, nie znam optymalnej proporcji składników mieszaniny. Opisana próba dowodzi jedynie, że utwardzanie żywic epoksydowych metforminą jest możliwe.
