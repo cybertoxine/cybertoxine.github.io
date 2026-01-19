@@ -13,7 +13,7 @@ https://patents.google.com/patent/DE2024395C3/en
 
 Czy metformina (1,1-dimetylobiguanid) również zareaguje w ten sposób? Sprawdźmy.
 
-Na początku ostrzeżenie: podczas termicznego metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
+Na początku ostrzeżenie: podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
 
 ![walking]({{ site.baseurl }}/assets/images/metfo1.jpg)
 
