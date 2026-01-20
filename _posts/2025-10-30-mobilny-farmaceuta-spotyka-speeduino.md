@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 19.01.2026<p>
+<p style="color:green;">Ostatnia aktualizacja: 20.01.2026<p>
 <a name="spis"></a>
    
 ## Spis treści:
@@ -28,7 +28,7 @@ tags: [sticky]
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji, dziennik prac.
-   - [6a] Etapu pierwszego. [skocz](#etap1)
+   - [6a] Etapu pierwszego. [07.01.2026](#etap1a) [09.01.2026](#etap1b) [15.01.2026](#etap1c) [19.01.2026](#etap1d) 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
    - [7a] Etap pierwszy.
@@ -204,7 +204,7 @@ Wyjście kondycjonera jest izolowane przez U2. D1 sobie mryga gdy trzeba, pełni
 
 [skocz do spisu treści](#spis)
 
-<a name="etap1"></a>
+<a name="etap1a"></a>
 <p><span style="border: 2px solid red; border-radius: 10px; background-color: red;color:white">&nbsp; &nbsp;[6a]&nbsp; &nbsp;</span></p>
 
 ### 07.01.2026
@@ -228,6 +228,7 @@ Przekraczanie 100W mocy na wale (przy napięciu 12V) odbywa się nieniszcząco. 
 
 [skocz do spisu treści](#spis)
 
+<a name="etap1b"></a>
 ### 09.01.2026 
 
 Materiał paska wymaga udoskonalenia.
@@ -240,6 +241,7 @@ Trwa kompletowanie hardware-u.
 
 [skocz do spisu treści](#spis)
 
+<a name="etap1c"></a>
 ### 15.01.2026
 
 Namalowałem prototypową płytkę do kondycjonera DSP z DCR. Widok z góry. Płytka jest dwustronna. Z drugiej strony znajdą się U3 i U4 otoczone polem miedzi.
@@ -252,6 +254,7 @@ Z elektrośmieciowego Sound Blaster-a Live! wylutowałem pasujący do projektu g
 
 [skocz do spisu treści](#spis)
 
+<a name="etap1d"></a>
 ### 19.01.2026
 
 Robiąc dwustronnie wyszłoby mniejsze. Narazie to prototyp, póżniej "ścisnę". Nawet teraz wymiary są do zaakceptowania.
