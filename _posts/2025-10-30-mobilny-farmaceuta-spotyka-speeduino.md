@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 20.01.2026<p>
+<p style="color:green;">Ostatnia aktualizacja: 21.01.2026<p>
 <a name="spis"></a>
    
 ## Spis treści:
@@ -28,7 +28,7 @@ tags: [sticky]
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji, dziennik prac.
-   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d) 
+   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)•[21.01.2026](#etap1e) 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
    - [7a] Etap pierwszy.
@@ -261,6 +261,25 @@ Robiąc dwustronnie wyszłoby mniejsze. Narazie to prototyp, póżniej "ścisnę
 
 ![walking]({{ site.baseurl }}/assets/images/vrscplytka.jpg)
 
+
+[skocz do spisu treści](#spis)
+
+<a name="etap1e"></a>
+### 21.01.2026
+
+Mikrokontroler i transoptory gotowe do przylutowania:
+
+![walking]({{ site.baseurl }}/assets/images/vrscchip.jpg)
+
+ATtiny44A opcja N, industrial, -40 do 105 st.C. 
+Przy overclockingu lepsza byłaby opcja F czyli od -40 do 125 st.C. 
+
+TCXO 24.576 MHz:
+
+![walking]({{ site.baseurl }}/assets/images/vrscq.jpg)
+
+Wbudowany w ATtiny44A układ współpracujący z zewnętrznymi kwarcami "nie lubi" częstotliwości wyższych od 20 MHz. Dlatego dodałem zewnętrzny kompletny generator.
+Pod ręką miałem tylko taki wielki. :)
 
 [skocz do spisu treści](#spis)
 
