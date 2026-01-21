@@ -34,3 +34,13 @@ Produktem reakcji była bardzo twarda, trudna do zarysowania, krucha, spójna (d
 ![walking]({{ site.baseurl }}/assets/images/metfo5.jpg)
 
 Nie ustaliłem optymalnych warunków przeprowadzania sieciowania, nie znam optymalnej proporcji składników mieszaniny. Opisana próba dowodzi jedynie, że utwardzanie żywic epoksydowych metforminą jest możliwe.
+
+Kolejnym krokiem jaki warto poczynić to próba syntezy pochodnej 1,3,5-triazyny z metforminy i jakiegoś estru.
+
+http://electronicsandbooks.com/edt/manual/Magazine/J/Journal%20of%20the%20American%20Chemical%20Society%20US/1957%20%20(vol%20079)/04%20%20(0761-1014)/0941-0944.pdf
+
+Intuicyjnie jak na ten moment patrząc na sprawy, pierścień triazyny powinien kondensując z poliepoksydami tworzyć mocno rozgałęzione struktury o wysokiej temperaturze przejścia w stan szklisty.
+
+Takie tworzywo byłoby odporne na wysokie temperatury oraz atrakcyjne kosztowo (w aptekach przekazuje się do utylizacji ogromne ilości leków z metforminą) więc mogłoby znaleźć zastosowanie w naprawach osprzętu silników spalinowych czy nawet w procesie wytwarzania mniej odpowiedzialnych elementów przenoszących siły.
+
+Ciekawe, nie?
