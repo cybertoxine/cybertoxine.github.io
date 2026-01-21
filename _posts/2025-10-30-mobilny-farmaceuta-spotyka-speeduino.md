@@ -269,14 +269,14 @@ Robiąc dwustronnie wyszłoby mniejsze. Narazie to prototyp, póżniej "ścisnę
 
 Mikrokontroler i transoptory gotowe do przylutowania:
 
-![walking]({{ site.baseurl }}/assets/images/vrscchip.jpg)
+![walking]({{ site.baseurl }}/assets/images/vrscq.jpg)
 
 ATtiny44A opcja N, industrial, -40 do 105 st.C. 
 Przy overclockingu lepsza byłaby opcja F czyli od -40 do 125 st.C. 
 
 TCXO 24.576 MHz:
 
-![walking]({{ site.baseurl }}/assets/images/vrscq.jpg)
+![walking]({{ site.baseurl }}/assets/images/vrscchip.jpg)
 
 Wbudowany w ATtiny44A układ współpracujący z zewnętrznymi kwarcami "nie lubi" częstotliwości wyższych od 20 MHz. Dlatego dodałem zewnętrzny kompletny generator.
 Pod ręką miałem tylko taki wielki. :)
