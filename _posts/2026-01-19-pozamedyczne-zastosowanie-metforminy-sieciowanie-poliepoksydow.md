@@ -47,4 +47,10 @@ Najłatwiej dostępnymi estrami są tłuszcze. Czy metformina zareaguje z olejem
 
 Czy reakcja z kwasem acetylosalicylowym (też ester, pełno tego w aptekarskich paczuszkach przekazywanych do utylizacji) da jakiś użyteczny produkt?
 
-Robi się ciekawie, nie?
+Tutaj opisano wydajną syntezę triazyn z metforminy i aldehydów aromatycznych:
+
+https://www.nature.com/articles/s41598-024-60206-3
+
+Robi się ciekawie, nie? Może uda się ustalić przepis na przydatny w warsztacie (i tani!!!) materiał termoutwardzalny o zadawalającej wytrzymałości mechanicznej i odporności na temperaturę.
+
+
