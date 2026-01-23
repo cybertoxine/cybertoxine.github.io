@@ -30,7 +30,10 @@ Dokumentacja AD136 VI: https://www.mgelectronic.rs/ProductFilesDownload?Id=7821
 
 Fotka zdobycznego AD136 VI:
 
-Cieszę się z pokazanego germanowca ponieważ chcę by wstępna przetwornica startowała samoczynnie po dołączeniu ogniwa i by jej wydajność po starcie była wystarczająca do wysterowania drivera bramek FET-ów i zasilenia mikrokontrolera. AD136 VI powinien z zapasem spełnić oczekiwania już przy napięciu zasilania wynoszącym 0.3V.
+![walking]({{ site.baseurl }}/assets/images/ad136.png)
+
+
+Cieszę się z pokazanego germanowca ponieważ chcę by wstępna przetwornica startowała samoczynnie po dołączeniu ogniwa i by jej wydajność po starcie była wystarczająca do wysterowania drivera bramek FET-ów i zasilenia mikrokontrolera. AD136 VI powinien z zapasem spełnić oczekiwania już przy napięciu zasilania wynoszącym 0.3V. Nie dość, że germanowy to jeszcze niemiecki :).
 
 Przetwornica właściwa:
 
