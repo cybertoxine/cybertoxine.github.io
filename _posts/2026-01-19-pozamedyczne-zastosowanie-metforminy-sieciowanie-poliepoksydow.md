@@ -39,18 +39,27 @@ Kolejnym krokiem jaki warto poczynić to próba syntezy pochodnej 1,3,5-triazyny
 
 http://electronicsandbooks.com/edt/manual/Magazine/J/Journal%20of%20the%20American%20Chemical%20Society%20US/1957%20%20(vol%20079)/04%20%20(0761-1014)/0941-0944.pdf
 
-Intuicyjnie jak na ten moment patrząc na sprawy, pochodne triazyny powinny kondensując z poliepoksydami tworzyć mocno rozgałęzione struktury o wysokiej temperaturze przejścia w stan szklisty.
+Warto też sprawdzić czy poprawienie rozpszczalności metforminy w żywicy epoksydowej, poprzez utworzenie mydła metforminowego, nie przyniesie wystarczająco dobrych rezultatów:
 
-Takie tworzywo byłoby odporne na wysokie temperatury oraz atrakcyjne kosztowo (w aptekach przekazuje się do utylizacji ogromne ilości leków z metforminą) więc mogłoby znaleźć zastosowanie w naprawach osprzętu silników spalinowych czy nawet w procesie wytwarzania mniej odpowiedzialnych elementów przenoszących siły.
-
-Najłatwiej dostępnymi estrami są tłuszcze. Czy metformina zareaguje z olejem spożywczym (z wydzieleniem glicerolu) tworząc triazynowe pochodne kwasów tłuszczowych?
-
-Czy reakcja z kwasem acetylosalicylowym (też ester, pełno tego w aptekarskich paczuszkach przekazywanych do utylizacji) da jakiś użyteczny produkt?
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7859945/pdf/ao0c04779.pdf
 
 Tutaj opisano wydajną syntezę triazyn z metforminy i aldehydów aromatycznych:
 
 https://www.nature.com/articles/s41598-024-60206-3
 
+Intuicyjnie jak na ten moment patrząc na sprawy, pochodne triazyny powinny kondensując z poliepoksydami tworzyć mocno rozgałęzione struktury o wysokiej temperaturze przejścia w stan szklisty.
+
+Takie tworzywo byłoby odporne na wysokie temperatury oraz atrakcyjne kosztowo (w aptekach przekazuje się do utylizacji ogromne ilości leków z metforminą) więc mogłoby znaleźć zastosowanie w naprawach osprzętu silników spalinowych czy nawet w procesie wytwarzania mniej odpowiedzialnych elementów przenoszących siły.
+
+Kompozyt zawierający grafit i dużą ilość kwasów tłuszczowych powinien mieć dobre właściwości samosmarowne.
+
+Najłatwiej dostępnymi estrami są tłuszcze. Czy metformina zareaguje z olejem spożywczym (z wydzieleniem glicerolu) tworząc triazynowe pochodne kwasów tłuszczowych?
+
+Czy reakcja z kwasem acetylosalicylowym (też ester, pełno tego w aptekarskich paczuszkach przekazywanych do utylizacji) da jakiś użyteczny produkt?
+
+Czy reakcja mydła metforminowego z żywicą epoksydową da produkt o Tg > 150 st. C.? Czy wolne kwasy tłuszczowe nie zaburzą struktury materiału?
+
 Robi się ciekawie, nie? Może uda się ustalić przepis na przydatny w warsztacie (i tani!!!) materiał termoutwardzalny o zadawalającej wytrzymałości mechanicznej i odporności na temperaturę.
+
 
 
