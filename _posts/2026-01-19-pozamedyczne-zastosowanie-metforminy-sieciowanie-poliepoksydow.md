@@ -43,6 +43,8 @@ Warto też sprawdzić czy poprawienie rozpszczalności metforminy w żywicy epok
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7859945/pdf/ao0c04779.pdf
 
+https://pmc.ncbi.nlm.nih.gov/articles/instance/7859945/bin/ao0c04779_si_001.pdf
+
 Tutaj opisano wydajną syntezę triazyn z metforminy i aldehydów aromatycznych:
 
 https://www.nature.com/articles/s41598-024-60206-3
