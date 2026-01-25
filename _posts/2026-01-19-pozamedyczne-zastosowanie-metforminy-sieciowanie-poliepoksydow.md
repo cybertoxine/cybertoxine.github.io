@@ -45,6 +45,14 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC7859945/pdf/ao0c04779.pdf
 
 https://pmc.ncbi.nlm.nih.gov/articles/instance/7859945/bin/ao0c04779_si_001.pdf
 
+Związki metforminy i ich temperatury topnienia:
+
+chlorowodorek metforminy (substancja w tabletkach z metforminą)  - 219 st.C.
+oleinian metforminy - 187 st.C
+laurynian metforminy - 178 st.C
+
+Temperatura topnienia mydeł metforminowych pozwala na efektywne zmieszanie ich z żywicą!
+
 Tutaj opisano wydajną syntezę triazyn z metforminy i aldehydów aromatycznych:
 
 https://www.nature.com/articles/s41598-024-60206-3
@@ -52,6 +60,8 @@ https://www.nature.com/articles/s41598-024-60206-3
 Intuicyjnie jak na ten moment patrząc na sprawy, pochodne triazyny powinny kondensując z poliepoksydami tworzyć mocno rozgałęzione struktury o wysokiej temperaturze przejścia w stan szklisty.
 
 Takie tworzywo byłoby odporne na wysokie temperatury oraz atrakcyjne kosztowo (w aptekach przekazuje się do utylizacji ogromne ilości leków z metforminą) więc mogłoby znaleźć zastosowanie w naprawach osprzętu silników spalinowych czy nawet w procesie wytwarzania mniej odpowiedzialnych elementów przenoszących siły.
+
+Nawet bez utworzenia pierścienia produkt reakcji ze zdjęcia był już twardy gdy tylko trochę ostygł więc może nie ma sensu kombinować za dużo.
 
 Kompozyt zawierający grafit i dużą ilość kwasów tłuszczowych powinien mieć dobre właściwości samosmarowne.
 
