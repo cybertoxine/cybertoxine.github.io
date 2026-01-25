@@ -50,7 +50,7 @@ Związki metforminy i ich temperatury topnienia:
 chlorowodorek metforminy (substancja w tabletkach z metforminą)  - 219 °C
 oleinian metforminy - 187 °C
 laurynian metforminy - 178 °C
-dekanian metforminy - 140–143 °C
+dekanian metforminy - 140 °C
 
 Temperatura topnienia mydeł metforminowych pozwala na efektywne zmieszanie ich z żywicą!
 
