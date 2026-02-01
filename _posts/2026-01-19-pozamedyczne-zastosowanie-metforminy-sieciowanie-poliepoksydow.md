@@ -6,6 +6,7 @@ categories: [ metformina, sieciowanie, epoksydy, chemia]
 image: assets/images/metfo0.jpg
 tags: 
 ---
+### Aktualizacja: 01022026
 
 Ostatnio natknąłem się na tekst opisujący utwardzanie żywic epoksydowych 1-(2,6-dimetylofenylo)biguanidem.
 
@@ -45,14 +46,19 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC7859945/pdf/ao0c04779.pdf
 
 https://pmc.ncbi.nlm.nih.gov/articles/instance/7859945/bin/ao0c04779_si_001.pdf
 
+Warto też wypróbować koreański patent z maślanem. Temperatura nie najniższa ale za to niska masa molowa opisanej soli:
+
+https://patents.google.com/patent/KR20110007985A/en#:~:text=Metformin%20butyrate%20of%20the%20present%20invention%20is,as%20a%20pharmaceutically%20acceptable%20salt%20of%20metformin.
+
 Związki metforminy i ich temperatury topnienia:
 
 chlorowodorek metforminy (substancja w tabletkach z metforminą)  - 219 °C
 oleinian metforminy - 187 °C
 laurynian metforminy - 178 °C
 dekanian metforminy - 140 °C
+maślan metforminy - 162 °C
 
-Temperatura topnienia mydeł metforminowych pozwala na efektywne zmieszanie ich z żywicą!
+Temperatura topnienia mydeł metforminowych i maślanu metforminy pozwala na efektywne zmieszanie tych związków z żywicą!
 
 Tutaj opisano wydajną syntezę triazyn z metforminy i aldehydów aromatycznych:
 
@@ -70,7 +76,11 @@ Najłatwiej dostępnymi estrami są tłuszcze. Czy metformina zareaguje z olejem
 
 Czy reakcja z kwasem acetylosalicylowym (też ester, pełno tego w aptekarskich paczuszkach przekazywanych do utylizacji) da jakiś użyteczny produkt?
 
+https://pubs.acs.org/doi/10.1021/acsomega.3c06721
+
 Czy reakcja mydła metforminowego z żywicą epoksydową da produkt o Tg > 150 st. C.? Czy wolne kwasy tłuszczowe nie zaburzą struktury materiału?
+
+Czy maślan metforminy z powodu małej masy molowej i "lipofilowego ogonka" rozpuści się w żywicy już niskiej temperaturze?
 
 Robi się ciekawie, nie? Może uda się ustalić przepis na przydatny w warsztacie (i tani!!!) materiał termoutwardzalny o zadawalającej wytrzymałości mechanicznej i odporności na temperaturę.
 
