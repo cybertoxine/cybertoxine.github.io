@@ -6,7 +6,49 @@ categories: [ apteczny śmietnik, metformina, sieciowanie, epoksydy, chemia]
 image: assets/images/metfo0.jpg
 tags: 
 ---
-### Aktualizacja: 01022026
+
+
+
+### 04022026:
+
+Rozkruszone tabletki zawierające 15g chlorowodorku metforminy zalano 50ml alkoholu izopropylowego. Dodano 6.6g KOH i mieszano w temp. około 50 °C przez kilkanaście minut do całkowitego rozpuszczenia grudek KOH. Odstawiono do ostygnięcia. Po 15 minutach dodawano porcjami aceton cały czas mieszając. Dodano około 100ml acetonu. Po kilku minutach mieszanina rodzieliła się na 2 warstwy.
+Dolna warstwa miała wysokość około 1/5 górnej warstwy i była białą zawiesiną. Górna przejrzysta warstwa na początku ledwie zabarwiona na żółto po kilku minutach nabrała koloru słomkowego.
+Zebrano górną warstwę. Rozpuszczalnik odparowano otrzymując drobnokrystaliczną metforminę w formie wolnej zasady.
+
+Zmieszano metforminę z żywicą epoksydową (Meteor Color). Składników nie odważano. Postanowiono przeprowadzić tylko "bardzo wstępną" próbę.
+
+Ogrzewano na palniku kuchenki mierząc temperaturę i cały czas mieszając.
+
+Cykl 1: 25°C-130°C-25°C  Tg po cyklu: około 55°C (gwałtowne, prawie natychmiastowe przejście od stanu plastycznego do sztywnego i kruchego)
+
+Cykl 2: 25°C-160°C-25°C  Tg po cyklu: około 75°C (podobnie gwałtowne przejście) 
+
+Cykl 3: 25°C-185°C-25°C  Tg po cyklu: około 95°C (granica wyraźna ale rozmyta tak jakoś na odcinku 10°C, ciemnienie mieszaniny i pojawienie się nowego "zapaszku", przekraczanie 180°C raczej bez sensu)
+
+Wnioski i obserwacje:
+
+Mieszanina stała się jednorodna (gołym okiem patrząc) przy 130°C. Po zatrzymaniu grzania było czuć, że mieszanina gęstniała.
+
+Sieciowanie przebiegało szybko już przy tej temperaturze więc raczej nie warto jej przekraczać.
+
+Najtrudniej było złamać produkt po 2 cyklu więc 185 °C nawet chwilowo to na pewno za wysoka temperatura.
+
+Produkty po każdym cyklu w temperaturze pokojowej "bez cienia" elastyczności. Powierzchnia szklista, trudna do zarysowania --> duża twardość.
+
+Wkurzająco pieniło się koło 60°C i potem koło 100 °C. Zapewne uciekał aceton i potem woda. Przy 180 °C znowu pienienie czyli dochodziło już do rozkładu metforminy.
+
+Jestem rozczarowany niską Tg. Mam nadzieję, że Tg poprawi się gdy wydłużę czas utwardzania.
+
+Kolejne operacje:
+
+1. Wykonanie termostatowanej formy.
+2. Sprawdzenie jak mieszanina sieciuje w temp. 130 °C utrzymywanej przez dłuższy czas.
+3. Ustalenie optymalnej ilości metforminy w stosunku do żywicy.
+4. Przetestowanie paru dodatków zmniejszających kruchość i paru wypełniaczy (m. in. sproszkowanych ścian pestek wiśni/tarniny/śliwy/brzoskwini/oliwki)
+5. Pokombinować z triazynami i metyloksantynami.
+
+
+### 01022026:
 
 Ostatnio natknąłem się na tekst opisujący utwardzanie żywic epoksydowych 1-(2,6-dimetylofenylo)biguanidem.
 
