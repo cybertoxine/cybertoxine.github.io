@@ -41,6 +41,8 @@ Wkurzająco pieniło się koło 60°C i potem koło 100 °C. Zapewne uciekał ac
 
 Jestem rozczarowany niską Tg. Mam nadzieję, że Tg poprawi się gdy wydłużę czas utwardzania.
 
+Wybitna adhezja do stali nierdzewnej - trudno było zeskrobać z końcówki termometru.
+
 Kolejne operacje:
 
 1. Wykonanie termostatowanej formy.
@@ -48,6 +50,17 @@ Kolejne operacje:
 3. Ustalenie optymalnej ilości metforminy freebase w stosunku do żywicy.
 4. Przetestowanie paru dodatków zmniejszających kruchość i paru wypełniaczy (m. in. sproszkowanych ścian pestek wiśni/tarniny/śliwy/brzoskwini/oliwki)
 5. Pokombinować z triazynami i metyloksantynami.
+
+Fotki z labo:
+
+![walking]({{ site.baseurl }}/assets/images/nmetfo1.jpg)
+
+![walking]({{ site.baseurl }}/assets/images/nmetfo2.jpg)
+
+![walking]({{ site.baseurl }}/assets/images/nmetfo3.jpg)
+
+![walking]({{ site.baseurl }}/assets/images/nmetfo4.jpg)
+
 
 
 ### 01022026:
