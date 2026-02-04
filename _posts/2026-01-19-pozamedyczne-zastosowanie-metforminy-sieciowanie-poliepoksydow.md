@@ -27,6 +27,8 @@ Cykl 3: 25°C-185°C-25°C  Tg po cyklu: około 95°C (granica wyraźna ale rozm
 
 Wnioski i obserwacje:
 
+Metformina freebase zachowuje się lepiej od chlorowodorku.
+
 Mieszanina stała się jednorodna (gołym okiem patrząc) przy 130°C. Po zatrzymaniu grzania było czuć, że mieszanina gęstniała.
 
 Sieciowanie przebiegało szybko już przy tej temperaturze więc raczej nie warto jej przekraczać.
@@ -43,7 +45,7 @@ Kolejne operacje:
 
 1. Wykonanie termostatowanej formy.
 2. Sprawdzenie jak mieszanina sieciuje w temp. 130 °C utrzymywanej przez dłuższy czas.
-3. Ustalenie optymalnej ilości metforminy w stosunku do żywicy.
+3. Ustalenie optymalnej ilości metforminy freebase w stosunku do żywicy.
 4. Przetestowanie paru dodatków zmniejszających kruchość i paru wypełniaczy (m. in. sproszkowanych ścian pestek wiśni/tarniny/śliwy/brzoskwini/oliwki)
 5. Pokombinować z triazynami i metyloksantynami.
 
