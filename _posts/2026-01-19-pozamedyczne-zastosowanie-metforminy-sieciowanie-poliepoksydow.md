@@ -7,7 +7,15 @@ image: assets/images/metfo0.jpg
 tags: 
 ---
 
+Uwaga! Podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
 
+### 05022026:
+
+Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszaninie acetonu i izopropanolu zyskał ładny czerwony kolor.
+
+![walking]({{ site.baseurl }}/assets/images/metred.jpg)
+
+Co to za chromuchomorofor, do cholery?
 
 ### 04022026:
 
@@ -70,8 +78,6 @@ Ostatnio natknąłem się na tekst opisujący utwardzanie żywic epoksydowych 1-
 https://patents.google.com/patent/DE2024395C3/en
 
 Czy metformina (1,1-dimetylobiguanid) zareaguje w podobny sposób? Sprawdźmy.
-
-Na początku ostrzeżenie: podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
 
 ![walking]({{ site.baseurl }}/assets/images/metfo1.jpg)
 
