@@ -15,7 +15,7 @@ Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszanini
 
 ![walking]({{ site.baseurl }}/assets/images/metred.jpg)
 
-Co to za chromuchomorofor, do cholery?
+Co to za chromuchomorofor, do cholery? Najpewniej to kolor produktów kondensacji aldolowej acetonu zachodzącej w środowisku zasadowym (metformina jest zasadą Schiff-a). Albo to po prostu krew Szatana jest.
 
 ### 04022026:
 
