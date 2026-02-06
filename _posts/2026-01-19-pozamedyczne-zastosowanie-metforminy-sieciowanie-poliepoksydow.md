@@ -52,11 +52,11 @@ Zmieszano metforminę z żywicą epoksydową (Meteor Color). Składników nie od
 
 Ogrzewano na palniku kuchenki mierząc temperaturę i cały czas mieszając.
 
-Cykl 1: 25°C-130°C-25°C  Tg po cyklu: około 55°C (gwałtowne, prawie natychmiastowe przejście od stanu plastycznego do sztywnego i kruchego)
+Cykl 1: 25°C-130°C-25°C  Tg po cyklu: na czuja około 55°C (gwałtowne, prawie natychmiastowe przejście od stanu plastycznego do sztywnego i kruchego)
 
-Cykl 2: 25°C-160°C-25°C  Tg po cyklu: około 75°C (podobnie gwałtowne przejście) 
+Cykl 2: 25°C-160°C-25°C  Tg po cyklu: pi x stała biotensometryczna około 75°C (podobnie gwałtowne przejście) 
 
-Cykl 3: 25°C-185°C-25°C  Tg po cyklu: około 95°C (granica wyraźna ale rozmyta tak jakoś na odcinku 10°C, ciemnienie mieszaniny i pojawienie się nowego "zapaszku", przekraczanie 180°C raczej bez sensu)
+Cykl 3: 25°C-185°C-25°C  Tg po cyklu: na maćkowe oko około 95°C (granica wyraźna ale rozmyta tak jakoś na odcinku 10°C, ciemnienie mieszaniny i pojawienie się nowego "zapaszku", przekraczanie 180°C raczej bez sensu)
 
 Wnioski i obserwacje:
 
