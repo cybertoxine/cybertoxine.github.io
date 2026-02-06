@@ -24,6 +24,8 @@ Spełnia kryteria niskiej ceny (metforminę mam z odzysku, aceton, IPA i KOH są
 
 Poniżej gfx z substancjami jakie, jak przypuszczam, znajdują się w otrzymanym płynie.
 
+![walking]({{ site.baseurl }}/assets/images/pho2.jpg)
+
 ### 05.02.2026:
 
 Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszaninie acetonu i izopropanolu zyskał ładny czerwony kolor.
