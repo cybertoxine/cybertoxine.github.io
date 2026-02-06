@@ -9,7 +9,22 @@ tags:
 
 Uwaga! Podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
 
-### 05022026:
+### 06.02.2026:
+
+Roztwór stał w temperaturze pokojowej kolejne 24 godziny. Po tym czasie odparowano rozuszczalniki. Pozostałość zapachem przypominała olejek Patchouli, była gęsta, płynna i jednolita w temperaturze trzydziestu paru stopni celsiusza, kolor ciemnoczerwony. Otrzymano więc rozwór zawierający wolną zasadę metforminy w produktach kondensacji aldolowej acetonu. Przypuszczam, że w pozostałości obecne są również 1,3,5-triazyny. Jakie dokładnie i w jakiej ilości trudno mi powiedzieć.
+
+Po zmieszaniu z żywicą epoksydową i rozpoczęciu podgrzewania całość zaczęła się intensywnie pienić. Piana szybko opadła. Tempo utwardzania było bardzo szybkie w podwyższonej temperaturze. W temperaturze pokojowej nie zauważyłem zmiany "gęstości".
+
+![walking]({{ site.baseurl }}/assets/images/pho0.jpg)
+
+![walking]({{ site.baseurl }}/assets/images/pho1.jpg)
+
+Jestem zadowolony z otrzymanego produktu. Jest mieszalny z żywicą epoksydową w sensownej temperaturze i reaguje z nią szybko. Znajomość dokładnego składu mieszaniny nie jest mi potrzebna.
+Spełnia kryteria niskiej ceny (metforminę mam z odzysku, aceton, IPA i KOH są tanie i dostępne). Operacje laboratoryjne są proste, powtarzalne. Brunatnoczerwony kolor nie przeszkadza.
+
+Poniżej gfx z substancjami jakie, jak przypuszczam, znajdują się w otrzymanym płynie.
+
+### 05.02.2026:
 
 Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszaninie acetonu i izopropanolu zyskał ładny czerwony kolor.
 
@@ -17,7 +32,7 @@ Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszanini
 
 Co to za chromuchomorofor, do cholery? Najpewniej to kolor produktów kondensacji aldolowej acetonu zachodzącej w środowisku zasadowym (metformina jest zasadą Schiff-a). Albo to po prostu krew Szatana jest.
 
-### 04022026:
+### 04.02.2026:
 
 Rozkruszone tabletki zawierające 15g chlorowodorku metforminy zalano 50ml alkoholu izopropylowego. Dodano 6.6g KOH i mieszano w temp. około 50 °C przez kilkanaście minut do całkowitego rozpuszczenia grudek KOH. Odstawiono do ostygnięcia. Po 15 minutach dodawano porcjami aceton cały czas mieszając. Dodano około 100ml acetonu. Po kilku minutach mieszanina rodzieliła się na 2 warstwy.
 Dolna warstwa miała wysokość około 1/5 górnej warstwy i była białą zawiesiną. Górna przejrzysta warstwa na początku ledwie zabarwiona na żółto po kilku minutach nabrała koloru słomkowego.
@@ -71,7 +86,7 @@ Fotki z labo:
 
 
 
-### 01022026:
+### 01.02.2026:
 
 Ostatnio natknąłem się na tekst opisujący utwardzanie żywic epoksydowych 1-(2,6-dimetylofenylo)biguanidem.
 
