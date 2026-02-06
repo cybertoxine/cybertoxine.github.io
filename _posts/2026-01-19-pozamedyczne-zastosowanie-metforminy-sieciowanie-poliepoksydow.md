@@ -19,12 +19,20 @@ Po zmieszaniu z żywicą epoksydową i rozpoczęciu podgrzewania całość zacz�
 
 ![walking]({{ site.baseurl }}/assets/images/pho1.jpg)
 
-Jestem zadowolony z otrzymanego produktu. Jest mieszalny z żywicą epoksydową w sensownej temperaturze i reaguje z nią szybko. Znajomość dokładnego składu mieszaniny nie jest mi potrzebna.
+Po utwardzeniu próbka topiła się po szybkim, silnym podgrzaniu więc JESZCZE mamy do czynienia z termoplastem. Popracuje się nad procesem utwardzania i będzie gicior-thermoset (ma się rozpadać, kruszyć pod wpływem wysokiej temperatury z resztą objawów pirolizy czyli smrodem i brunatnieniem).
+
+Jestem WSTĘPNIE zadowolony z otrzymanego produktu. Jest mieszalny z żywicą epoksydową w sensownej temperaturze i reaguje z nią szybko. Znajomość dokładnego składu mieszaniny nie jest mi potrzebna.
 Spełnia kryteria niskiej ceny (metforminę mam z odzysku, aceton, IPA i KOH są tanie i dostępne). Operacje laboratoryjne są proste, powtarzalne. Brunatnoczerwony kolor nie przeszkadza.
 
 Poniżej gfx z substancjami jakie, jak przypuszczam, znajdują się w otrzymanym płynie.
 
 ![walking]({{ site.baseurl }}/assets/images/pho2.jpg)
+
+Jeśli ten hardener ostatecznie okaże się dobry to może pokuszę się o syntezę żywicy epoksydowej z jakiegoś oleju roślinnego:
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/app.55560
+
+Jak już ciąć koszty to ciąć koszty do końca ;-) 
 
 ### 05.02.2026:
 
