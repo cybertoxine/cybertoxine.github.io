@@ -34,6 +34,16 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/app.55560
 
 Jak już ciąć koszty to ciąć koszty do końca ;-) 
 
+Kolejne operacje:
+
+1. Sprawdzenie jak na proces utwardzania wpłynie dodatek kwasu salicylowego (akcelerator, plastyfikator).
+
+   https://polymerinnovationblog.com/accelerators-for-amine-curing-agents/
+   https://link.springer.com/article/10.1007/s10965-025-04480-3
+
+ 2. Zastanowienie się nad tym jak ograniczyć pienienie zachowując dobrą rozpuszczalność utwardzacza w żywicy.
+   
+
 ### 05.02.2026:
 
 Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszaninie acetonu i izopropanolu zyskał ładny czerwony kolor.
