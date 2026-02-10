@@ -25,7 +25,7 @@ Po dojściu do 80°C ochłodzono do temperatury pokojowej. Produkt dawał się f
 
 "Plastelinę" trzymano na płycie żelazka w temp 175°C przez 60 minut.
 
-![walking]({{ site.baseurl }}/assets/images/glut1.jpg)
+![walking]({{ site.baseurl }}/assets/images/glut0.jpg)
 
 Pod koniec utwardzania sprawdzono konsystencję mieszaniny. W 175°C przypominała zachowaniem gumę, co widać na jutubowym szorcie:
 
