@@ -9,6 +9,41 @@ tags:
 
 Uwaga! Podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
 
+### 09.02.2026:
+
+Po trzech dniach spędzonych w kałuwce, roztwór trzymany w temperaturze pokojowej stężniał. Widoczna krystalizacja z dość dużymi kryształkami. Całość jest miękka i jednolita.
+
+![walking]({{ site.baseurl }}/assets/images/glut3.jpg)
+
+Zmieszano utwardzacz z żywicą epoksydową Meteor Color w proporcji MNIEJ-WIĘCEJ 85 części objętościowych żywicy / 15 części objętościowych utwardzacza.
+
+![walking]({{ site.baseurl }}/assets/images/glut2.jpg)
+
+Po dojściu do 80°C ochłodzono do temperatury pokojowej. Produkt dawał się formować jak plastelina.
+
+![walking]({{ site.baseurl }}/assets/images/glut1.jpg)
+
+"Plastelinę" trzymano na płycie żelazka w temp 175°C przez 60 minut.
+
+![walking]({{ site.baseurl }}/assets/images/glut1.jpg)
+
+Pod koniec utwardzania sprawdzono konsystencję mieszaniny. W 175°C przypominała zachowaniem gumę, co widać na jutubowym szorcie:
+
+https://www.youtube.com/shorts/UWoKuzoFWtI
+
+Czyli mamy do czynienia z sieciowaniem albo z tworzeniem polimeru o fikuśnym kształcie albo z jednym i drugim. Zachowanie odmienne od zachowania rozgrzanego HDPE czy PP...
+Po ochłodzeniu produkt nie był elastyczny. Był też znacznie bardziej wytrzymały mechanicznie od produktów utwardzania otrzymywanych wcześniej (sprawdzane biotensometrem paliczkowo-paznokciowym).
+Jakaś szalona adhezja do stali nierdzewnej.
+
+Produkt już mógłby znaleźć zastosowanie praktyczne w jakiejś małoseryjnej produkcji elementów NIE PRACUJĄCYCH w podwyższonych temperaturach.
+Tg około 55°C czyli praca dalej trwa. Celem mojego działania jest otrzymanie TANIEJ masy stabilnej mechanicznie i chemicznie w temperaturze 150°C
+
+Kolejne operacje:
+
+1. Przetestowanie sieciującego potencjału teofiliny dodanej w niewielkiej ilości (wydaje mi się, że pierścień imidazolu pęknie tworząc dwa połączenia z cząsteczkami poliepoksydu, następnie pęknie pierścień pirymidyny tworząc połączenie z kolejnym poliepoksydem).
+2. Ponoć ktoś gdzieś kiedyś używał niewielkiego dodatku mocznika jako akceleratora - sprawdzić czy reakcja będzie przebiegała szybciej ze szczyptą mocznika.
+
+
 ### 06.02.2026:
 
 Roztwór stał w temperaturze pokojowej kolejne 24 godziny. Po tym czasie odparowano rozuszczalniki. Pozostałość zapachem przypominała olejek Patchouli, była gęsta, płynna i jednolita w temperaturze trzydziestu paru stopni celsiusza, kolor ciemnoczerwony. Otrzymano więc rozwór zawierający wolną zasadę metforminy w produktach kondensacji aldolowej acetonu. Przypuszczam, że w pozostałości obecne są również 1,3,5-triazyny. Jakie dokładnie i w jakiej ilości trudno mi powiedzieć.
