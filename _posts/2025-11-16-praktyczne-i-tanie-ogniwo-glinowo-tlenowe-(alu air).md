@@ -7,6 +7,11 @@ image: assets/images/aluair.jpg
 tags: [ featured ]
 ---
 
+02.02.2026 - Postawy teoretyczne i wyniki dotychczasowych badań eksperymentalnych. Pochwalenie się tranzystorem. [skocz](#jeden) 
+11.02.2026 - Suszenie Adblue i zarys planu konstrukcji elektrody dodatniej. [skocz](#jeden) 
+
+
+<a name="dwa"></a>
 ### 11.02.2026
 
 Odparowywanie wody z płynu Adblue do diesli w celu otrzymania krystalicznego mocznika:
@@ -29,7 +34,7 @@ Plan jest w miarę prosty. Zastanawiam się jak to zrobić by się nie przepraco
 
 Ale jak wykonać perforowaną silikonową błonę? A gdybym zaimpregnował silikonem drobną tkaninę?
 
-
+<a name="jeden"></a>
 ### 02.02.2026
 
 Dzisiaj tylko kilka linków z materiałami wiążącymi się z tematem projektu i jedna fotka: 
