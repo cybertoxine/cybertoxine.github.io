@@ -9,7 +9,7 @@ tags: [ featured ]
 
 02.02.2026 - Postawy teoretyczne i wyniki dotychczasowych badań eksperymentalnych. Pochwalenie się tranzystorem. [skocz](#jeden) 
 
-11.02.2026 - Suszenie Adblue i zarys planu konstrukcji elektrody dodatniej. [skocz](#jeden) 
+11.02.2026 - Suszenie Adblue i zarys planu konstrukcji elektrody dodatniej. [skocz](#dwa) 
 
 
 <a name="dwa"></a>
