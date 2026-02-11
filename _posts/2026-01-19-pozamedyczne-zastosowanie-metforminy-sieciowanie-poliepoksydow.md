@@ -9,6 +9,16 @@ tags:
 
 Uwaga! Podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
 
+
+### 11.02.2026:
+
+Podczas czyszczenia żelazka zauważyłem, że produkt ma strukturę pianki z zamkniętymi pęcherzykami. Struktura przypomina trochę przekrój kości ssaków. 
+Końcowy etap utwardzania powinien więc odbywać się z użyciem prasy jeśli materiał ma być ciągły.
+Nie mam czym sprawdzić co pompuję mi ciasto. Wielkiego wyboru nie ma - amoniak, metan, coś dłuższego od foronu, resztki rozpuszczalnika z Meteora.
+Czyszczenie żelazka było bardzo trudne. Klei do stali jak cholera.
+
+![walking]({{ site.baseurl }}/assets/images/glut8.jpg)
+
 ### 09.02.2026:
 
 Po trzech dniach spędzonych w kałuwce, roztwór trzymany w temperaturze pokojowej stężniał. Widoczna krystalizacja z dość dużymi kryształkami. Całość jest miękka i jednolita.
@@ -36,11 +46,11 @@ Po ochłodzeniu produkt nie był elastyczny. Był też znacznie bardziej wytrzym
 Jakaś szalona adhezja do stali nierdzewnej.
 
 Produkt już mógłby znaleźć zastosowanie praktyczne w jakiejś małoseryjnej produkcji elementów NIE PRACUJĄCYCH w podwyższonych temperaturach.
-Tg około 55°C czyli praca dalej trwa. Celem mojego działania jest otrzymanie TANIEJ masy stabilnej mechanicznie i chemicznie w temperaturze 150°C
+Tg około 55°C czyli kombinacje dalej trwają. Celem mojego działania jest otrzymanie TANIEJ masy stabilnej mechanicznie i chemicznie w temperaturze 150°C
 
 Kolejne operacje:
 
-1. Przetestowanie sieciującego potencjału teofiliny dodanej w niewielkiej ilości (wydaje mi się, że pierścień imidazolu pęknie tworząc dwa połączenia z cząsteczkami poliepoksydu, następnie pęknie pierścień pirymidyny tworząc połączenie z kolejnym poliepoksydem).
+1. Przetestowanie sieciującego potencjału teofiliny dodanej w niewielkiej ilości (WYDAJE mi się, że pierścień imidazolu stworzy dwa połączenia z cząsteczkami poliepoksydu, następnie pęknie pierścień pirymidyny tworząc połączenie z kolejnym poliepoksydem).
 2. Ponoć ktoś gdzieś kiedyś używał niewielkiego dodatku mocznika jako akceleratora - sprawdzić czy reakcja będzie przebiegała szybciej ze szczyptą mocznika.
 
 
