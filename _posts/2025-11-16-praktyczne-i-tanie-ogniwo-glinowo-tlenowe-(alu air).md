@@ -6,7 +6,25 @@ categories: [ elektrochemia, energoelektronika ]
 image: assets/images/aluair.jpg
 tags: [ featured ]
 ---
-w przygotowaniu...
+
+### 11.02.2026
+
+Odparowywanie wody z płynu Adblue do diesli w celu otrzymania krystalicznego mocznika:
+
+![walking]({{ site.baseurl }}/assets/images/alu0.jpg)
+
+Mocznik potrzebny do otrzymania dopingowanego azotem węgla pełniącego funkcję katalizatora reakcji redukcji tlenu.
+
+Mój plan to utworzenie związku kompleksowego metforminy z kobaltem, dalej piroliza mieszaniny tego związku z mocznikiem i węglem aktywowanym w temperaturze 700 st. C.
+Produkt po zmieleniu zmieszam z minimalną ilością polichloroprenu rozpuszczonego w toluenie.
+Powstałym płynnym jeszcze materiałem elektrodowym powlekę drobny miedziany poniklowany drut i wysuszę. Po odparowaniu toulenu powstanie stała masa.
+Takie druciki ułożone jeden przy drugim utworzą płaską elektrodę o ogromnej powierzchni czynnej i ekstrmalnie niskiej rezystancji wewnętrznej.
+Oba końce każdego drucika będą połączone poprzez lutowanie z current collectorem. Więc w sumie będą 2 current collectory po przeciwległych stronach drucikowego sheet-a.
+Drucikowy sheet będzie dociśnięty do perforowanej (liczne bardzo drobne otwory) silikonowej błony.
+To combo z jednej strony będzie stykać się z powietrzem a z drugiej strony z elektrolitem.
+
+
+### 02.02.2026
 
 Dzisiaj tylko kilka linków z materiałami wiążącymi się z tematem projektu i jedna fotka: 
 
