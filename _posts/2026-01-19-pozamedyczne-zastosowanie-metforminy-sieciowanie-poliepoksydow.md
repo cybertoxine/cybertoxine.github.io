@@ -12,11 +12,17 @@ Uwaga! Podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaj
 Spis treści:
 
 01.02.2026 - Próba z rozkruszoną tabletką, refleksje w temacie optymalizacji, nakreślenie celu pracy i problemów jakie zamierzam efektami tej pracy rozwiązać. [skocz](#jeden) 
+
 04.02.2026 - Otrzymanie metforminy w formie wolnej zasady. [skocz](#dwa) 
+
 05.02.2026 - Aldolowa kondensacja acetonu w acetonie. [skocz](#trzy) 
+
 06.02.2026 - Utwardzacz w formie pasty. [skocz](#cztery) 
+
 09.02.2026 - Smażenie gluta na żelazku. [skocz](#piec) 
+
 11.02.2026 - Żmudne zeskrobywanie utwardzonej żywicy z żelazka. [skocz](#szesc) 
+
 
 <a name="szesc"></a>
 ### 11.02.2026:
