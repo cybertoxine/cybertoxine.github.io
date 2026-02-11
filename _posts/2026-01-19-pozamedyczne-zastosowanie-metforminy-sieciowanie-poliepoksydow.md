@@ -9,7 +9,16 @@ tags:
 
 Uwaga! Podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
 
+Spis treści:
 
+01.02.2026 - Próba z rozkruszoną tabletką, refleksje w temacie optymalizacji, nakreślenie celu pracy i problemów jakie zamierzam efektami tej pracy rozwiązać. [skocz](#jeden) 
+04.02.2026 - Otrzymanie metforminy w formie wolnej zasady. [skocz](#dwa) 
+05.02.2026 - Aldolowa kondensacja acetonu w acetonie. [skocz](#trzy) 
+06.02.2026 - Utwardzacz w formie pasty. [skocz](#cztery) 
+09.02.2026 - Smażenie gluta na żelazku. [skocz](#piec) 
+11.02.2026 - Żmudne zeskrobywanie utwardzonej żywicy z żelazka. [skocz](#szesc) 
+
+<a name="szesc"></a>
 ### 11.02.2026:
 
 Podczas czyszczenia żelazka zauważyłem, że produkt ma strukturę pianki z zamkniętymi pęcherzykami. Struktura przypomina trochę przekrój kości ssaków. 
@@ -19,6 +28,7 @@ Czyszczenie żelazka było bardzo trudne. Klei do stali jak cholera.
 
 ![walking]({{ site.baseurl }}/assets/images/glut8.jpg)
 
+<a name="piec"></a>
 ### 09.02.2026:
 
 Po trzech dniach spędzonych w kałuwce, roztwór trzymany w temperaturze pokojowej stężniał. Widoczna krystalizacja z dość dużymi kryształkami. Całość jest miękka i jednolita.
@@ -53,7 +63,7 @@ Kolejne operacje:
 1. Przetestowanie sieciującego potencjału teofiliny dodanej w niewielkiej ilości (WYDAJE mi się, że pierścień imidazolu stworzy dwa połączenia z cząsteczkami poliepoksydu, następnie pęknie pierścień pirymidyny tworząc połączenie z kolejnym poliepoksydem).
 2. Ponoć ktoś gdzieś kiedyś używał niewielkiego dodatku mocznika jako akceleratora - sprawdzić czy reakcja będzie przebiegała szybciej ze szczyptą mocznika.
 
-
+<a name="cztery"></a>
 ### 06.02.2026:
 
 Roztwór stał w temperaturze pokojowej kolejne 24 godziny. Po tym czasie odparowano rozuszczalniki. Pozostałość zapachem przypominała olejek Patchouli, była gęsta, płynna i jednolita w temperaturze trzydziestu paru stopni celsiusza, kolor ciemnoczerwony. Otrzymano więc rozwór zawierający wolną zasadę metforminy w produktach kondensacji aldolowej acetonu. Przypuszczam, że w pozostałości obecne są również 1,3,5-triazyny. Jakie dokładnie i w jakiej ilości trudno mi powiedzieć.
@@ -88,7 +98,7 @@ Kolejne operacje:
 
  2. Zastanowienie się nad tym jak ograniczyć pienienie zachowując dobrą rozpuszczalność utwardzacza w żywicy.
    
-
+<a name="trzy"></a>
 ### 05.02.2026:
 
 Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszaninie acetonu i izopropanolu zyskał ładny czerwony kolor.
@@ -97,6 +107,7 @@ Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszanini
 
 Co to za chromuchomorofor, do cholery? Najpewniej to kolor produktów kondensacji aldolowej acetonu zachodzącej w środowisku zasadowym (metformina jest zasadą Schiff-a). Albo to po prostu krew Szatana jest.
 
+<a name="dwa"></a>
 ### 04.02.2026:
 
 Rozkruszone tabletki zawierające 15g chlorowodorku metforminy zalano 50ml alkoholu izopropylowego. Dodano 6.6g KOH i mieszano w temp. około 50 °C przez kilkanaście minut do całkowitego rozpuszczenia grudek KOH. Odstawiono do ostygnięcia. Po 15 minutach dodawano porcjami aceton cały czas mieszając. Dodano około 100ml acetonu. Po kilku minutach mieszanina rodzieliła się na 2 warstwy.
@@ -150,7 +161,7 @@ Fotki z labo:
 ![walking]({{ site.baseurl }}/assets/images/nmetfo4.jpg)
 
 
-
+<a name="jeden"></a>
 ### 01.02.2026:
 
 Ostatnio natknąłem się na tekst opisujący utwardzanie żywic epoksydowych 1-(2,6-dimetylofenylo)biguanidem.
