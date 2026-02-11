@@ -13,15 +13,21 @@ Odparowywanie wody z płynu Adblue do diesli w celu otrzymania krystalicznego mo
 
 ![walking]({{ site.baseurl }}/assets/images/alu0.jpg)
 
-Mocznik potrzebny do otrzymania dopingowanego azotem węgla pełniącego funkcję katalizatora reakcji redukcji tlenu.
+Mocznik potrzebny do otrzymania dopingowanej azotem grafitopodobnej substancji z osadzonym na niej tlenkiem kobaltu, pełniącej funkcję katalizatora reakcji redukcji tlenu.
 
 Mój plan to utworzenie związku kompleksowego metforminy z kobaltem, dalej piroliza mieszaniny tego związku z mocznikiem i węglem aktywowanym w temperaturze 700 st. C.
 Produkt po zmieleniu zmieszam z minimalną ilością polichloroprenu rozpuszczonego w toluenie.
 Powstałym płynnym jeszcze materiałem elektrodowym powlekę drobny miedziany poniklowany drut i wysuszę. Po odparowaniu toulenu powstanie stała masa.
-Takie druciki ułożone jeden przy drugim utworzą płaską elektrodę o ogromnej powierzchni czynnej i ekstrmalnie niskiej rezystancji wewnętrznej.
+Powierzchnia tej masy zostanie dodatkowo poddana obróbce ciernej.
+Takie druciki ułożone jeden przy drugim utworzą płaską elektrodę o ogromnej powierzchni czynnej i ekstremalnie niskiej rezystancji wewnętrznej.
 Oba końce każdego drucika będą połączone poprzez lutowanie z current collectorem. Więc w sumie będą 2 current collectory po przeciwległych stronach drucikowego sheet-a.
 Drucikowy sheet będzie dociśnięty do perforowanej (liczne bardzo drobne otwory) silikonowej błony.
 To combo z jednej strony będzie stykać się z powietrzem a z drugiej strony z elektrolitem.
+
+Plan jest w miarę prosty. Zastanawiam się jak to zrobić by się nie przepracować. Mogę niklować wiele odcinków drutu jednocześnie, mogę przeciągać drut przez roztwór do galwanizowania...
+"Farbę" mogę nakładać pędzelkiem na już ułożone i przylutowane druty...Obróbka cierna mogłaby odbywać się fluidalnie...
+
+Ale jak wykonać perforowaną silikonową błonę? A gdybym zaimpregnował silikonem drobną tkaninę?
 
 
 ### 02.02.2026
