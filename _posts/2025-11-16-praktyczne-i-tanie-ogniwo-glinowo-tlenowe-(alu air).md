@@ -21,7 +21,19 @@ Odparowywanie wody z płynu Adblue do diesli w celu otrzymania krystalicznego mo
 
 Mocznik potrzebny do otrzymania dopingowanej azotem grafitopodobnej substancji z osadzonym na niej tlenkiem kobaltu, pełniącej funkcję katalizatora reakcji redukcji tlenu.
 
-Mój plan to utworzenie związku kompleksowego metforminy z kobaltem, dalej piroliza mieszaniny tego związku z mocznikiem i węglem aktywowanym w temperaturze 700 st. C.
+Mój plan to utworzenie związku kompleksowego metforminy z kobaltem, dalej hydrotermalna obróbka mieszaniny tego związku z mocznikiem i kwasem cytrynowym. Następnie, po zmieszaniu z sproszkowanym grafitem, piroliza w temperaturze 700 st. C.
+
+Podobnie jak to co opisane tutaj:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0013468615302590#:~:text=Preparation%20of%20N%2Ddoped%20porous%20carbons%20In%20a,filtration%2C%20washed%20with%20distilled%20water%2C%20and%20dried.
+
+czyli:
+
+"In a typical process, 8.75 g (41.7 mmol) citric acid and 7.5 g (125 mmol) urea were dissolved in 20 mL of water. Subsequently, 20 mL of the solution was sealed in a 35 mL microwave tube and heated with a maximum microwave irradiation power of 800 W for 5 min (optimized conditions) using a microwave system (CEM MARS6). The resulting carbonaceous solid, denoted as hydrochar, was recovered by filtration, washed with distilled water, and dried.
+The dried hydrochar (2 g) was then carbonized at 700 °C "
+
+W kuchni mam niezły microwave system. ;-)
+
 Produkt po zmieleniu zmieszam z minimalną ilością polichloroprenu rozpuszczonego w toluenie.
 Powstałym płynnym jeszcze materiałem elektrodowym powlekę drobny miedziany poniklowany drut i wysuszę. Po odparowaniu toulenu powstanie stała masa.
 Powierzchnia tej masy zostanie dodatkowo poddana obróbce ciernej.
