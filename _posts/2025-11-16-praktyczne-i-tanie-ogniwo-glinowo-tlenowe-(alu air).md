@@ -35,7 +35,7 @@ The dried hydrochar (2 g) was then carbonized at 700 °C "
 W kuchni mam niezły microwave system. ;-)
 
 Produkt po zmieleniu zmieszam z minimalną ilością polichloroprenu rozpuszczonego w toluenie.
-Powstałym płynnym jeszcze materiałem elektrodowym powlekę drobny miedziany poniklowany drut i wysuszę. Po odparowaniu toulenu powstanie stała masa.
+Powstałym płynnym jeszcze materiałem elektrodowym powlekę drobny miedziany poniklowany drut i wysuszę. Po odparowaniu toulenu powstanie stała masa zaciśnięta na drucie (bo materiał zmniejszy objętość po ewaporacji rozpuszczalnika).
 Powierzchnia tej masy zostanie dodatkowo poddana obróbce ciernej.
 Takie druciki ułożone jeden przy drugim utworzą płaską elektrodę o ogromnej powierzchni czynnej i ekstremalnie niskiej rezystancji wewnętrznej.
 Oba końce każdego drucika będą połączone poprzez lutowanie z current collectorem. Więc w sumie będą 2 current collectory po przeciwległych stronach drucikowego sheet-a.
