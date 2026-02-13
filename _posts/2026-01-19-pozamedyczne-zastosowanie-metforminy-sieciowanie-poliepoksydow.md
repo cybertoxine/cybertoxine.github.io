@@ -30,14 +30,14 @@ Spis treści:
 
 Czas zakończyć próby z metforminą z powodu braku odpowiedniego zaplecza technicznego. Otrzymano atrakcyjny kosztowo produkt o dobrych parametrach, ciekawej strukturze, nadający się do zastosowań do 65°C.
 Zaletą otrzymanego utwardzacza jest czas w jakim dochodzi do pełnego utwardzenia jego mieszaniny z żywicą - tylko 60 minut. Temperatura utwardzania pozwala na stosowanie silikonowych form bez ich degradacji.
-Pchnąłbym projekt dalej gdybym mógł przyglądać się bliżej heterocyklom powstającym mi w mieszaninie. W obecnych warunkach musiałbym dalej pracować metodą prób i błędów i trochę na ślepo, co wiąże się z nieefektywnym wykorzystaniem czasu. Kupię sobie gdzieś 1,3,5-triaminocykloheksan... Dziękuję za uwagę. :)
+Utwardzona mieszanina cudownie trzyma się stali nierdzewnej. Pchnąłbym projekt dalej gdybym mógł przyglądać się bliżej heterocyklom powstającym mi w mieszaninie. W obecnych warunkach musiałbym dalej pracować metodą prób i błędów i trochę na ślepo, co wiąże się z nieefektywnym wykorzystaniem czasu. Kupię sobie gdzieś 1,3,5-triaminocykloheksan... Dziękuję za uwagę. :)
 
 <a name="szesc"></a>
 ### 11.02.2026:
 
 Podczas czyszczenia żelazka zauważyłem, że produkt ma strukturę pianki z zamkniętymi pęcherzykami. Struktura przypomina trochę przekrój kości ssaków. 
 Końcowy etap utwardzania powinien więc odbywać się z użyciem prasy jeśli materiał ma być ciągły.
-Nie mam czym sprawdzić co pompuję mi ciasto. Wielkiego wyboru nie ma - amoniak, metan, coś dłuższego od foronu, resztki rozpuszczalnika z Meteora.
+Nie mam czym sprawdzić co pompuje mi ciasto. Wielkiego wyboru nie ma - amoniak, metan, coś dłuższego od foronu, resztki rozpuszczalnika z Meteora.
 Czyszczenie żelazka było bardzo trudne. Klei do stali jak cholera.
 
 ![walking]({{ site.baseurl }}/assets/images/glut8.jpg)
