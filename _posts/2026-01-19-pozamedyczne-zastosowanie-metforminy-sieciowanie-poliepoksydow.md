@@ -23,7 +23,7 @@ Spis treści:
 
 11.02.2026 - Żmudne zeskrobywanie utwardzonej żywicy z żelazka. [skocz](#szesc) 
 
-13.02.2026 - Zakończenie i podsumowanie. [skocz](#siedem) 
+13.02.2026 - Zakończenie, podsumowanie. [skocz](#siedem) 
 
 <a name="siedem"></a>
 ### 13.02.2026:
@@ -31,6 +31,10 @@ Spis treści:
 Czas zakończyć próby z metforminą z powodu braku odpowiedniego zaplecza technicznego. Otrzymano atrakcyjny kosztowo produkt o dobrych parametrach, ciekawej strukturze, nadający się do zastosowań do 65°C.
 Zaletą otrzymanego utwardzacza jest czas w jakim dochodzi do pełnego utwardzenia jego mieszaniny z żywicą - tylko 60 minut. Temperatura utwardzania pozwala na stosowanie silikonowych form bez ich degradacji.
 Utwardzona mieszanina cudownie trzyma się stali nierdzewnej. Pchnąłbym projekt dalej gdybym mógł przyglądać się bliżej heterocyklom powstającym mi w mieszaninie. W obecnych warunkach musiałbym dalej pracować metodą prób i błędów i trochę na ślepo, co wiąże się z nieefektywnym wykorzystaniem czasu. Kupię sobie gdzieś 1,3,5-triaminocykloheksan... Dziękuję za uwagę. :)
+
+Fajne, treściwe, zwięzłe, dużo wyjaśniające opracowanie na temat różnych utwardzaczy żywic epoksydowych z licznymi przykładami:
+
+https://www.threebond.co.jp/en/technical/technicalnews/pdf/tech32.pdf
 
 <a name="szesc"></a>
 ### 11.02.2026:
