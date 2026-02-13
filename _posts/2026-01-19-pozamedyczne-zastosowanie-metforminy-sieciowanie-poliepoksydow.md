@@ -32,10 +32,11 @@ Czas zakończyć próby z metforminą z powodu braku odpowiedniego zaplecza tech
 Zaletą otrzymanego utwardzacza jest czas w jakim dochodzi do pełnego utwardzenia jego mieszaniny z żywicą - tylko 60 minut. Temperatura utwardzania pozwala na stosowanie silikonowych form bez ich degradacji.
 Utwardzona mieszanina cudownie trzyma się stali nierdzewnej. Pchnąłbym projekt dalej gdybym mógł przyglądać się bliżej heterocyklom powstającym mi w mieszaninie. W obecnych warunkach musiałbym dalej pracować metodą prób i błędów i trochę na ślepo, co wiąże się z mało efektywnym wykorzystaniem czasu. Kupię sobie gdzieś 1,3,5-triaminocykloheksan albo, z mniej egzotycznych substancji, bezwodnik ftalowy. 
 
-A może L-argininę?:
+A może na maxa rozdrobnię L-argininę?:
 https://www.mdpi.com/2073-4360/15/2/385
+https://www.mdpi.com/2073-4360/14/20/4331
 
-Dziękuję za uwagę. :)
+...ale to już materiał na kolejną opowieść. Dziękuję za uwagę. :)
 
 Fajne, treściwe, zwięzłe, dużo wyjaśniające opracowanie na temat różnych utwardzaczy żywic epoksydowych z licznymi przykładami:
 
