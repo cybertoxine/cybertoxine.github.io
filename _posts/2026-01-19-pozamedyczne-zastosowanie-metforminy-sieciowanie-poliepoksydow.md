@@ -35,6 +35,11 @@ Utwardzona mieszanina cudownie trzyma się stali nierdzewnej. Pchnąłbym projek
 A może na maxa rozdrobnię L-argininę?:
 https://www.mdpi.com/2073-4360/15/2/385
 https://www.mdpi.com/2073-4360/14/20/4331
+(Tg 100°C, koszt atrakcyjny)
+
+... albo L-tyrozynę?:
+https://www.researchgate.net/publication/374696347_Influence_of_the_stoichiometric_ratio_on_the_in-situ_formation_of_crystals_and_the_mechanical_properties_of_epoxy_resin_cured_with_l-tyrosine
+(Tg > 170°C, droższa od L-argininy)
 
 ...ale to już materiał na kolejną opowieść. Dziękuję za uwagę. :)
 
