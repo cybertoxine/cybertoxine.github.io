@@ -9,7 +9,7 @@ tags: [sticky]
 
 
 <p style="color:green;">| Ostatnia aktualizacja: 14.02.2026 |</p>
-<p>|                                                        |</p>
+<p>|........................................................|</p>
 <a name="spis"></a>
    
 ## Spis treści:
