@@ -8,10 +8,12 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 14.02.2026</p>
-........................................................
-........................................................
-........................................................
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;14.02.2026&nbsp;</p>
+<p>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
 <a name="spis"></a>
    
 ## Spis treści:
