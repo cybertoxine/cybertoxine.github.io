@@ -9,7 +9,7 @@ tags: [sticky]
 
 
 <p style="color:green;">Ostatnia aktualizacja:&nbsp;14.02.2026&nbsp;</p>
-<p>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
