@@ -8,7 +8,8 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja: 21.01.2026<p>
+<p style="color:green;">| Ostatnia aktualizacja: 14.02.2026 |</p>
+<p>|</p>
 <a name="spis"></a>
    
 ## Spis treści:
@@ -28,7 +29,7 @@ tags: [sticky]
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji, dziennik prac.
-   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)•[21.01.2026](#etap1e) 
+   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)•[21.01.2026](#etap1e)•[14.02.2026](#etap1f) 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
    - [7a] Etap pierwszy.
@@ -283,6 +284,18 @@ Pod ręką miałem tylko taki wielki. :)
 
 [skocz do spisu treści](#spis)
 
+<a name="etap1f"></a>
+### 14.02.2026
+
+Sprawdziłem jakie przebiegi napięcia wyjściowego uzyskam obciążając czujnik położenia wału różnymi wartościami rezystancji.
+
+![walking]({{ site.baseurl }}/assets/images/sroshgmbh.jpg)
+
+Okazuje się, że obwód regulacji tłumienia nie musi mieć tak dużej rozdzielczości jak myślałem. Zależność obroty-napięcie w obrębie gęstego zgryzu przypomina wykres funkcji logarytmicznej.
+32 wartości rezystancji zupełnie wystarczą. Rezystory w cyfrowo regulowanym tłumiku nie powinny iść śladem potęgi dwójki jak wcześniej zakładałem. Ich wartości idą do poprawki.
+Najbardziej podobała mi się praca czujnika pod obciążeniem 470 Ohm. Piki wokół wybitych zębów będą musiały być w torze analogowym miękko obcinane. Chyba najlepiej będzie ciąć po przejściu przez DCR. 
+
+[skocz do spisu treści](#spis)
 
 
 
