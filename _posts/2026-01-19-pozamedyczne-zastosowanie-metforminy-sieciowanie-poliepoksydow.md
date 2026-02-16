@@ -3,7 +3,7 @@ layout: post
 title:  "Pozamedyczne zastosowanie metforminy: sieciowanie poliepoksydów."
 author: MF
 categories: [ apteczny śmietnik, metformina, sieciowanie, epoksydy, chemia]
-image: assets/images/metfo0.jpg
+image: assets/images/mszale.jpg
 tags: 
 ---
 
