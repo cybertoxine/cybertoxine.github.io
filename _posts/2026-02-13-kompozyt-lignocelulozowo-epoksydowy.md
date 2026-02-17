@@ -7,5 +7,12 @@ image: assets/images/kompofinal2.jpg
 tags: 
 ---
 
-W przygotowaniu...
+Każdy wie jak wytrzymałe są ściany pestek wiśni, śliwy, moreli. Za ich wyjątkową wyrzymałość odpowiada specjalny układ naturalnych polimerów z których dużą, stosunkowo większą ilość jak w drewnie, stanowi lignina. Lignina jest strukturalnie podobna do skondensowanych żywic fenolowych. W przeszłości bardzo popularnym materiałem był tekstolit. Tekstolit produkowano z warstw tkaniny bawełnianej nasączonej żywicą fenolową. Po utwardzeniu żywicy materiał odznaczał się wspaniałymi parametrami mechanicznymi i bardzo dobrą tolerancją na wysokie temperatury.
+Dowodem na jego wyjątkowość niech będzie zastosowanie go jako element pancerza czołgu (m.in. pierwsze wersje T-80).
+
+Ściana pestek to taki naturalny tekstolit. W tym projekcie będę próbował otrzymać termoutwardzalną pastę złożoną z żywicy epoksydowej, drobno zmielonych ścian pestek, włókien szklanych, zmikronizowanej L-argininy i niewielkiej ilości pyłu wytworzonego z papieru do kas fiskalnych (w tym papierze są barwniki zawierające wiele wyeksponowanych trzeciorzędowych grup aminowych - akcelerator sieciowania).
+Po utwardzeniu w podwyższonej temperaturze materiał powinien przypominać właściwościami tekstolit przy czym przed utwardzeniem jego konsystencja będzie odpowiednia do wypełniania form.
+
+Ostatecznie, w połączeniu z drukarką 3D (drukowanie form) i najnowszymi osiągnięciami fotogrametri (generowaniu modelu 3D na podstawie zdjęć obiektu), możliwa byłaby szybka i tania replikacja elemntów maszyn.
+O fotogrametri i druku 3D będzie przy innej okazji. Tutaj skupię się na samym tworzywie.
 
