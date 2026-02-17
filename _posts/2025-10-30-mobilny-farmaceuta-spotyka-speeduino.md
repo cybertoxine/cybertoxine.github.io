@@ -3,7 +3,7 @@ layout: post
 title:  "Mobilny Farmaceuta spotyka Speeduino."
 author: MF
 categories: [ energoelektronika, opensoftware, openhardware, sterownik silnika spalinowego, tuning, kogeneracja, agregat prądotwórczy, sport motorowy ]
-image: assets/images/speedonew.jpg
+image: assets/images/speedlogofin.jpg
 tags: [sticky]
 ---
 
