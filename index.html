@@ -190,7 +190,7 @@ description: "Apteczne schizy kontra motoryzacyjny realizm."
               {% for page in (1..paginator.total_pages) %}
                 {% if page == paginator.page %}
                 <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
-                {% elsif page == 1 %}
+                {% elseif page == 1 %}
                 <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
                 {% else %}
                 <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
