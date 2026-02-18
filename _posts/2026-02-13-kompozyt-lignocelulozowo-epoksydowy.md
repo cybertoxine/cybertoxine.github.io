@@ -4,7 +4,7 @@ title:  "Kompozyt lignocelulozowo-epoksydowy. Tani Termoset do zadań specjalnyc
 author: MF
 categories: [ apteczny śmietnik, kompozyty, chemia, biomasa, ściany pestek owoców roślin rodzaju Prunus]
 image: assets/images/kompofinal2.jpg
-tags: 
+tags: featured
 ---
 
 ### 17.02.2026:
