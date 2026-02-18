@@ -4,7 +4,7 @@ title:  "Pozamedyczne zastosowanie metforminy: sieciowanie poliepoksydów."
 author: MF
 categories: [ apteczny śmietnik, metformina, sieciowanie, epoksydy, chemia]
 image: assets/images/mszale.jpg
-tags: 
+tags: [featured]
 ---
 
 Uwaga! Podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
