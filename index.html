@@ -179,7 +179,7 @@ description: "Apteczne schizy kontra motoryzacyjny realizm."
                 <h6 class="font-weight-bold">
                     <a href="{{ post.url }}" class="text-dark">{{ post.title }}</a>
                 </h6>
-<div>
+    <p>
                 <span class="d-block text-muted">
                     In <span class="catlist">
                     {% for category in post.categories %}
@@ -187,13 +187,11 @@ description: "Apteczne schizy kontra motoryzacyjny realizm."
                     {% endfor %}
                     </span>
                 </span>
-
-</div>
-    <div>
+</p>
   <p class="author">
     <span class="date">{{ post.date }}</span>
   </p>
-    </div>
+
 </li>   
 {% endfor %}
 
