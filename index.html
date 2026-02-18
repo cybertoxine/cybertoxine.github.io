@@ -170,12 +170,16 @@ description: "Apteczne schizy kontra motoryzacyjny realizm."
         <h4 class="font-weight-bold spanborder"><span>Wszystkie arty:</span></h4>  
         
     <!-- This loops through the paginated posts -->
+<ol class="list-featured">	
+ <li class="mb-4">   
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
     <span class="date">{{ post.date }}</span>
   </p>
 {% endfor %}
+ </li>
+</ol>
 
 <!-- Pagination links -->
 <div class="pagination">
