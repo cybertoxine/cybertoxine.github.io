@@ -173,11 +173,27 @@ description: "Apteczne schizy kontra motoryzacyjny realizm."
 <ol class="list-featured">	
  
 {% for post in paginator.posts %}
-<li class="mb-4">     
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<li class="mb-4"> 
+    
+
+                <h6 class="font-weight-bold">
+                    <a href="{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                </h6>
+
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
+
+
+    
   <p class="author">
     <span class="date">{{ post.date }}</span>
   </p>
+    
 </li>   
 {% endfor %}
 
