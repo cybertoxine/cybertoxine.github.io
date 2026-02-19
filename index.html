@@ -175,10 +175,16 @@ description: "Apteczne schizy kontra motoryzacyjny realizm."
 {% for post in paginator.posts %}
 <li class="mb-4"> 
     
-
+<div>
                 <h6 class="font-weight-bold">
                     <a href="{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                    
                 </h6>
+    <p>
+                 <span class="date">{{ post.date }}</span>
+    </p>
+</div>
+<div>
     <p>
                 <span class="d-block text-muted">
                     In <span class="catlist">
@@ -188,10 +194,12 @@ description: "Apteczne schizy kontra motoryzacyjny realizm."
                     </span>
                 </span>
 </p>
+</div>
+<div>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    
   </p>
-
+</div>
 </li>   
 {% endfor %}
 
