@@ -19,7 +19,7 @@ Na 99% żywice posadzkowe są robione z bisfenolu A bo jest najtańszym surowcem
 Po co eksperymentować z utwardzaczami? Po to by skrócić czas utwardzania i otrzymywać produkt o właściwościach dostosowanych do konkretnego zastosowania.
 Np do klejenia możemy użyć utwardzacza zawierającego grupy tiolowe sieciującego szybko już w temperaturze pokojowej. Kupiony w cenie odczynnika tiol i żywica epoksydowa z puchy wychodzi ponad dziesięciokrotnie taniej od dwóch małych tubek kleju leżącego na półce w markecie budowlanym. Inny przykład to gdy zależy nam na stabilności mechanicznej w wyższych temperaturach - wtedy jako utwardzacza użyjemy związku chemicznego o sztywnej, rozbudowanej strukturze i posiadającego wiele wyeksponowanych grup z którymi żywice są w stanie utworzyć kowalencyjne wiązanie chemiczne, następnie utwardzimy mieszaninę w wysokiej (czasem to nawet 200°C) temperaturze.
 
-W tym arcie przedstawiam co potrafi metformina. Metformina ląduje w zagadkowo dużych ilościach w pojemnikach na niepotrzebnie leki ustawianych powszechnie w aptekach. Przyjmuję więc, że cena tego utwardzacza stanowi 0 zł a dostępność jego jest łatwa, co dodatkowo nadaje sensu przedstawionym niżej próbom.
+W tym arcie przedstawiam co potrafi metformina. Metformina ląduje w zagadkowo dużych ilościach w pojemnikach na niepotrzebnie leki ustawianych powszechnie w aptekach. Przyjmuję więc, że cena tego utwardzacza stanowi 0 zł a dostępność jego jest dobra, co dodatkowo nadaje sensu przedstawionym niżej próbom.
 
 
 Spis treści:
