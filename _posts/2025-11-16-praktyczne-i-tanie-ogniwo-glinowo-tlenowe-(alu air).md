@@ -7,6 +7,23 @@ image: assets/images/alulogofin.jpg
 tags: [ featured ]
 ---
 
+<a name="zero"></a>
+Wstęp:
+
+Dobrze zaprojektowane ogniwo glinowo-tlenowe "mieści w sobie" więcej energii w przeliczeniu na jednostkę masy niż najlepszy pod tym względem aktualnie masowo produkowany akumulator litowo-jonowy.
+Atom glinu może oddać aż 3 elektrony a sam materiał jest lekki. Katoda "spożywa" tlen z powietrza więc masa tego reagenta nie musi być brana pod uwagę.
+Gdyby alu-air było zdolne do dostarczenia tak dużej mocy w przeliczeniu na wagę jak li-poly to automatycznie i natychmiastowo znalazłoby zastosowanie w dronach bojowych no bo tam przecież nikogo nie obchodzi ładowanie baterii ogniw po rozpadzie maszyny. Niestety wąskim gardłem pozostaje tempo reakcji redukcji tlenu w temperaturze pokojowej na katodzie.
+
+Czy więc konstruowanie alu-air to sztuka dla sztuki? Niekoniecznie. Czasami znajduję się w sytuacji braku możliwości korzystania z prądu z sieci przez kilka dni przy czym nie chcę hałasować spalinowym agregatem prądotwórczym. Cena agregatów prądotwóczych jest z resztą teraz niemała. Bardzo zadowolony byłbym z urządzenia wielkości wiaderka potrafiącego cichutko i bez smrodu oddać kilka kilowatogodzin w ciągu powiedzmy trzech dni.
+
+Praca przedstawiona w tym arcie będzie polegała na skonstruowaniu takiego ogniwa z dostępnych materiałów i w cenie niższej niż najtańszy spalinowy agregat prądotwórczy.
+Planuję wykonać tylko jedną celę o dużej powierzchni ponieważ wtedy łatwo wymieniać materiał anodowy (wsadzić będzie trzeba tylko jeden kawał blachy).
+Konsekwencją zastosowania jednej celi jest konieczność zaprojektowania wysokosprawnej przetwornicy podwyższającej napięcie co przy napięciu na ogniwie wynoszącym około 1V z pewnością nie będzie zadaniem trywialnym. Sądzę jednak, że przy użyciu topologii push-pull z odczepem i prostownikiem na tranzystorach polowych jest możliwe przekroczenie 80% sprawności (przy maksymalnym obciążeniu) bez używania egzotycznych materiałów ani drogich półprzewodników.
+
+Spis treści:
+
+16.11.2025 - Wstęp. Co, po co i jak. [skocz](#zero) 
+
 02.02.2026 - Postawy teoretyczne i wyniki dotychczasowych badań eksperymentalnych. Pochwalenie się tranzystorem. [skocz](#jeden) 
 
 11.02.2026 - Suszenie Adblue i zarys planu konstrukcji elektrody dodatniej. [skocz](#dwa) 
