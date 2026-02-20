@@ -9,7 +9,7 @@ tags: [featured]
 
 Wstęp:
 
-Każdy wie jak wytrzymałe są ściany pestek wiśni, śliwy, moreli. Za ich wyjątkową wytrzymałość odpowiada specjalny układ naturalnych polimerów z których dużą, stosunkowo większą ilość jak w drewnie, stanowi lignina. Lignina jest strukturalnie podobna do skondensowanych żywic fenolowych. W przeszłości bardzo popularnym materiałem był tekstolit. Tekstolit produkowano z warstw tkaniny bawełnianej nasączonej żywicą fenolową. Po utwardzeniu żywicy materiał odznaczał się wspaniałymi parametrami mechanicznymi i bardzo dobrą tolerancją na wysokie temperatury.
+Każdy wie jak wytrzymałe są ściany pestek wiśni, śliwy, moreli. Za ich wyjątkową wytrzymałość odpowiada specjalny układ naturalnych polimerów z których dużą, stosunkowo większą ilość jak w drewnie, stanowi lignina. Lignina jest strukturalnie podobna do produktów kondensacji formaldehydu z fenolem. W przeszłości bardzo popularnym materiałem był tekstolit. Tekstolit produkowano z warstw tkaniny bawełnianej nasączonej żywicą fenolowo-formaldehydową. Po utwardzeniu żywicy materiał odznaczał się wspaniałymi parametrami mechanicznymi i bardzo dobrą tolerancją na wysokie temperatury.
 Dowodem jego wyjątkowości niech będzie zastosowanie go jako element pancerza czołgu (m.in. pierwsze wersje T-80).
 
 Ściana pestek to taki naturalny tekstolit. W tym projekcie będę próbował otrzymać termoutwardzalną pastę złożoną z żywicy epoksydowej, drobno zmielonych ścian pestek, włókien szklanych, zmikronizowanej L-argininy i niewielkiej ilości pyłu wytworzonego z papieru do kas fiskalnych (w tym papierze są barwniki zawierające wiele wyeksponowanych trzeciorzędowych grup aminowych - akcelerator sieciowania).
