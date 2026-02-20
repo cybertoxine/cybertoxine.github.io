@@ -13,13 +13,13 @@ Uwaga! Podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaj
 <a name="zero"></a>
 Wstęp:
 
-Preparaty do wylewania posadzek są atrakcyjnym kosztowo źródłem żywic epoksydowych. Żywice epoksydowe to związki organiczne zawierające grupy liczne grupy oksiranowe.
+Preparaty do wylewania posadzek są atrakcyjnym kosztowo źródłem żywic epoksydowych. Żywice epoksydowe to związki organiczne zawierające liczne grupy oksiranowe.
 Na 99% żywice posadzkowe są robione z bisfenolu A bo jest najtańszym surowcem do przemysłowego epoksydowania dającym po usieciowaniu zadowalające rezultaty. Mężczyżni pracujący z takimi matariałami powinni uważać ponieważ bisfenol A i jego pochodne działają estrogennie oraz hamują wydzielanie testosteronu. Rękawice i sprawny wyciąg to minimalne wyposażenie faceta zabawiającego się utwardzaniem tych żywic.
 
 Po co eksperymentować z utwardzaczami? Po to by skrócić czas utwardzania i otrzymywać produkt o właściwościach dostosowanych do konkretnego zastosowania.
-Np do klejenia możemy użyć utwardzacza zawierającego grupy tiolowe sieciującego szybko już w temperaturze pokojowej. Kupiony w cenie odczynnika tiol i żywica epoksydowa z puchy wychodzi ponad dziesięciokrotnie taniej od dwóch małych tubek kleju leżącego na półce w markecie budowlanym. Inny przykład to gdy zależy nam na stabilności mechanicznej w wyższych temperaturach - wtedy jako utwardzacza użyjemy związku chemicznego o sztywnej, rozbudowanej strukturze i posiadającego wiele wyeksponowanych grup z którymi żywice są w stanie utworzyć kowalencyjne wiązanie chemiczne, następnie utwardzimy mieszaninę w wysokiej (czasem to nawet 200°C) temperaturze.
+Np. do klejenia możemy użyć utwardzacza zawierającego grupy tiolowe sieciującego szybko już w temperaturze pokojowej. Kupiony w cenie odczynnika tiol i żywica epoksydowa z puchy wychodzi ponad dziesięciokrotnie taniej od dwóch małych tubek kleju leżącego na półce w markecie budowlanym. Inny przykład to gdy zależy nam na stabilności mechanicznej w wyższych temperaturach - wtedy jako utwardzacza użyjemy związku chemicznego o sztywnej, rozbudowanej strukturze i posiadającego wiele wyeksponowanych grup z którymi żywice są w stanie utworzyć kowalencyjne wiązanie chemiczne, następnie utwardzimy mieszaninę w wysokiej (czasem to nawet 200°C) temperaturze.
 
-W tym arcie przedstawiam co potrafi metformina. Metformina ląduje w zagadkowo dużych ilościach w pojemnikach na niepotrzebnie leki ustawianych powszechnie w aptekach. Przyjmuję więc, że cena tego utwardzacza stanowi 0 zł a dostępność jego jest dobra, co dodatkowo nadaje sensu przedstawionym niżej próbom.
+W tym arcie przedstawiam co potrafi metformina. Metformina ląduje w zagadkowo dużych ilościach w pojemnikach na niepotrzebnie leki ustawianych powszechnie w aptekach. Przyjmuję więc, że cena tego utwardzacza wynosi 0 zł a dostępność jego jest dobra, co dodatkowo nadaje sensu przedstawionym niżej próbom.
 
 
 Spis treści:
