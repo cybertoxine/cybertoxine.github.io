@@ -24,7 +24,7 @@ W tym arcie przedstawiam co potrafi metformina. Metformina ląduje w zagadkowo d
 
 Spis treści:
 
-01.02.2026 - Wstęp.[skocz](#zero) 
+01.02.2026 - Wstęp. [skocz](#zero) 
 
 01.02.2026 - Próba z rozkruszoną tabletką, refleksje w temacie optymalizacji, nakreślenie celu pracy i problemów jakie zamierzam efektami tej pracy rozwiązać. [skocz](#jeden) 
 
