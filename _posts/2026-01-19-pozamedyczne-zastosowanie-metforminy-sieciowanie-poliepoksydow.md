@@ -7,9 +7,24 @@ image: assets/images/mszale.jpg
 tags: [featured]
 ---
 
+
 Uwaga! Podczas termicznego rozkładu metforminy w zakresie 300-400 st.C. powstaje w znacznych ilościach cyjanowodór, który jest lotny i śmiertelnie trujący!
 
+<a name="zero"></a>
+Wstęp:
+
+Preparaty do wylewania posadzek są atrakcyjnym kosztowo źródłem żywic epoksydowych. Żywice epoksydowe to związki organiczne zawierające grupy liczne grupy oksiranowe.
+Na 99% żywice posadzkowe są robione z bisfenolu A bo jest najtańszym surowcem do przemysłowego epoksydowania dającym po usieciowaniu zadowalające rezultaty. Mężczyżni pracujący z takimi matariałami powinni uważać ponieważ bisfenol A i jego pochodne działają estrogennie oraz hamują wydzielanie testosteronu. Rękawice i sprawny wyciąg to minimalne wyposażenie faceta zabawiającego się utwardzaniem tych żywic.
+
+Po co eksperymentować z utwardzaczami? Po to by skrócić czas utwardzania i otrzymywać produkt o właściwościach dostosowanych do konkretnego zastosowania.
+Np do klejenia możemy użyć utwardzacza zawierającego grupy tiolowe sieciującego szybko już w temperaturze pokojowej. Kupiony w cenie odczynnika tiol i żywica epoksydowa z puchy wychodzi ponad dziesięciokrotnie taniej od dwóch małych tubek kleju leżącego na półce w markecie budowlanym. Inny przykład to gdy zależy nam na stabilności mechanicznej w wyższych temperaturach - wtedy jako utwardzacza użyjemy związku chemicznego o sztywnej, rozbudowanej strukturze i posiadającego wiele wyeksponowanych grup z którymi żywice są w stanie utworzyć kowalencyjne wiązanie chemiczne, następnie utwardzimy mieszaninę w wysokiej (czasem to nawet 200°C) temperaturze.
+
+W tym arcie przedstawiam co potrafi metformina. Metformina ląduje w zagadkowo dużych ilościach w pojemnikach na niepotrzebnie leki ustawianych powszechnie w aptekach. Przyjmuję więc, że cena tego utwardzacza stanowi 0 zł a dostępność jego jest łatwa, co dodatkowo nadaje sensu przedstawionym niżej próbom.
+
+
 Spis treści:
+
+01.02.2026 - Wstęp.[skocz](#zero) 
 
 01.02.2026 - Próba z rozkruszoną tabletką, refleksje w temacie optymalizacji, nakreślenie celu pracy i problemów jakie zamierzam efektami tej pracy rozwiązać. [skocz](#jeden) 
 
