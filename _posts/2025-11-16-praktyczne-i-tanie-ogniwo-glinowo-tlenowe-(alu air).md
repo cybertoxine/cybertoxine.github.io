@@ -28,6 +28,33 @@ Spis treści:
 
 11.02.2026 - Suszenie Adblue i zarys planu konstrukcji elektrody dodatniej. [skocz](#dwa) 
 
+21.02.2026 - Interface glin-miedź czyli lutowanie jednego z drugim. [skocz](#trzy) 
+
+<a name="trzy"></a>
+### 21.02.2026
+
+Zajdzie potrzeba połączenia miedzianego przewodu z aluminiową płytą. Myślę, że te elementy najlepiej będzie zlutować.
+Można użyć specjalnych topników do lutowania aluminium, można również poradzić sobie bez nich. Jak?
+
+Potrzebne będzie specjalne narzędzie do nacierania cyną:
+
+![walking]({{ site.baseurl }}/assets/images/alus0.jpg)
+
+To nic innego jak szybkoobrotowa miniszlifierka z końcówką w postaci kulki z czystej cyny.
+
+Jak już mamy banalne w wykonaniu narzędzie specjalne to postępujemy jak na poniższej ilustracji:
+
+![walking]({{ site.baseurl }}/assets/images/alus1.jpg)
+
+Po zmyciu mocznika wodą połączenie wygląda tak:
+
+![walking]({{ site.baseurl }}/assets/images/alus2.jpg)
+
+Najpiękniejsze to ono nie jest, wiem, jednak połączenie tak wykonane jest świetne, oto dowód:
+
+https://www.youtube.com/shorts/7aayh18OpLU
+
+Na koniec po wysuszeniu wypada pokryć połączenie i jego okolicę warstewką np. kleju epoksydowego żeby unieruchomić łączone elementy i zabezpieczyć całość przed reakcjami elektrochemicznymi.
 
 <a name="dwa"></a>
 ### 11.02.2026
