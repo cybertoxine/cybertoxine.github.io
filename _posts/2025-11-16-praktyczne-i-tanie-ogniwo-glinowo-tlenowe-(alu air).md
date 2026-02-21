@@ -46,6 +46,8 @@ Jak już mamy banalne w wykonaniu narzędzie specjalne to postępujemy jak na po
 
 ![walking]({{ site.baseurl }}/assets/images/alus1.jpg)
 
+Operacje wykonujemy POD WYCIĄGIEM i w okularach ochronnych. Nie żartuję. Oko może oberwać kawałkiem cyny oderwanej z kulki (czysta cyna jest mięciutka i ciężka, kulka mocno się nagrzewa) a podczas termicznego rozkładu mocznika powstaje dużo amoniaku (no chyba, że ktoś lubi się dusić albo chodzić bez oka - ludzie miewają różne zboczenia).
+
 Po zmyciu mocznika wodą połączenie wygląda tak:
 
 ![walking]({{ site.baseurl }}/assets/images/alus2.jpg)
