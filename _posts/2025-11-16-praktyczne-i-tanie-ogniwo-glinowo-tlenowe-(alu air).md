@@ -30,6 +30,17 @@ Spis treści:
 
 21.02.2026 - Interface glin-miedź czyli lutowanie jednego z drugim. [skocz](#trzy) 
 
+23.02.2026 - Owocne szperanie po necie w poszukiwaniu dobrego przepisu na N-doped carbon. [skocz](#cztery) 
+
+<a name="cztery"></a>
+### 23.02.2026
+
+Znalazłem ciekawy sposób na otrzymanie grafitopodobnego węgla dopowanego azotem. Autorzy zmieszali glukozę z mocznikiem i utrzymywali roztwór w umiarkowanie podwyższonej temperaturze przez pewien czas aż płyn zamienił się w plastyczną masę. Z tej masy formowali "ciasteczka" i "wypiekali" je w temp. 700 °C:
+
+https://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta02052j
+
+Być może więc otrzymanie katodowej masy elektrodowej będzie jeszcze prostsze niż myślałem. 
+
 <a name="trzy"></a>
 ### 21.02.2026
 
