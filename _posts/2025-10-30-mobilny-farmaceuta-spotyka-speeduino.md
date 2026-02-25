@@ -303,7 +303,7 @@ Najbardziej podobała mi się praca czujnika pod obciążeniem 470 Ohm. Piki wok
 
 <a name="etap1g"></a>
 ### 25.02.2026
-Poskładałem prototyp 1. Zbyt trudny w montażu, płytkę statecznie zrobię większą:
+Poskładałem prototyp 1. Zbyt trudny w montażu, płytkę ostatecznie zrobię większą:
 
 ![walking]({{ site.baseurl }}/assets/images/dcrimg0.jpg)
 
