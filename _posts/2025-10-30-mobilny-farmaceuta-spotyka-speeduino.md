@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;14.02.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;25.02.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@ tags: [sticky]
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji, dziennik prac.
-   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)•[21.01.2026](#etap1e)•[14.02.2026](#etap1f) 
+   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)•[21.01.2026](#etap1e)•[14.02.2026](#etap1f)•[25.02.2026](#etap1g) 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
    - [7a] Etap pierwszy.
@@ -301,6 +301,23 @@ Najbardziej podobała mi się praca czujnika pod obciążeniem 470 Ohm. Piki wok
 
 [skocz do spisu treści](#spis)
 
+<a name="etap1g"></a>
+### 25.02.2026
+Poskładałem prototyp 1. Zbyt trudny w montażu, płytkę statecznie zrobię większą:
+
+![walking]({{ site.baseurl }}/assets/images/dcrimg0.jpg)
+
+Attiny44A ruszyło przy zegarze 24.576 MHz. Rejestry, SRAM, FLASH, EEPROM wszystko elegancko, żadnych glitchy na portach.
+
+Przetestowałem DCR (Digital Controlled Resistor) i wszystko oki. Do scharakteryzowania mam szybkość przełączania transoptorów oraz spadek napięcia na nich w bliskich okolicach zerowego napięcia na wyjściu z czujnika (czyli zachowanie przy niskim poziomie sygnału wejściowego, zniekształcenia przy przejściu przez zero).
+
+![walking]({{ site.baseurl }}/assets/images/dcrimg1.jpg)
+
+Przeprojektuję nieco tor analogowy. Mikrokontroler zajmie się sterowaniem impedancją wejścia oraz ustalaniem stałej czasowej ART (Automatycznej Regulacji Tłumienia). Wykrywaniem przejścia przejścia przez zero zajmie się sprzętowy komparator ze stałą histerezą, który "dostanie" na wejściu przebieg o stałej amplitudzie. Tak będzie lepiej. Układ dzięki takiej modyfikacji dobrze "ogarnie" również bardzo duże prędkości obrotowe koła fonicznego. 
+
+Podczas obserwowania na oscyloskopie przebiegu z generatora sygnału czyjnika położenia wału zauważyłem, że bicie koła fonicznego skutkuje prawie wyłącznie zmianą amplitudy sygnału natomiast zmiany położenia sygnału względem zera nie były zauważalne. Wniosek: wystarczy DCR i ART, algorytm symetryzujący niepotrzebny. No może gdyby komuś zależało na dokładnościach rzędu 0.1 stopnia...
+
+[skocz do spisu treści](#spis)
 
 
 
