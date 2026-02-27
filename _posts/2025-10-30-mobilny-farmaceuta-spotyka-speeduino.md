@@ -321,7 +321,13 @@ Podczas obserwowania na oscyloskopie przebiegu z generatora sygnału czyjnika po
 
 <a name="etap1h"></a>
 ### 27.02.2026
+
+![walking]({{ site.baseurl }}/assets/images/dcr910.jpg)
+
+https://www.youtube.com/shorts/h2ulkzRZBKs
+
 ![walking]({{ site.baseurl }}/assets/images/dcrwyniki.jpg)
+
 [skocz do spisu treści](#spis)
 
 
