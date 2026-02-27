@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;25.02.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;27.02.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@ tags: [sticky]
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji, dziennik prac.
-   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)•[21.01.2026](#etap1e)•[14.02.2026](#etap1f)•[25.02.2026](#etap1g) 
+   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)•[21.01.2026](#etap1e)•[14.02.2026](#etap1f)•[25.02.2026](#etap1g)•[27.02.2026](#etap1h)  
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
    - [7a] Etap pierwszy.
@@ -318,6 +318,15 @@ Przeprojektuję nieco tor analogowy. Mikrokontroler zajmie się sterowaniem impe
 Podczas obserwowania na oscyloskopie przebiegu z generatora sygnału czyjnika położenia wału zauważyłem, że bicie koła fonicznego skutkuje prawie wyłącznie zmianą amplitudy sygnału natomiast zmiany położenia sygnału względem zera nie były zauważalne. Wniosek: wystarczy DCR i ART, algorytm symetryzujący niepotrzebny. No może gdyby komuś zależało na dokładnościach rzędu 0.1 stopnia...
 
 [skocz do spisu treści](#spis)
+
+<a name="etap1h"></a>
+### 27.02.2026
+![walking]({{ site.baseurl }}/assets/images/dcrwyniki.jpg)
+[skocz do spisu treści](#spis)
+
+
+
+
 
 
 
