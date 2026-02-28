@@ -341,6 +341,14 @@ W prawym dolnym rogu zestawienia zamieściłem schemat obwodu pomiarowego.
 
 Wnioski:
 
+1. Ustalenie się stanu rezystancji następuje maksymalnie po 40 mikrosekundach. Czas przelotu jednego ząbka z jednym rowkiem przy prędkości obrotowej wału wynoszącej 6000 obr/minutę, dla koła fonicznego 58-2, wynosi 166 mikrosekund. Czyli szybkość DCR-a jest wystarczająca dla prędkości obrotowych wynoszących nawet 12000 obr/min co jest wynikiem zupełnie wystarczającym w zastosowaniach w których projektowany kondycjoner sygnału ma się znaleźć.
+
+2. Brak zauważalnego progu napięciowego pozwala sądzić, że DCR nie zaburzy w żaden sposób działania sprzętowego komparatora z histerezą.
+
+3. Prezentowany układ DCR z racji liniowej charakterystyki przenoszenia, niewielkiej sumarycznej pojemności tranzystorów w transoptorach i dobremu odseparowaniu sygnałów sterujących od sygnału modulowanego może znaleźć zastosowanie w modulacji amplitudowej sygnałów wielkiej częstotliwości.
+
+4. Tanie i wszechobecne EL817C robią robotę.
+
 [skocz do spisu treści](#spis)
 
 
