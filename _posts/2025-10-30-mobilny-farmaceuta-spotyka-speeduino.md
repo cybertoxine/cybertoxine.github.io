@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;27.02.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;28.02.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -320,7 +320,7 @@ Podczas obserwowania na oscyloskopie przebiegu z generatora sygnału czyjnika po
 [skocz do spisu treści](#spis)
 
 <a name="etap1h"></a>
-### 27.02.2026
+### 28.02.2026
 
 Byłem ciekaw czy transoptory w stanie załączonym będzie charakteryzowało jakieś progowe napięcie przy którym tranzystory wewnątrz nich zaczynają przewodzić.
 Zestawiono obwód pomiarowy taki jak pokazano poniżej:
