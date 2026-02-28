@@ -322,11 +322,24 @@ Podczas obserwowania na oscyloskopie przebiegu z generatora sygnału czyjnika po
 <a name="etap1h"></a>
 ### 27.02.2026
 
+Byłem ciekaw czy transoptory w stanie załączonym będzie charakteryzowało jakieś progowe napięcie przy którym tranzystory wewnątrz nich zaczynają przewodzić.
+Zestawiono obwód pomiarowy taki jak pokazano poniżej:
+
 ![walking]({{ site.baseurl }}/assets/images/dcr910.jpg)
+
+Nagrałem szorta z obrazem z oscyloskopu:
 
 https://www.youtube.com/shorts/h2ulkzRZBKs
 
+Nie widzę objawów występowania progu. Fajnie.
+
+Następnie sprawdziłem jak szybki jest DCR tzn. przy jakiej częstotliwości zmian rezystancji deformacje sygnału staną się istotne.
+Ważna dla mnie jest też szerokość szpilek powstających przy przełączaniu ponieważ w założeniu DCR ma się wyrobić w czasie "przelotu dwóch wybitych zębów".
+W prawym dolnym rogu zestawienia zamieściłem schemat obwodu pomiarowego.
+
 ![walking]({{ site.baseurl }}/assets/images/dcrwyniki.jpg)
+
+Wnioski:
 
 [skocz do spisu treści](#spis)
 
