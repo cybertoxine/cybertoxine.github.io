@@ -32,6 +32,22 @@ Spis treści:
 
 23.02.2026 - Owocne szperanie po necie w poszukiwaniu dobrego przepisu na N-doped carbon. [skocz](#cztery) 
 
+01.03.2026 - Obserwacja równomolarnej mieszaniny glukozy i mocznika umieszczonej w temperaturze 200 st. C. [skocz](#piec) 
+
+<a name="piec"></a>
+### 01.03.2026
+
+Chciałem zobaczyć te ciasteczka wspomniane ostatnio. Mieszanina zawierała tylko mocznik i glukozę. Poniżej wideo:
+
+https://www.youtube.com/shorts/FvD_UCfm1NE
+
+I rzeczywiście Maillardopodobna reakcja zachodzi. W porównaniu do procesu karmelizacji cukrów albo termicznego rozkładu samego mocznika kolor mieszaniny zmieniał się inaczej i w innych temperaturach.
+Inny był też zapach. Smaku nie sprawdzałem :-)
+
+Jak już prawie przestało "gazować" i na maxa zgęstniało wyłączyłem grzanie. Zimny produkt wyglądał tak:
+
+![walking]({{ site.baseurl }}/assets/images/kupadiabla.jpg)
+
 <a name="cztery"></a>
 ### 23.02.2026
 
