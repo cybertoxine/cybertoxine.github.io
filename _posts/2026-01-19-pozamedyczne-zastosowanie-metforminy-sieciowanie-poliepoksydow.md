@@ -21,7 +21,7 @@ Np. do klejenia możemy użyć utwardzacza zawierającego grupy tiolowe sieciuj�
 
 W tym arcie przedstawiam co potrafi metformina. Metformina ląduje w zagadkowo dużych ilościach w pojemnikach na niepotrzebnie leki ustawianych powszechnie w aptekach. Przyjmuję więc, że cena tego utwardzacza wynosi 0 zł a dostępność jego jest dobra, co dodatkowo nadaje sensu przedstawionym niżej próbom.
 
-
+<a name="spi"></a>
 Spis treści:
 
 01.02.2026 - Wstęp. [skocz](#zero) 
@@ -62,6 +62,8 @@ Fajne, treściwe, zwięzłe, dużo wyjaśniające opracowanie na temat różnych
 
 https://www.threebond.co.jp/en/technical/technicalnews/pdf/tech32.pdf
 
+[skok do spisu treści](#spi)
+
 <a name="szesc"></a>
 ### 11.02.2026:
 
@@ -71,6 +73,8 @@ Nie mam czym sprawdzić co pompuje mi ciasto. Wielkiego wyboru nie ma - amoniak,
 Czyszczenie żelazka było bardzo trudne. Klei do stali jak cholera.
 
 ![walking]({{ site.baseurl }}/assets/images/glut8.jpg)
+
+[skok do spisu treści](#spi)
 
 <a name="piec"></a>
 ### 09.02.2026:
@@ -107,6 +111,8 @@ Kolejne operacje:
 1. Przetestowanie sieciującego potencjału teofiliny dodanej w niewielkiej ilości (WYDAJE mi się, że pierścień imidazolu stworzy dwa połączenia z cząsteczkami poliepoksydu, następnie pęknie pierścień pirymidyny tworząc połączenie z kolejnym poliepoksydem).
 2. Ponoć ktoś gdzieś kiedyś używał niewielkiego dodatku mocznika jako akceleratora - sprawdzić czy reakcja będzie przebiegała szybciej ze szczyptą mocznika.
 
+[skok do spisu treści](#spi)
+
 <a name="cztery"></a>
 ### 06.02.2026:
 
@@ -141,6 +147,8 @@ Kolejne operacje:
    https://link.springer.com/article/10.1007/s10965-025-04480-3
 
  2. Zastanowienie się nad tym jak ograniczyć pienienie zachowując dobrą rozpuszczalność utwardzacza w żywicy.
+
+   [skok do spisu treści](#spi)
    
 <a name="trzy"></a>
 ### 05.02.2026:
@@ -150,6 +158,8 @@ Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszanini
 ![walking]({{ site.baseurl }}/assets/images/metred.jpg)
 
 Co to za chromuchomorofor, do cholery? Najpewniej to kolor produktów kondensacji aldolowej acetonu zachodzącej w środowisku zasadowym (metformina jest zasadą Schiff-a). Albo to po prostu krew Szatana jest.
+
+[skok do spisu treści](#spi)
 
 <a name="dwa"></a>
 ### 04.02.2026:
@@ -204,6 +214,7 @@ Fotki z labo:
 
 ![walking]({{ site.baseurl }}/assets/images/nmetfo4.jpg)
 
+[skok do spisu treści](#spi)
 
 <a name="jeden"></a>
 ### 01.02.2026:
@@ -282,5 +293,5 @@ Czy maślan metforminy z powodu małej masy molowej i "lipofilowego ogonka" rozp
 
 Robi się ciekawie, nie? Może uda się ustalić przepis na przydatny w warsztacie (i tani!!!) materiał termoutwardzalny o zadawalającej wytrzymałości mechanicznej i odporności na temperaturę.
 
-
+[skok do spisu treści](#spi)
 
