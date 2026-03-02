@@ -20,7 +20,7 @@ Dowodem jego wyjątkowości niech będzie zastosowanie go jako element pancerza 
 
 ![walking]({{ site.baseurl }}/assets/images/pestka.jpg)
 
-Ściana pestek czyli edokarp to (w przybliżeniu) taki naturalny tekstolit. W tym projekcie będę próbował otrzymać termoutwardzalną pastę złożoną z żywicy epoksydowej, drobno zmielonych endokarpów (aktywowanych powierzchniowo po zmieleniu modyfikacją polegającą na "najeżeniu" grupami aminowymi), chitozanu, zmikronizowanej L-argininy, włókien szklanych i niewielkiej ilości pyłu wytworzonego z papieru do kas fiskalnych (w tym papierze są barwniki zawierające wiele wyeksponowanych trzeciorzędowych grup aminowych - akcelerator sieciowania).
+Ściana pestek czyli endokarp to (w przybliżeniu) taki naturalny tekstolit. W tym projekcie będę próbował otrzymać termoutwardzalną pastę złożoną z żywicy epoksydowej, drobno zmielonych endokarpów (aktywowanych powierzchniowo po zmieleniu modyfikacją polegającą na "najeżeniu" grupami aminowymi), chitozanu, zmikronizowanej L-argininy, włókien szklanych i niewielkiej ilości pyłu wytworzonego z papieru do kas fiskalnych (w tym papierze są barwniki zawierające wiele wyeksponowanych trzeciorzędowych grup aminowych - akcelerator sieciowania).
 Po utwardzeniu w podwyższonej temperaturze materiał powinien przypominać właściwościami tekstolit przy czym przed utwardzeniem jego konsystencja będzie odpowiednia do wypełniania form.
 
 Ostatecznie, w połączeniu z drukarką 3D (drukowanie form) i najnowszymi osiągnięciami fotogrametrii (generowanie modelu 3D na podstawie zdjęć obiektu), możliwa była by szybka i tania replikacja elementów maszyn. O fotogrametrii i druku 3D będzie przy innej okazji. Tutaj skupię się na samym tworzywie.
