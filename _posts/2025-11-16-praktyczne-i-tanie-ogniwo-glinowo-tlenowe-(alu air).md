@@ -20,6 +20,7 @@ Praca przedstawiona w tym arcie będzie polegała na skonstruowaniu takiego ogni
 Planuję wykonać tylko jedną celę o dużej powierzchni ponieważ wtedy łatwo wymieniać materiał anodowy (wsadzić będzie trzeba tylko jeden kawał blachy).
 Konsekwencją zastosowania jednej celi jest konieczność zaprojektowania wysokosprawnej przetwornicy podwyższającej napięcie co przy napięciu na ogniwie wynoszącym około 1V z pewnością nie będzie zadaniem trywialnym. Sądzę jednak, że przy użyciu topologii push-pull z odczepem i prostownikiem na tranzystorach polowych jest możliwe przekroczenie 80% sprawności (przy maksymalnym obciążeniu) bez używania egzotycznych materiałów ani drogich półprzewodników.
 
+<a name="spi"></a>
 Spis treści:
 
 16.11.2025 - Wstęp. Co, po co i jak. [skocz](#zero) 
@@ -48,6 +49,8 @@ Jak już prawie przestało "gazować" i na maxa zgęstniało wyłączyłem grzan
 
 ![walking]({{ site.baseurl }}/assets/images/kupadiabla.jpg)
 
+[skok do spisu treści](#spi)
+
 <a name="cztery"></a>
 ### 23.02.2026
 
@@ -56,6 +59,8 @@ Znalazłem ciekawy sposób na otrzymanie grafitopodobnego węgla dopowanego azot
 https://pubs.rsc.org/en/content/articlelanding/2017/ta/c7ta02052j
 
 Być może więc otrzymanie katodowej masy elektrodowej będzie jeszcze prostsze niż myślałem. 
+
+[skok do spisu treści](#spi)
 
 <a name="trzy"></a>
 ### 21.02.2026
@@ -84,6 +89,8 @@ Najpiękniejsze to ono nie jest, wiem, jednak połączenie tak wykonane jest św
 https://www.youtube.com/shorts/7aayh18OpLU
 
 Na koniec po wysuszeniu wypada pokryć połączenie i jego okolicę warstewką np. kleju epoksydowego żeby unieruchomić łączone elementy i zabezpieczyć całość przed reakcjami elektrochemicznymi.
+
+[skok do spisu treści](#spi)
 
 <a name="dwa"></a>
 ### 11.02.2026
@@ -120,6 +127,8 @@ Plan jest w miarę prosty. Zastanawiam się jak to zrobić by się nie przepraco
 
 Ale jak wykonać perforowaną silikonową błonę? A gdybym zaimpregnował silikonem drobną tkaninę?
 
+[skok do spisu treści](#spi)
+
 <a name="jeden"></a>
 ### 02.02.2026
 
@@ -153,4 +162,6 @@ Cieszę się z pokazanego germanowca ponieważ chcę by wstępna przetwornica st
 Przetwornica właściwa:
 
 https://www.researchgate.net/publication/319367432_Low_voltage_single_fuel_cell_interface_by_Push-Pull_converter_A_case_of_study
+
+[skok do spisu treści](#spi)
 
