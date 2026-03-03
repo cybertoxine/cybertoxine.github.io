@@ -7,6 +7,7 @@ image: assets/images/kompofinal2.jpg
 tags: [featured]
 ---
 
+<a name="zero"></a>
 Wstęp:
 
 Każdy wie jak wytrzymałe są ściany pestek wiśni, śliwy, moreli. Za ich wyjątkową wytrzymałość odpowiada specjalny układ naturalnych polimerów z których dużą, stosunkowo większą ilość jak w drewnie, stanowi lignina. Lignina jest strukturalnie podobna do produktów kondensacji formaldehydu z fenolem.
@@ -25,6 +26,31 @@ Po utwardzeniu w podwyższonej temperaturze materiał powinien przypominać wła
 
 Ostatecznie, w połączeniu z drukarką 3D (drukowanie form) i najnowszymi osiągnięciami fotogrametrii (generowanie modelu 3D na podstawie zdjęć obiektu), możliwa była by szybka i tania replikacja elementów maszyn. O fotogrametrii i druku 3D będzie przy innej okazji. Tutaj skupię się na samym tworzywie.
 
+<a name="spii"></a>
 Spis treści:
 
-17.02.2026 - Wstęp czyli w czym pestki przypominają tekstolit, co planuję uzyskać i do czego tego używać.
+17.02.2026 - Wstęp czyli w czym pestki przypominają tekstolit, co planuję uzyskać i do czego tego używać. [skocz](#zero) 
+
+03.03.2026 - Metor Color + drobno sproszkowana L-arginina HCl (12:2.1 wagowo). Sprawdzenie tempa reakcji bez akceleratorów. [skocz](#jeden) 
+
+<a name="jeden"></a>
+### 03.03.2026
+
+Trzymałem mieszaninę L-arginy i żywicy epoksydowej Meteor Color w temperaturze 190°C by sprawdzić jak reaguje arginina bez akceleratorów.
+
+Po 60 minutach:
+
+https://www.youtube.com/shorts/rfZdxHyTC_4
+
+Po 120 minutach:
+
+https://www.youtube.com/shorts/_hhaJnXeyI8
+
+Widać, że arginina bez akceleratorów reaguje powoli. Do powyższej próby będę się odnosił ustalając optymalny dodatek akceleratora.
+
+No i na koniec fota przełamu zimnego produktu utwardzanego przez 120 minut:
+
+![walking]({{ site.baseurl }}/assets/images/argopox0.jpg)
+
+[skok do spisu treści](#spii)
+
