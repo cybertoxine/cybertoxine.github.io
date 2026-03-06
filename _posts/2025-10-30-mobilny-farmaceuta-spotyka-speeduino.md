@@ -362,6 +362,10 @@ Zielony - sygnał wejściowy przerzutnika (3V p-p), niebieski - sygnał wyjścio
 
 ![walking]({{ site.baseurl }}/assets/images/szmit.jpg)
 
+EL817 jest powolny więc lepiej będzie go mocniej wysterować i dać niższą rezystancję na wyjściu:
+
+![walking]({{ site.baseurl }}/assets/images/szmitf.jpg)
+
 [skocz do spisu treści](#spis)
 
 
