@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;28.02.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;06.03.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@ tags: [sticky]
    - [5e] Współpraca z sensorami oraz możliwość pełnosprawnego wysterowania aktuatorów systemu wtrysku Common Rail.
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji, dziennik prac.
-   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)•[21.01.2026](#etap1e)•[14.02.2026](#etap1f)•[25.02.2026](#etap1g)•[27.02.2026](#etap1h)  
+   - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć) [07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)•[21.01.2026](#etap1e)•[14.02.2026](#etap1f)•[25.02.2026](#etap1g)•[27.02.2026](#etap1h)•[06.03.2026](#etap1i) 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
    - [7a] Etap pierwszy.
@@ -348,6 +348,19 @@ Wnioski:
 3. Prezentowany układ DCR z racji liniowej charakterystyki przenoszenia, niewielkiej sumarycznej pojemności tranzystorów w transoptorach i dobremu odseparowaniu sygnałów sterujących od sygnału modulowanego może znaleźć zastosowanie w modulacji amplitudowej sygnałów wielkiej częstotliwości.
 
 4. Tanie i wszechobecne EL817C robią robotę.
+
+[skocz do spisu treści](#spis)
+
+<a name="etap1i"></a>
+### 06.03.2026
+
+Zamiast programowego wykrywania przejścia przez 0 zastosuję jednak przerzutnik Schmitta na tranzystorach. Ogranicznikiem napięcia na podwajaczu będzie biała LED co da napięcie około 3V na pinie AREF. Napięcie na LEDzie będzie wraz z temperaturą dryfowało razem z napięciami progowymi przerzutnika Schmitta więc układ będzie mniej wrażliwy na zmiany temperatury. Alternatywnie można zastosować diodę Zenera i wzmacniacz operacyjny. LED jednak podoba mi się bardziej bo 1. obcina "miękko", 2. będzie sygnalizował jasnością świecenia moment mijania dwóch "wybitych zębów". LED będzie "podciągnięta" do plusa rezystorem o wartości kilku kiloohmów żeby napięcie na AREF od początku (tzn. przy zatrzymanym wale) było zbliżone do 3V.
+
+Tak więc mikrokontroler sterując DCR-em (Digital Controlled Resistor) będzie starał się utrzymać stałą amplitudę sygnału na wejściu przerzutnika mimo zmieniającej się szybkości obrotowej wału. Zmiana oporu DCR-a będzie następowała raz na obrót wału, w szczelinie czasowej wyznaczonej przez przelot dwóch "wybitych zębów" czyli wraz ze wzrostem szybkości obrotowej będzie następowało zmniejszenie stałej czasowej ART (Automatycznej Regulacji Tłumienia).
+
+Zielony - sygnał wejściowy przerzutnika (3V p-p), niebieski - sygnał wyjściowy przerzutnika (5V p-p).
+
+![walking]({{ site.baseurl }}/assets/images/szmit.jpg)
 
 [skocz do spisu treści](#spis)
 
