@@ -72,7 +72,7 @@ Końcowy etap utwardzania powinien więc odbywać się z użyciem prasy jeśli m
 Nie mam czym sprawdzić co pompuje mi ciasto. Wielkiego wyboru nie ma - amoniak, metan, coś dłuższego od foronu, resztki rozpuszczalnika z Meteora.
 Czyszczenie żelazka było bardzo trudne. Klei do stali jak cholera.
 
-![walking]({{ site.baseurl }}/assets/images/glut8.jpg)
+![epoxy]({{ site.baseurl }}/assets/images/glut8.jpg)
 
 [skok do spisu treści](#spi)
 
@@ -81,19 +81,19 @@ Czyszczenie żelazka było bardzo trudne. Klei do stali jak cholera.
 
 Po trzech dniach spędzonych w kałuwce, roztwór trzymany w temperaturze pokojowej stężniał. Widoczna krystalizacja z dość dużymi kryształkami. Całość jest miękka i jednolita.
 
-![walking]({{ site.baseurl }}/assets/images/glut3.jpg)
+![hardener]({{ site.baseurl }}/assets/images/glut3.jpg)
 
 Zmieszano utwardzacz z żywicą epoksydową Meteor Color w proporcji MNIEJ-WIĘCEJ 85 części objętościowych żywicy / 15 części objętościowych utwardzacza.
 
-![walking]({{ site.baseurl }}/assets/images/glut2.jpg)
+![hardener and resin]({{ site.baseurl }}/assets/images/glut2.jpg)
 
 Po dojściu do 80°C ochłodzono do temperatury pokojowej. Produkt dawał się formować jak plastelina.
 
-![walking]({{ site.baseurl }}/assets/images/glut1.jpg)
+![resin]({{ site.baseurl }}/assets/images/glut1.jpg)
 
 "Plastelinę" trzymano na płycie żelazka w temp 175°C przez 60 minut.
 
-![walking]({{ site.baseurl }}/assets/images/glut0.jpg)
+![hot resin]({{ site.baseurl }}/assets/images/glut0.jpg)
 
 Pod koniec utwardzania sprawdzono konsystencję mieszaniny. W 175°C przypominała zachowaniem gumę, co widać na jutubowym szorcie:
 
@@ -120,9 +120,9 @@ Roztwór stał w temperaturze pokojowej kolejne 24 godziny. Po tym czasie odparo
 
 Po zmieszaniu z żywicą epoksydową i rozpoczęciu podgrzewania całość zaczęła się intensywnie pienić. Piana szybko opadła. Tempo utwardzania było bardzo szybkie w podwyższonej temperaturze. W temperaturze pokojowej nie zauważyłem zmiany "gęstości".
 
-![walking]({{ site.baseurl }}/assets/images/pho0.jpg)
+![substance]({{ site.baseurl }}/assets/images/pho0.jpg)
 
-![walking]({{ site.baseurl }}/assets/images/pho1.jpg)
+![substance]({{ site.baseurl }}/assets/images/pho1.jpg)
 
 Po utwardzeniu próbka topiła się po szybkim, silnym podgrzaniu więc JESZCZE mamy do czynienia z termoplastem. Popracuje się nad procesem utwardzania i będzie gicior-thermoset (ma się rozpadać, kruszyć pod wpływem wysokiej temperatury z resztą objawów pirolizy czyli smrodem i brunatnieniem).
 
@@ -131,7 +131,7 @@ Spełnia kryteria niskiej ceny (metforminę mam z odzysku, aceton, IPA i KOH są
 
 Poniżej gfx z substancjami jakie, jak przypuszczam, znajdują się w otrzymanym płynie.
 
-![walking]({{ site.baseurl }}/assets/images/pho2.jpg)
+![chemical substance]({{ site.baseurl }}/assets/images/pho2.jpg)
 
 Jeśli ten hardener ostatecznie okaże się dobry to może pokuszę się o syntezę żywicy epoksydowej z jakiegoś oleju roślinnego:
 
@@ -155,7 +155,7 @@ Kolejne operacje:
 
 Po około 24 godzinach w lodówce roztwór wolnej zasady metforminy w mieszaninie acetonu i izopropanolu zyskał ładny czerwony kolor.
 
-![walking]({{ site.baseurl }}/assets/images/metred.jpg)
+![aldol condensation]({{ site.baseurl }}/assets/images/metred.jpg)
 
 Co to za chromuchomorofor, do cholery? Najpewniej to kolor produktów kondensacji aldolowej acetonu zachodzącej w środowisku zasadowym (metformina jest zasadą Schiff-a). Albo to po prostu krew Szatana jest.
 
@@ -206,13 +206,13 @@ Kolejne operacje:
 
 Fotki z labo:
 
-![walking]({{ site.baseurl }}/assets/images/nmetfo1.jpg)
+![labo]({{ site.baseurl }}/assets/images/nmetfo1.jpg)
 
-![walking]({{ site.baseurl }}/assets/images/nmetfo2.jpg)
+![labo]({{ site.baseurl }}/assets/images/nmetfo2.jpg)
 
-![walking]({{ site.baseurl }}/assets/images/nmetfo3.jpg)
+![labo]({{ site.baseurl }}/assets/images/nmetfo3.jpg)
 
-![walking]({{ site.baseurl }}/assets/images/nmetfo4.jpg)
+![labo]({{ site.baseurl }}/assets/images/nmetfo4.jpg)
 
 [skok do spisu treści](#spi)
 
@@ -225,23 +225,23 @@ https://patents.google.com/patent/DE2024395C3/en
 
 Czy metformina (1,1-dimetylobiguanid) zareaguje w podobny sposób? Sprawdźmy.
 
-![walking]({{ site.baseurl }}/assets/images/metfo1.jpg)
+![matformine]({{ site.baseurl }}/assets/images/metfo1.jpg)
 
 Zmieszałem żywicę (Meteor Color do wylewania posadzek) z roztartą tabletką zawierającą 1g metforminy. 
 
-![walking]({{ site.baseurl }}/assets/images/metfo2.jpg)
+![metformine tablet]({{ site.baseurl }}/assets/images/metfo2.jpg)
 
 Następnie powoli podgrzewałem. W okolicach 200 st. C. mieszanina zaczęła się lekko pienić z powodu osiągnięcia temperatury rozkładu metforminy (metan + amoniak).
 
-![walking]({{ site.baseurl }}/assets/images/metfo3.jpg)
+![hot]({{ site.baseurl }}/assets/images/metfo3.jpg)
 
 Wyłączyłem ogrzewanie i pozostawiłem na palniku do ostygnięcia.
 
-![walking]({{ site.baseurl }}/assets/images/metfo4.jpg)
+![crosslinked]({{ site.baseurl }}/assets/images/metfo4.jpg)
 
 Produktem reakcji była bardzo twarda, trudna do zarysowania, krucha, spójna (do połamania próbki musiałem użyć znacznej siły), miejscami spieniona masa.
 
-![walking]({{ site.baseurl }}/assets/images/metfo5.jpg)
+![cold hardened epoxy]({{ site.baseurl }}/assets/images/metfo5.jpg)
 
 Nie ustaliłem optymalnych warunków przeprowadzania sieciowania, nie znam optymalnej proporcji składników mieszaniny. Opisana próba dowodzi jedynie, że utwardzanie żywic epoksydowych metforminą jest możliwe.
 
