@@ -47,7 +47,7 @@ Inny był też zapach. Smaku nie sprawdzałem :-)
 
 Jak już prawie przestało "gazować" i na maxa zgęstniało wyłączyłem grzanie. Zimny produkt wyglądał tak:
 
-![walking]({{ site.baseurl }}/assets/images/kupadiabla.jpg)
+![urea glucose condensate]({{ site.baseurl }}/assets/images/kupadiabla.jpg)
 
 [skok do spisu treści](#spi)
 
@@ -70,19 +70,19 @@ Można użyć specjalnych topników do lutowania aluminium, można również por
 
 Potrzebne będzie specjalne narzędzie do nacierania cyną:
 
-![walking]({{ site.baseurl }}/assets/images/alus0.jpg)
+![special tool]({{ site.baseurl }}/assets/images/alus0.jpg)
 
 To nic innego jak szybkoobrotowa miniszlifierka z końcówką w postaci kulki z czystej cyny.
 
 Jak już mamy banalne w wykonaniu narzędzie specjalne to postępujemy jak na poniższej ilustracji:
 
-![walking]({{ site.baseurl }}/assets/images/alus1.jpg)
+![soldering procedure]({{ site.baseurl }}/assets/images/alus1.jpg)
 
 Operacje wykonujemy POD WYCIĄGIEM i w okularach ochronnych. Nie żartuję. Oko może oberwać kawałkiem cyny oderwanej z kulki (czysta cyna jest mięciutka i ciężka, kulka mocno się nagrzewa) a podczas termicznego rozkładu mocznika powstaje dużo amoniaku (no chyba, że ktoś lubi się dusić albo chodzić bez oka - ludzie miewają różne zboczenia).
 
 Po zmyciu mocznika wodą połączenie wygląda tak:
 
-![walking]({{ site.baseurl }}/assets/images/alus2.jpg)
+![joint]({{ site.baseurl }}/assets/images/alus2.jpg)
 
 Najpiękniejsze to ono nie jest, wiem, jednak połączenie tak wykonane jest świetne, oto dowód:
 
@@ -97,7 +97,7 @@ Na koniec po wysuszeniu wypada pokryć połączenie i jego okolicę warstewką n
 
 Odparowywanie wody z płynu Adblue do diesli w celu otrzymania krystalicznego mocznika:
 
-![walking]({{ site.baseurl }}/assets/images/alu0.jpg)
+![urea crystalisation]({{ site.baseurl }}/assets/images/alu0.jpg)
 
 Mocznik potrzebny do otrzymania dopingowanej azotem grafitopodobnej substancji z osadzonym na niej tlenkiem kobaltu, pełniącej funkcję katalizatora reakcji redukcji tlenu.
 
@@ -154,7 +154,7 @@ Dokumentacja AD136 VI: https://www.mgelectronic.rs/ProductFilesDownload?Id=7821
 
 Fotka zdobycznego AD136 VI:
 
-![walking]({{ site.baseurl }}/assets/images/ad136.jpg)
+![germanium transistor]({{ site.baseurl }}/assets/images/ad136.jpg)
 
 
 Cieszę się z pokazanego germanowca ponieważ chcę by wstępna przetwornica startowała samoczynnie po dołączeniu ogniwa i by jej wydajność po starcie była wystarczająca do wysterowania drivera bramek FET-ów i zasilenia mikrokontrolera. AD136 VI powinien z zapasem spełnić oczekiwania już przy napięciu zasilania wynoszącym 0.3V. Nie dość, że germanowy to jeszcze niemiecki :).
