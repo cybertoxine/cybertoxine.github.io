@@ -33,6 +33,36 @@ Spis treści:
 
 03.03.2026 - Metor Color + drobno sproszkowana L-arginina HCl (12:2.1 wagowo). Sprawdzenie tempa reakcji bez akceleratorów. [skocz](#jeden) 
 
+07.03.2026 - Żywica Meteor Color + drobno sproszkowany azotan L-arginy (azotanowodorek argininy?). Osiągnięcie zadowalającej szybkości reakcji. [skocz](#dwa) 
+
+<a name="dwa"></a>
+### 07.03.2026
+
+W literaturze patentowej kilka razy natknąłem się na wzmiankę, że dodawanie azotanów(V) przyspieszało sieciowanie.
+Następnie zwróciłem uwagę na niską temperaturę topnienia azotanu(V) L-argininy. Sporządziłem tę sól i sprawdziłem jak zachowa się w realu.
+Okazało się, że sieciuje szybciej od chlorowodorku. Poniżej video z dziabdzianiem próbki po 1, 15, 30 i 45 minutach.
+
+https://www.youtube.com/shorts/IB-7j5wEVdw
+
+https://www.youtube.com/shorts/ITcs0Tgi_pY
+
+https://www.youtube.com/shorts/bEDuWjlwWd8
+
+https://www.youtube.com/shorts/x6SdpbmbJvA
+
+Próbka miała ładniejszy przełam:
+
+![walking]({{ site.baseurl }}/assets/images/przel.jpg)
+
+Próby wykonywałem na specjalistycznym stanowisku z płytą grzejną ELDOM SCIENTIFIC. Wyciąg zasponsorował HINDUS TECH ELECTRONIC WASTE CORPORATION. Używałem też młynka do mikronizacji renomowanej firmy SROSH oraz termometru LODYDAWIDA.
+
+![walking]({{ site.baseurl }}/assets/images/stuf.jpg)
+
+Jak już mam utwardzacz i taki sprzęcior to czas przejść do ustalenia optymalnej proporcji żywicy Meteor, azotanu(V) argininy i chitozanu. :)
+
+[skok do spisu treści](#spii)
+
+
 <a name="jeden"></a>
 ### 03.03.2026
 
