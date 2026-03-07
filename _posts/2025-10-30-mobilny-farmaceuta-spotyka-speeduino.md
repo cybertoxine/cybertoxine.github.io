@@ -46,7 +46,7 @@ tags: [sticky]
 
 Dla większej ilości cewek potrzebna wielokrotność poniższego układu.
 
-![walking]({{ site.baseurl }}/assets/images/sicignition.png)
+![SiC ignitor]({{ site.baseurl }}/assets/images/sicignition.png)
 
 **U1, U2** - Niezbyt szybkie transoptory. Szybkość podczas załączania nie jest potrzebna, prąd płynący w uzwojeniu pierwotnym cewki zapłonowej i tak narasta powoli.
 Dałem dwie sztuki bo koszt prawie zerowy a mamy większą wydajność prądową. Układ przez to jest pewniejszy - czasem przy częściowym uszkodzeniu bramki MOSFET-a potrafi płynąć niewielki prąd. Poza tym wilgoć itd.
@@ -80,7 +80,7 @@ Postanowiłem więc maksymalnie odizolować obwód wysokiego napięcia od obwod�
 
 ## Przetwornica napięcia. (zasilanie m.in. driverów bramek SiC-MOSFET-ów):
 
-![walking]({{ site.baseurl }}/assets/images/boostt.png)
+![boost converter]({{ site.baseurl }}/assets/images/boostt.png)
 
 **C1**  - Niskoimpedancyjny elektrolityczny.
 **C2** - Niskoimpedancyjny elektrolityczny. Chociaż chyba lepiej tu tantalowy 25V.
@@ -107,14 +107,14 @@ Przewymiarowane bo IC jest w stanie "przepompować" 20W mocy w tej topologii i p
 
 Regulacja wzmocnienia, przesuwanie przebiegu w stronę zera, ukształtowanie prostokątnego sygnału wyściowego, bez izolacji galwanicznej:
 
-![walking]({{ site.baseurl }}/assets/images/signal4.png)
+![signal conditioner schematic]({{ site.baseurl }}/assets/images/signal4.png)
 
 Koszt elementów elektronicznych potrzebnych do zbudowania powyższego układu nie przekracza 10zł. LM324, 3 tranzystory, 3 optoizolatory, kilka diod, kondensatorów i rezystorów.
 Po zmontowaniu na dwustronnej płytce rozmiar całości bardzo mały więc nie wiem czy stosowanie scalonych obwodów dedykowanych dla czujników VR ma sens. Nie podaję tutaj wartości elementów gdyż nie potrafię do końca przewidzieć jak układ się zachowa. Niby LM324B powinien "się wyrabiać" przy 10kHz na wyjściu czujnika VR, niby charakterystyka optoizolatorów nie musi odzwierciedlać zachowania się rezystora. Musiałbym nad tym posiedzieć z oscyloskopem. Przedstawione wyżej rozwiązanie ma charakter koncepcyjny. Moim zdaniem w dobie mikrokontrolerów w cenie batonika nie ma sensu iść tą drogą.
 
 ### Analogowe uproszczone:
 
-![walking]({{ site.baseurl }}/assets/images/simplean3.png)
+![analog signal conditioner schematic]({{ site.baseurl }}/assets/images/simplean3.png)
 
 Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnału z czujnika przy użyciu pomarańczowych LEDów. Zamiast sprzężenia zwrotnego utrzymjącego 50% wypełnienie sygnału wyjściowego jest tutaj przemieszczanie się (w takt obrotu wału korbowego, chodzi o zmniejszenie wpływu zmian odległości czujnika od wieńca zębatego) punktu odniesienia dla komparatora przy wejściu odwracającym wzmacniacza. Komparator jest bez histerezy, pozostaje jedynie histereza portu wejściowego mikrokontolera. Mimo swojej prostoty układ ma duże szanse na zadowalające działanie w rzeczywistych warunkach więc może "dla jaj" go kiedyś wykonam.
 
@@ -124,7 +124,7 @@ Zamiast regulacji wzmocnienia "miękkie przycięcie" szczytów przebiegu sygnał
 Na poniższym rysunku przedtawiono 3 różne, podobne sygnały z reluktancyjnego czujnika położenia wału korbowego, operacje na nich wykonywane i ostateczny sygnał wyjściowy nadający się do podania
 do Speeduino.
 
-![walking]({{ site.baseurl }}/assets/images/vrsc2.png)
+![DSP algorithm ilustration]({{ site.baseurl }}/assets/images/vrsc2.png)
 
 Celem stosowania DSP w układzie kondycjonera jest zmniejszenie wpływu deformacji sygnału z czujnika na proces wyznaczania aktualnej pozycji wału korbowego przez software odpalony na ATmega2560.
 
@@ -163,7 +163,7 @@ Daje to częstotliwość próbkowania 2 mln/13/s = 153KHz i 104 cykle (przy zega
 Najlepszym ustawieniem wydaje się być 1.5 mln/13/s = 115KHz i 208 cykli rdzenia na próbkę (lekkie przetaktowanie do 24MHz), jednak wtedy należałoby dołożyć zewnętrzny oscylator.
 Niestety rdzeń wspomnianego ATtiny pozbawiono możliwości wykonywania instrukcji MUL, a szkoda. Utrudnia to albo uniemożliwia implementację bardziej złożonych algorytmów.
 
-![walking]({{ site.baseurl }}/assets/images/tiny44k2.png)
+![digital signal conditioner schematic]({{ site.baseurl }}/assets/images/tiny44k2.png)
 
 Układ jest izolowany galwanicznie. Zasilany z osobnego uzwojenia nawiniętego na rdzeniu wcześniej przedstawianej przetwornicy. Na wyjściu znajduje się transoptor. 
 Dzięki takiemu manewrowi całość zachowuje się jak wzmacniacz operacyjny nie posiadający (praktycznie) limitu co do wysokości napięcia na wejściach, układ reaguje tylko na różnicę napięć przy R12 i R13.
@@ -175,7 +175,7 @@ Rozwiązanie z DSP na pierwszy rzut oka wygląda na overkill jednak jego niski k
 
 Mój faworyt.
 
-![walking]({{ site.baseurl }}/assets/images/tiny44kombo.png)
+![digital signal conditioner schematic]({{ site.baseurl }}/assets/images/tiny44kombo.png)
 
 Przetaktowywanie układów scalonych nie jest dobrą praktyką w przypadku konstruowania profesjonalnych, komercyjnych urządzeń. Jednakże "indywiduum" składające samemu sobie potrzebne mu urządzenie stoi na uprzywilejowanej pozycji. Można przeprowadzić selekcję układów i wytypować te, które pracują stabilnie z zegarem nieco wyższym od dopuszczalnego, przedstawionego w nocie katalogowej.
 W praktyce wygląda to tak, że prawie każdy egzemplarz Attiny44A z serii o maksymalnej dopuszczalnej temperaturze pracy do 125 st. C w temperaturze pokojowej, przy dobrze odfiltrowanym napięciu zasilania wynoszącym 5V i przy dostarczeniu sygnału zegara z zewnętrznego oscylatora pracuje stabilnie z taktowaniem 24MHz. Wspominam o tym by podkreślić potrzebę wyboru odpowiedniej serii układu oraz potrzebę przeprowadzenia selekcji pod kątem odpowiedniego marginesu bezpieczeństwa, innymi słowy "zapasu stabilności". Normalnie powinno się po prostu dokonać wyboru któregoś z szybszych mikrokontrolerów, których na rynku nie brakuje. Mój wybór jest podyktowany lenistwem, przyzwyczajeniem, dobrą znajomością dokumentacji układu i doświadczeniem w "męczeniu" go. Ponadto 8 bitowe AVR-y mają prosty i zwięzły asembler co przy kombinowaniu przy DSP okazuje się wielką zaletą.
@@ -190,7 +190,7 @@ Nie jestem pewien czy R12, R13, R15, R16, R17 doprowadzą do nasycenia tranzysto
 W CTR optoizolatorów bywają znaczne różnice pomiędzy egzemplarzami, występuje też problem stażenia.
 Programowe przełączanie optoizolatorów odbywa się w momencie mijania dwóch "wybitych" zębów i z zachowaniem odpowiednich deadtime-ów. Moment ten przedstawia poniższa grafika:
 
-![walking]({{ site.baseurl }}/assets/images/optoc.png)
+![crancshaft angle]({{ site.baseurl }}/assets/images/optoc.png)
 
 Chodzi o to by zniekształcenia sygnału powstające w chwili zmiany oporu były jak najmniejsze i powstawały w chwili, która nie ma znaczenia dla odczytu położenia wału korbowego. 
 Przy wysokich obrotach zmniejszona impedancja regulowanego rezystora powoduje zwiększenie prądu płynącego przez uzwojenie czujnika i zmniejszenie indukcji w jego rdzeniu. 
@@ -218,7 +218,7 @@ Wykonano generator sygnału reluktancyjnego czujnika położenia wału korbowego
 
 Przy okazji testom podlega kompozytowy pas napędowy (sieciowany silikon-włókno szklane).  
 
-![walking]({{ site.baseurl }}/assets/images/spinner.jpg)
+![signal generator]({{ site.baseurl }}/assets/images/spinner.jpg)
 
 Poniższy film przedstawia konstrukcję generatora:
 
@@ -238,11 +238,11 @@ Przekraczanie 100W mocy na wale (przy napięciu 12V) odbywa się nieniszcząco. 
 
 Materiał paska wymaga udoskonalenia.
 
-![walking]({{ site.baseurl }}/assets/images/pasekbum.jpg)
+![transmission belt failure]({{ site.baseurl }}/assets/images/pasekbum.jpg)
 
 Trwa kompletowanie hardware-u.
 
-![walking]({{ site.baseurl }}/assets/images/kompletowanie.jpg)
+![electronic parts]({{ site.baseurl }}/assets/images/kompletowanie.jpg)
 
 [skocz do spisu treści](#spis)
 
@@ -251,11 +251,11 @@ Trwa kompletowanie hardware-u.
 
 Namalowałem prototypową płytkę do kondycjonera DSP z DCR. Widok z góry. Płytka jest dwustronna. Z drugiej strony znajdą się U3 i U4 otoczone polem miedzi.
 
-![walking]({{ site.baseurl }}/assets/images/dspvrsc.png)
+![copper picture]({{ site.baseurl }}/assets/images/dspvrsc.png)
 
 Z elektrośmieciowego Sound Blaster-a Live! wylutowałem pasujący do projektu generator kwarcowy.
 
-![walking]({{ site.baseurl }}/assets/images/q24576.jpg)
+![quartz generator]({{ site.baseurl }}/assets/images/q24576.jpg)
 
 [skocz do spisu treści](#spis)
 
@@ -264,7 +264,7 @@ Z elektrośmieciowego Sound Blaster-a Live! wylutowałem pasujący do projektu g
 
 Robiąc dwustronnie wyszłoby mniejsze. Narazie to prototyp, póżniej "ścisnę". Nawet teraz wymiary są do zaakceptowania.
 
-![walking]({{ site.baseurl }}/assets/images/vrscplytka.jpg)
+![laminate]({{ site.baseurl }}/assets/images/vrscplytka.jpg)
 
 
 [skocz do spisu treści](#spis)
@@ -274,14 +274,14 @@ Robiąc dwustronnie wyszłoby mniejsze. Narazie to prototyp, póżniej "ścisnę
 
 Mikrokontroler i transoptory gotowe do przylutowania:
 
-![walking]({{ site.baseurl }}/assets/images/vrscq.jpg)
+![parts on laminate]({{ site.baseurl }}/assets/images/vrscq.jpg)
 
 ATtiny44A opcja N, industrial, -40 do 105 st.C. 
 Przy overclockingu lepsza byłaby opcja F czyli od -40 do 125 st.C. 
 
 TCXO 24.576 MHz:
 
-![walking]({{ site.baseurl }}/assets/images/vrscchip.jpg)
+![quartz generator]({{ site.baseurl }}/assets/images/vrscchip.jpg)
 
 Wbudowany w ATtiny44A układ współpracujący z zewnętrznymi kwarcami "nie lubi" częstotliwości wyższych od 20 MHz. Dlatego dodałem zewnętrzny kompletny generator.
 Pod ręką miałem tylko taki wielki. :)
@@ -293,7 +293,7 @@ Pod ręką miałem tylko taki wielki. :)
 
 Sprawdziłem jakie przebiegi napięcia wyjściowego uzyskam obciążając czujnik położenia wału różnymi wartościami rezystancji.
 
-![walking]({{ site.baseurl }}/assets/images/sroshgmbh.jpg)
+![test equipment]({{ site.baseurl }}/assets/images/sroshgmbh.jpg)
 
 Okazuje się, że obwód regulacji tłumienia nie musi mieć tak dużej rozdzielczości jak myślałem. Zależność obroty-napięcie w obrębie gęstego zgryzu przypomina wykres funkcji logarytmicznej.
 32 wartości rezystancji zupełnie wystarczą. Rezystory w cyfrowo regulowanym tłumiku nie powinny iść śladem potęgi dwójki jak wcześniej zakładałem. Ich wartości idą do poprawki.
@@ -305,13 +305,13 @@ Najbardziej podobała mi się praca czujnika pod obciążeniem 470 Ohm. Piki wok
 ### 25.02.2026
 Poskładałem prototyp 1. Zbyt trudny w montażu, płytkę ostatecznie zrobię większą:
 
-![walking]({{ site.baseurl }}/assets/images/dcrimg0.jpg)
+![completed prototype]({{ site.baseurl }}/assets/images/dcrimg0.jpg)
 
 Attiny44A ruszyło przy zegarze 24.576 MHz. Rejestry, SRAM, FLASH, EEPROM wszystko elegancko, żadnych glitchy na portach.
 
 Przetestowałem DCR (Digital Controlled Resistor) i wszystko oki. Do scharakteryzowania mam szybkość przełączania transoptorów oraz spadek napięcia na nich w bliskich okolicach zerowego napięcia na wyjściu z czujnika (czyli zachowanie przy niskim poziomie sygnału wejściowego, zniekształcenia przy przejściu przez zero).
 
-![walking]({{ site.baseurl }}/assets/images/dcrimg1.jpg)
+![test circuit]({{ site.baseurl }}/assets/images/dcrimg1.jpg)
 
 Przeprojektuję nieco tor analogowy. Mikrokontroler zajmie się sterowaniem impedancją wejścia oraz ustalaniem stałej czasowej ART (Automatycznej Regulacji Tłumienia). Wykrywaniem przejścia przejścia przez zero zajmie się sprzętowy komparator ze stałą histerezą, który "dostanie" na wejściu przebieg o stałej amplitudzie. Tak będzie lepiej. Układ dzięki takiej modyfikacji dobrze "ogarnie" również bardzo duże prędkości obrotowe koła fonicznego. 
 
@@ -325,7 +325,7 @@ Podczas obserwowania na oscyloskopie przebiegu z generatora sygnału czyjnika po
 Byłem ciekaw czy transoptory w stanie załączonym będzie charakteryzowało jakieś progowe napięcie przy którym tranzystory wewnątrz nich zaczynają przewodzić.
 Zestawiono obwód pomiarowy taki jak pokazano poniżej:
 
-![walking]({{ site.baseurl }}/assets/images/dcr910.jpg)
+![circuit diagram]({{ site.baseurl }}/assets/images/dcr910.jpg)
 
 Nagrałem szorta z obrazem z oscyloskopu:
 
@@ -337,7 +337,7 @@ Następnie sprawdziłem jak szybki jest DCR tzn. przy jakiej częstotliwości zm
 Ważna dla mnie jest też szerokość szpilek powstających przy przełączaniu ponieważ w założeniu DCR ma się wyrobić w czasie "przelotu dwóch wybitych zębów".
 W prawym dolnym rogu zestawienia zamieściłem schemat obwodu pomiarowego.
 
-![walking]({{ site.baseurl }}/assets/images/dcrwyniki.jpg)
+![osciloscope screen picture]({{ site.baseurl }}/assets/images/dcrwyniki.jpg)
 
 Wnioski:
 
@@ -360,11 +360,11 @@ Tak więc mikrokontroler sterując DCR-em (Digital Controlled Resistor) będzie 
 
 Zielony - sygnał wejściowy przerzutnika (3V p-p), niebieski - sygnał wyjściowy przerzutnika (5V p-p).
 
-![walking]({{ site.baseurl }}/assets/images/szmit.jpg)
+![schmitt trigger]({{ site.baseurl }}/assets/images/szmit.jpg)
 
 EL817 jest powolny więc lepiej będzie go mocniej wysterować i dać niższą rezystancję na wyjściu:
 
-![walking]({{ site.baseurl }}/assets/images/szmitf.jpg)
+![schmitt trigger fast]({{ site.baseurl }}/assets/images/szmitf.jpg)
 
 [skocz do spisu treści](#spis)
 
