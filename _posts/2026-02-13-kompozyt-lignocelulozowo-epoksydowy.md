@@ -54,7 +54,7 @@ Próbka miała ładniejszy przełam:
 
 ![material]({{ site.baseurl }}/assets/images/przel.jpg)
 
-Próby wykonywałem na specjalistycznym stanowisku z płytą grzejną ELDOM SCIENTIFIC. Wyciąg zasponsorował HINDUS TECH ELECTRONIC WASTE CORPORATION. Używałem też młynka do mikronizacji renomowanej firmy SROSH oraz termometru LODYDAWIDA.
+Próby wykonywałem na specjalistycznym stanowisku z płytą grzejną ELDOM SCIENTIFIC. Wyciąg zasponsorował HINDUS TECH ELECTRONIC WASTE CORPORATION. Używałem też młynka do mikronizacji renomowanej firmy SROSCH oraz termometru LODYDAWIDA.
 
 ![laboratory tools]({{ site.baseurl }}/assets/images/stuf.jpg)
 
