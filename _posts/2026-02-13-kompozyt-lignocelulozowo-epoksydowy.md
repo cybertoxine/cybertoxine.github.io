@@ -58,7 +58,11 @@ Próby wykonywałem na specjalistycznym stanowisku z płytą grzejną ELDOM SCIE
 
 ![laboratory tools]({{ site.baseurl }}/assets/images/stuf.jpg)
 
-Jak już mam utwardzacz i taki sprzęcior to czas przejść do ustalenia optymalnej proporcji żywicy Meteor, azotanu(V) argininy i chitozanu. :)
+Jak już mam utwardzacz i taki sprzęcior to czas nadszedłby czas na ustalenie optymalnej proporcji żywicy Meteor, azotanu(V) argininy i chitozanu gdyby....Tg utwardzonej żywicy było zadawalające.
+Niestety nie jest. Po lekkim ogrzaniu próbka robi się elastyczna. Wykonałem próbę z inną żywicą - to samo. Myślę, że azotany(V) są na tyle agresywne, że tną powstające "łańcuszki" na krótkie kawałki.
+Jeśli już katalizować azotanami(V) to prawdopodobnie ich ilość w mieszaninie powinna być znacznie mniejsza.
+
+No nic. Pozostaje kombinować dalej. Chciałbym uzyskać wysoką Tg posługując się tanią i powszechnie dostępną żywicą. Chciałbym też by utwardzanie przebiegało w miarę szybko.
 
 [skok do spisu treści](#spii)
 
