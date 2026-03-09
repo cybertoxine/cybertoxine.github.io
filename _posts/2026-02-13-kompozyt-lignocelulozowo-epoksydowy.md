@@ -54,7 +54,7 @@ Te białe kłaki to fragmenty otoczki Metformaxu. Były w oddzielnym pojemniczku
 
 Próbki po ochłodzeniu nie byłem w stanie złamać w palcach. Tg jest wystarczająco wysokie. Dokładną wartość Tg ustalę później, dziś mi się nie chce.
 
-![material]({{ site.baseurl }}/assets/images/przel.jpg)
+![material]({{ site.baseurl }}/assets/images/probex.jpg)
 
 Jestem bardzo zadowolony z uzyskanego materiału. Opisana mieszanina, przed utwardzeniem oczywiście, na pewno dobrze spełni rolę lepiszcza w projektowanym kompozycie. 
 
