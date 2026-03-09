@@ -35,6 +35,33 @@ Spis treści:
 
 07.03.2026 - Żywica Meteor Color + drobno sproszkowany azotan L-arginy (azotanowodorek argininy?). Osiągnięcie zadowalającej szybkości reakcji. [skocz](#dwa) 
 
+09.03.2026 - Sukces. Uzyskano mieszaninę pełniącą rolę lepiszcza, która ma odpowiednie parametry. [skocz](#trzy) 
+
+
+
+
+<a name="dwa"></a>
+### 09.03.2026
+
+Zmieszano 2.5g (tym razem przezroczystej by było widać drobiny proszków) żywicy epoksydowej z 0.5 chlorowodorku metforminy i 1g chitozanu.
+Proszki były zmikronizowane laboratoryjnym młynkiem SROSH. Dodatkowo proszki energicznie roztarto po zmieszaniu z żywicą. 0.5g chitozanu dodano przed umieszczeniem na płycie grzejnej a kolejne 0.5g dopiero po ogrzaniu (już bez rozcierania) gdy lepkość żywicy uległa znacznemu zmniejszeniu.
+
+Do pełnego utwardzenia wystarczyło 50 minut w temperaturze 170 st.C. Poniżej video z kłuciem próbki w temp. 170 st.C. tuż przed zakończeniem utwardzania:
+
+https://www.youtube.com/shorts/C8U331_NTo4
+
+Te białe kłaki to fragmenty otoczki Metformaxu. Były w oddzielnym pojemniczku, który oczywiście potrąciłem ręką po umieszczeniu mieszaniny na płycie grzejnej.
+
+Próbki po ochłodzeniu nie byłem w stanie złamać w palcach. Tg jest wystarczająco wysokie. Dokładną wartość Tg ustalę później, dziś mi się nie chce.
+
+![material]({{ site.baseurl }}/assets/images/przel.jpg)
+
+Jestem bardzo zadowolony z uzyskanego materiału. Opisana mieszanina, przed utwardzeniem oczywiście, na pewno dobrze spełni rolę lepiszcza w projektowanym kompozycie. 
+
+A teraz...jak poprzyczepiać grupy aminowe albo tiolowe do lignocelulozy?
+
+[skok do spisu treści](#spii)
+
 <a name="dwa"></a>
 ### 07.03.2026
 
