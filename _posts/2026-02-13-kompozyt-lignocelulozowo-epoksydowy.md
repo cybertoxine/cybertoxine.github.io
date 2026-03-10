@@ -43,8 +43,8 @@ Spis treści:
 <a name="dwa"></a>
 ### 09.03.2026
 
-Zmieszano 2.5g (tym razem przezroczystej by było widać drobiny proszków) żywicy epoksydowej z 0.5 chlorowodorku metforminy i 1g chitozanu.
-Proszki były zmikronizowane laboratoryjnym młynkiem SROSH. Dodatkowo proszki energicznie roztarto po zmieszaniu z żywicą. 0.5g chitozanu dodano przed umieszczeniem na płycie grzejnej a kolejne 0.5g dopiero po ogrzaniu (już bez rozcierania) gdy lepkość żywicy uległa znacznemu zmniejszeniu.
+Zmieszano 2.5g (tym razem przezroczystej by było widać drobiny proszków) żywicy epoksydowej z 0.5g chlorowodorku metforminy i 1g chitozanu.
+Proszki były mikronizowane laboratoryjnym młynkiem SROSH. Dodatkowo proszki energicznie roztarto po zmieszaniu z żywicą by rozmemłać aglomeraty i uzyskać jednolite rozproszenie. Zawiesinę przeniesiono do aluminiowej foremki. 0.5g chitozanu dodano przed umieszczeniem na płycie grzejnej a kolejne 0.5g dopiero po ogrzaniu (już bez rozcierania) gdy lepkość żywicy uległa znacznemu zmniejszeniu.
 
 Do pełnego utwardzenia wystarczyło 50 minut w temperaturze 170 st.C. Poniżej video z kłuciem próbki w temp. 170 st.C. tuż przed zakończeniem utwardzania:
 
