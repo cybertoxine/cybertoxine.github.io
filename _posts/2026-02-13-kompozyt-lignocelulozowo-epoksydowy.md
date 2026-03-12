@@ -37,10 +37,21 @@ Spis treści:
 
 09.03.2026 - Sukces. Uzyskano mieszaninę pełniącą rolę lepiszcza, która ma odpowiednie parametry. [skocz](#trzy) 
 
+12.03.2026 - Poszukiwanie żywicy odpowiedniej do kolejnych prób. [skocz](#cztery) 
 
 
+<a name="cztery"></a>
+### 12.03.2026
 
-<a name="dwa"></a>
+Spośród wielu dostępnych na rynku preparatów zawierających żywice epoksydowe wybrałem Epidian 5. To produkt oparty na Bisfenolu A, nie zawiera dodatku rozpuszczalnika, ma świetną dokumentację techniczną oraz jego koszt jest do zaakceptowania. Kupiona w ilości 1kg żywica kosztowała 53zł. Przy założeniu, że ilość wypełniacza w projektowanym materiale wyniesie 70% to ostateczny koszt kompozytu nie powinien przekroczyć 25zł/kg przy wykonywaniu pojedynczych, niewielkich elementów. Czyli spoko.
+
+Dokumentacja techniczna Epidianu 5:
+
+https://uz.mobilnyfarmaceuta.pl/images/e5tech.pdf
+
+[skok do spisu treści](#spii)
+
+<a name="trzy"></a>
 ### 09.03.2026
 
 Zmieszano 2.5g (tym razem przezroczystej by było widać drobiny proszków) żywicy epoksydowej z 0.5g chlorowodorku metforminy i 1g chitozanu.
@@ -85,7 +96,7 @@ Próby wykonywałem na specjalistycznym stanowisku z płytą grzejną ELDOM SCIE
 
 ![laboratory tools]({{ site.baseurl }}/assets/images/stuf.jpg)
 
-Jak już mam utwardzacz i taki sprzęcior to czas nadszedłby czas na ustalenie optymalnej proporcji żywicy Meteor, azotanu(V) argininy i chitozanu gdyby....Tg utwardzonej żywicy było zadawalające.
+Jak już mam utwardzacz i taki sprzęcior to nadszedłby czas na ustalenie optymalnej proporcji żywicy Meteor, azotanu(V) argininy i chitozanu gdyby....Tg utwardzonej żywicy było zadawalające.
 Niestety nie jest. Po lekkim ogrzaniu próbka robi się elastyczna. Wykonałem próbę z inną żywicą - to samo. Myślę, że azotany(V) są na tyle agresywne, że tną powstające "łańcuszki" na krótkie kawałki.
 Jeśli już katalizować azotanami(V) to prawdopodobnie ich ilość w mieszaninie powinna być znacznie mniejsza.
 
