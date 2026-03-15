@@ -38,7 +38,7 @@ tags: [sticky]
 
 [21.01.2026](#etap1e)•[14.02.2026](#etap1f)•[25.02.2026](#etap1g)•[27.02.2026](#etap1h)
 
-[06.03.2026](#etap1i)•[08.03.2026](#etap1j)
+[06.03.2026](#etap1i)•[08.03.2026](#etap1j)•[15.03.2026](#etap1k)
 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
@@ -390,6 +390,16 @@ Filmik z pomiaru:
 https://www.youtube.com/shorts/BL7iWC0DEsE
 
 [skocz do spisu treści](#spis)
+
+<a name="etap1k"></a>
+### 15.03.2026
+
+Wzbogacam domenę publiczną.
+
+![schemat kondycjonera]({{ site.baseurl }}/assets/images/ksrcpwk12026.jpg)
+
+[skocz do spisu treści](#spis)
+
 
 
 
