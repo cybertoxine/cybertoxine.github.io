@@ -43,7 +43,7 @@ Spis treści:
 
 <a name="piec"></a>
 ### 15.03.2026
-Sporządzono 46g roztwóru o składzie:
+Sporządzono 46g roztworu o składzie:
 
 30g 3% H2O2 (apteczna woda utleniona)
 15g wybielacza do tkanin "Domol" (z Rossmana)
@@ -56,7 +56,7 @@ W suchych pestkach z nadtrawioną powierzchnią wykonano kilka otworów wiertłe
 
 Na podstawie oględzin oszacowałem, że trawienie, w tym konkretnym roztworze, trwające dłużej niż godzinę raczej nie będzie miało sensu.
 
-Trawienie ma na celu zwiększenie energii powierzchniowej. Dzieje się to na drodze zwiększenia nierówności powierzchni, usunięcia tłuszczów, wosków, białek, krótkich polisacharydów, miejscowego "rozluźnienia" struktury ligniny, płytkiego odsłonięcia łańcuchów celulozy. Dodatkowo utleniające właściwości roztworu powodują powstanie grup karboksylowych w ligninie więc możliwe staje niewet kowalencyjne połączenie epoksydowej macieży z wypełniaczem.
+Trawienie ma na celu zwiększenie energii powierzchniowej. Dzieje się to na drodze zwiększenia nierówności powierzchni, usunięcia tłuszczów, wosków, białek, krótkich polisacharydów, miejscowego "rozluźnienia" struktury ligniny, płytkiego odsłonięcia łańcuchów celulozy. Dodatkowo utleniające właściwości roztworu powodują powstanie grup karboksylowych w ligninie więc możliwe staje się nawet kowalencyjne połączenie epoksydowej macieży z wypełniaczem.
 
 Fajnie byłoby gdyby adhezja żywicy epoksydowej do powierzchni wytrawionych fragmentów endokapu okazała się na tyle dobra, że "najeżanie" grupami reagującymi z epitlenkami okazało by się niepotrzebne.
 
