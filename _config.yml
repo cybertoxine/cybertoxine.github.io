@@ -1,6 +1,6 @@
 # Site
-name: 'Poza apteczną Samsarą.'
-description: 'blabla.'
+name: 'Poza apteczną Samsarą czyli gra o sumie dodatniej.'
+description: 'Ciekawe, praktyczne projekty.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 'https://cybertoxine.github.io'
