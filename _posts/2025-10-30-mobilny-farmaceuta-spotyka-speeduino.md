@@ -38,7 +38,7 @@ tags: [sticky]
 
 [21.01.2026](#etap1e)•[14.02.2026](#etap1f)•[25.02.2026](#etap1g)•[27.02.2026](#etap1h)
 
-[06.03.2026](#etap1i)•[08.03.2026](#etap1j)•[15.03.2026](#etap1k)
+[06.03.2026](#etap1i)•[08.03.2026](#etap1j)•[15.03.2026](#etap1k)•[17.03.2026](#etap1l)
 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
@@ -399,6 +399,16 @@ Wzbogacam domenę publiczną.
 ![schemat kondycjonera]({{ site.baseurl }}/assets/images/ksrcpwk12026.jpg)
 
 [skocz do spisu treści](#spis)
+
+<a name="etap1l"></a>
+### 17.03.2026
+
+Obraz miedzianych ścieżek kondycjonera. Tym razem brałem pod uwagę wygodę montażu.
+
+![kondycjoner obraz ścieżek]({{ site.baseurl }}/assets/images/m12026.png)
+
+[skocz do spisu treści](#spis)
+
 
 
 
