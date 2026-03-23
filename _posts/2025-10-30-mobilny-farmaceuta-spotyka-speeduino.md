@@ -34,6 +34,7 @@ tags: [sticky]
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji, dziennik prac.
    - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć)
+     
 •[07.01.2026](#etap1a) Ostre rozkręcanie koła fonicznego - wykonanie generatora sygnał czujnika p.w.k.
 
 •[09.01.2026](#etap1b) Catastrophic failure paska napędowego + sesja photo.
