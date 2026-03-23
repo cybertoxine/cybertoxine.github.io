@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;17.03.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;23.03.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,11 +34,29 @@ tags: [sticky]
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji, dziennik prac.
    - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć)
-[07.01.2026](#etap1a)•[09.01.2026](#etap1b)•[15.01.2026](#etap1c)•[19.01.2026](#etap1d)
+•[07.01.2026](#etap1a) Ostre rozkręcanie koła fonicznego - wykonanie generatora sygnał czujnika p.w.k.
 
-[21.01.2026](#etap1e)•[14.02.2026](#etap1f)•[25.02.2026](#etap1g)•[27.02.2026](#etap1h)
+•[09.01.2026](#etap1b) Catastrophic failure paska napędowego + sesja photo.
 
-[06.03.2026](#etap1i)•[08.03.2026](#etap1j)•[15.03.2026](#etap1k)•[17.03.2026](#etap1l)
+•[15.01.2026](#etap1c) Proto 1 obrazu ścieżek miedzianych kondycjonera sygnału czujnika p.w.k.
+
+•[19.01.2026](#etap1d) Trawienie i oględziny proto 1 obrazu ścieżek.
+
+•[21.01.2026](#etap1e) Fotki ze składania proto 1 k.s.c.p.w.k.
+
+•[14.02.2026](#etap1f) C.p.w.k i różne rezystory pod oscyloskopem.
+
+•[25.02.2026](#etap1g) Kilka refleksji toważyszących składaniu k.s.c.p.w.k i rozruch DCR.
+
+•[27.02.2026](#etap1h) Badanie DCR pod kątem występowania progu napięciowego.
+
+•[06.03.2026](#etap1i) Przerzutnik Schmitta.
+
+•[08.03.2026](#etap1j) Uruchomienie shit triggera.
+
+•[15.03.2026](#etap1k) Ostateczny schemat elektryczny k.s.c.p.w.k.
+
+•[17.03.2026](#etap1l) Proto 2 obrazu ścieżek miedzianych k.s.c.p.w.k.
 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
