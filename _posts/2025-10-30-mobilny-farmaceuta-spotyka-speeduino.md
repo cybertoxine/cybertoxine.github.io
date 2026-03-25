@@ -35,29 +35,29 @@ tags: [sticky]
 - [6] Przebieg realizacji, dziennik prac.
    - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć)
 
-•[07.01.2026](#etap1a) <span style="color:crimson">Ostre rozkręcanie koła fonicznego - wykonanie generatora sygnał czujnika p.w.k.</style>
+[07.01.2026](#etap1a) <span style="color:crimson">Ostre rozkręcanie koła fonicznego - wykonanie generatora sygnał czujnika p.w.k.</style>
 
-•[09.01.2026](#etap1b) <span style="color:crimson">Catastrophic failure paska napędowego + sesja photo.</style>
+[09.01.2026](#etap1b) <span style="color:crimson">Catastrophic failure paska napędowego + sesja photo.</style>
 
-•[15.01.2026](#etap1c) Proto 1 obrazu ścieżek miedzianych kondycjonera sygnału czujnika p.w.k.
+[15.01.2026](#etap1c) <span style="color:crimson">Proto 1 obrazu ścieżek miedzianych kondycjonera sygnału czujnika p.w.k.</style>
 
-•[19.01.2026](#etap1d) Trawienie i oględziny proto 1 obrazu ścieżek.
+[19.01.2026](#etap1d) <span style="color:crimson">Trawienie i oględziny proto 1 obrazu ścieżek.</style>
 
-•[21.01.2026](#etap1e) Fotki ze składania proto 1 k.s.c.p.w.k.
+[21.01.2026](#etap1e) <span style="color:crimson">Fotki ze składania proto 1 k.s.c.p.w.k.</style>
 
-•[14.02.2026](#etap1f) C.p.w.k i różne rezystory pod oscyloskopem.
+[14.02.2026](#etap1f) <span style="color:crimson">C.p.w.k i różne rezystory pod oscyloskopem.</style>
 
-•[25.02.2026](#etap1g) Kilka refleksji toważyszących składaniu k.s.c.p.w.k i rozruch DCR.
+[25.02.2026](#etap1g) <span style="color:crimson">Kilka refleksji toważyszących składaniu k.s.c.p.w.k i rozruch DCR.</style>
 
-•[27.02.2026](#etap1h) Badanie DCR pod kątem występowania progu napięciowego.
+[27.02.2026](#etap1h) <span style="color:crimson">Badanie DCR pod kątem występowania progu napięciowego.</style>
 
-•[06.03.2026](#etap1i) Przerzutnik Schmitta.
+[06.03.2026](#etap1i) <span style="color:crimson">Przerzutnik Schmitta.</style>
 
-•[08.03.2026](#etap1j) Uruchomienie shit triggera.
+[08.03.2026](#etap1j) <span style="color:crimson">Uruchomienie shit triggera.</style>
 
-•[15.03.2026](#etap1k) Ostateczny schemat elektryczny k.s.c.p.w.k.
+[15.03.2026](#etap1k) <span style="color:crimson">Ostateczny schemat elektryczny k.s.c.p.w.k.</style>
 
-•[17.03.2026](#etap1l) Proto 2 obrazu ścieżek miedzianych k.s.c.p.w.k.
+[17.03.2026](#etap1l) <span style="color:crimson">Proto 2 obrazu ścieżek miedzianych k.s.c.p.w.k.</style>
 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
