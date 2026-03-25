@@ -35,6 +35,7 @@ tags: [sticky]
 - [6] Przebieg realizacji, dziennik prac.
    - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć)
 <div style="background-color:yellow;">    
+   
 •[07.01.2026](#etap1a) Ostre rozkręcanie koła fonicznego - wykonanie generatora sygnał czujnika p.w.k.
 
 •[09.01.2026](#etap1b) Catastrophic failure paska napędowego + sesja photo.
