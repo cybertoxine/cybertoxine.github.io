@@ -34,11 +34,10 @@ tags: [sticky]
    - [5f] Dodanie nadrzędnej jednostki sterującej opartej o architekturę RISC-V (np ESP32-C3), interfejs do konfiguracji i diagnozy typu client(przeglądarka internetowa)-serwer(odpalony na RISC-V). Komunikacja Wi-Fi. Na AVRxm kod przepisany w asemblerze, na RISC-V pisany w Pythonie.
 - [6] Przebieg realizacji, dziennik prac.
    - [6a] Etapu pierwszego. (kliknij datę by do niej skoczyć)
-<div style="background-color:yellow;">    
-   
-•[07.01.2026](#etap1a) Ostre rozkręcanie koła fonicznego - wykonanie generatora sygnał czujnika p.w.k.
 
-•[09.01.2026](#etap1b) Catastrophic failure paska napędowego + sesja photo.
+•[07.01.2026](#etap1a) <span style="color:crimson">Ostre rozkręcanie koła fonicznego - wykonanie generatora sygnał czujnika p.w.k.</style>
+
+•[09.01.2026](#etap1b) <span style="color:crimson">Catastrophic failure paska napędowego + sesja photo.</style>
 
 •[15.01.2026](#etap1c) Proto 1 obrazu ścieżek miedzianych kondycjonera sygnału czujnika p.w.k.
 
@@ -59,7 +58,7 @@ tags: [sticky]
 •[15.03.2026](#etap1k) Ostateczny schemat elektryczny k.s.c.p.w.k.
 
 •[17.03.2026](#etap1l) Proto 2 obrazu ścieżek miedzianych k.s.c.p.w.k.
-</div>
+
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
    - [7a] Etap pierwszy.
