@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;23.03.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;30.03.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,6 +58,8 @@ tags: [sticky]
 [15.03.2026](#etap1k) <span style="color:crimson">Ostateczny schemat elektryczny k.s.c.p.w.k.</style>
 
 [17.03.2026](#etap1l) <span style="color:crimson">Proto 2 obrazu ścieżek miedzianych k.s.c.p.w.k.</style>
+
+[30.03.2026](#etap1m) <span style="color:crimson">Rysowanie ścieżek miedzianych SMPS-a.</style>
 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
@@ -457,6 +459,19 @@ Obraz miedzianych ścieżek kondycjonera. Tym razem brałem pod uwagę wygodę m
 ![kondycjoner obraz ścieżek]({{ site.baseurl }}/assets/images/m12026.png)
 
 [skocz do spisu treści](#spis)
+
+<a name="etap1m"></a>
+### 30.03.2026
+
+Rysuję sobie ścieżki przetwornicy. Zdecydowałem się na 3 izolowane wyjścia. 8V dla kondycjonera, 12V dla górnych N-FETów i 20V dla bramek tranzystorów z węglika krzemu w module zapłonowym.
+5V będzie nieizolowane (defacto jest izolowane od 3 wymienionych wcześniej...). Napięcie na izolowanych wyjściach jest stabilizowane na tej samej zasadzie jek to się dzieje w wielowyjściowych flybackach.
+Przy 12V i 20V zastosuję dodatkowo stabilizatory liniowe na płycie przetwornicy. Dławik będzie miał 4 oddzielne uzwojenia nawinięte na toroidalnym rdzeniu proszkowym.
+Z powodu niewielkiej mocy przenoszonej przez przetwornicę rolę radiatora spełni pole miedzi do którego będzie przylutowany thermal pad układu HTC2576. 
+
+![smps obraz ścieżek]({{ site.baseurl }}/assets/images/przetwopis.jpg)
+
+[skocz do spisu treści](#spis)
+
 
 
 
