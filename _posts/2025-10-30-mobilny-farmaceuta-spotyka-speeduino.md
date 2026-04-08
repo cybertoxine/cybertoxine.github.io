@@ -61,6 +61,8 @@ tags: [sticky]
 
 [30.03.2026](#etap1m) <span style="color:crimson">Rysowanie ścieżek miedzianych SMPS-a.</style>
 
+[08.04.2026](#etap1n) <span style="color:crimson">Wytrawione proto 2 płytki kondycjonera.</style>
+
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
    - [7a] Etap pierwszy.
@@ -472,6 +474,18 @@ Z powodu niewielkiej mocy przenoszonej przez przetwornicę rolę radiatora speł
 
 [skocz do spisu treści](#spis)
 
+<a name="etap1n"></a>
+### 08.04.2026
+
+Nowa (proto 2) płytka kondycjonera po trawieniu i cynowaniu.
+
+![kondycjoner obraz ścieżek]({{ site.baseurl }}/assets/images/kondp.jpg)
+
+Różnice w stosunku do poprzedniej wersji to 1 - dodany sprzętowy przerzutnik, 2 - dodana jedna para transoptorowa (czyli DCR jest sześciobitowy), 3 - znacznie lepsze rozłożenie przestrzenne elementów.
+
+Proto 2 jest bardzo bliskie wersji ostatecznej.
+
+[skocz do spisu treści](#spis)
 
 
 
