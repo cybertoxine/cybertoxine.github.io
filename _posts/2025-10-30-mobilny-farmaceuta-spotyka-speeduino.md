@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;08.04.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;13.04.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,6 +62,9 @@ tags: [sticky]
 [30.03.2026](#etap1m) <span style="color:crimson">Rysowanie ścieżek miedzianych SMPS-a.</style>
 
 [08.04.2026](#etap1n) <span style="color:crimson">Wytrawione proto 2 płytki kondycjonera.</style>
+
+[13.04.2026](#etap1o) <span style="color:crimson">Wytrawiona płytka przetwornicy..</style>
+
 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
@@ -486,6 +489,18 @@ Różnice w stosunku do poprzedniej wersji to 1 - dodany sprzętowy przerzutnik,
 Proto 2 jest bardzo bliskie wersji ostatecznej.
 
 [skocz do spisu treści](#spis)
+
+<a name="etap1o"></a>
+### 13.04.2026
+
+Płytka (proto 1) przetwornicy po trawieniu i cynowaniu.
+
+![flyboost]({{ site.baseurl }}/assets/images/flyboost.jpg)
+
+Zastanawiałem się nad nazwą topologii tej przetwornicy. Najbardziej trafne wydaje mi się słówko "flyboost".
+
+[skocz do spisu treści](#spis)
+
 
 
 
