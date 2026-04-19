@@ -506,7 +506,7 @@ Zastanawiałem się nad nazwą topologii tej przetwornicy. To będzie chyba jaki
 <a name="etap1p"></a>
 ### 19.04.2026
 
-Częściowo złożyłem, uruchomiłem i wstępnie przetestowałem flyback-a, którego zabawowo nazwałem Piotras Converter-em. Wygląda na to, że działa miodzio. Zamieniłem niektóre elementy np. wsadziłem STP16NF06 zamiast staromodnego IRFZ14.
+Częściowo złożyłem, uruchomiłem i wstępnie przetestowałem flyback-a, którego zabawowo nazwałem Piotras Converter-em. Wygląda na to, że działa miodzio. Zamieniłem niektóre elementy np. wsadziłem STP16NF06 zamiast staromodnego IRFZ14 i wyliczyłem, że optymalną indukcyjnością dławika będzie jednak 250 µH.
 
 Dławik typu "ferrytowa klepsydra" zapewne nieźle sieje ale kogo tam obchodzi kompatybilność elektromagnetyczna ;)
 
