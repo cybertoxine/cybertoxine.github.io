@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;13.04.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;19.04.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,7 +63,9 @@ tags: [sticky]
 
 [08.04.2026](#etap1n) <span style="color:crimson">Wytrawione proto 2 płytki kondycjonera.</style>
 
-[13.04.2026](#etap1o) <span style="color:crimson">Wytrawiona płytka przetwornicy..</style>
+[13.04.2026](#etap1o) <span style="color:crimson">Wytrawiona płytka przetwornicy.</style>
+
+[19.04.2026](#etap1p) <span style="color:crimson">Piotras Converter odpalił.</style>
 
 
    - [6b] Etapu drugiego.
@@ -497,9 +499,29 @@ Płytka (proto 1) przetwornicy po trawieniu i cynowaniu.
 
 ![flyboost]({{ site.baseurl }}/assets/images/flyboost.jpg)
 
-Zastanawiałem się nad nazwą topologii tej przetwornicy. Najbardziej trafne wydaje mi się słówko "flyboost".
+Zastanawiałem się nad nazwą topologii tej przetwornicy. To będzie chyba jakiś flyback.
 
 [skocz do spisu treści](#spis)
+
+<a name="etap1p"></a>
+### 19.04.2026
+
+Częściowo złożyłem, uruchomiłem i wstępnie przetestowałem flyback-a, którego zabawowo nazwałem Piotras Converter-em. Wygląda na to, że działa miodzio. Zamieniłem niektóre elementy np. wsadziłem STP16NF06 zamiast staromodnego IRFZ14.
+
+Dławik typu "ferrytowa klepsydra" zapewne nieźle sieje ale kogo tam obchodzi kompatybilność elektromagnetyczna ;)
+
+![piotras converter]({{ site.baseurl }}/assets/images/pconv0.jpg)
+
+![piotras converter]({{ site.baseurl }}/assets/images/pconv1.jpg)
+
+![piotras converter]({{ site.baseurl }}/assets/images/pconv2.jpg)
+
+![piotras converter]({{ site.baseurl }}/assets/images/pconv3.jpg)
+
+W następnym wpisie będzie raport ze szczegółowego badania już kompletnego układu oraz uaktualniony schemat.
+
+[skocz do spisu treści](#spis)
+
 
 
 
