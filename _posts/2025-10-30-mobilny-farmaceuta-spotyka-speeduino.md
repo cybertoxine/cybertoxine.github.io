@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;19.04.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;29.04.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -67,6 +67,7 @@ tags: [sticky]
 
 [19.04.2026](#etap1p) <span style="color:crimson">Piotras Converter odpalił.</style>
 
+[29.04.2026](#etap1r) <span style="color:crimson">Pomiary przetwornicy + fotki złożonego układu.</style>
 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
@@ -519,6 +520,51 @@ Dławik typu "ferrytowa klepsydra" zapewne nieźle sieje ale kogo tam obchodzi k
 ![piotras converter]({{ site.baseurl }}/assets/images/pconv3.jpg)
 
 W następnym wpisie będzie raport ze szczegółowego badania już kompletnego układu oraz uaktualniony schemat.
+
+[skocz do spisu treści](#spis)
+
+<a name="etap1r"></a>
+### 29.04.2026
+
+![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok1.jpg)
+
+![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok2.jpg)
+
+![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok3.jpg)
+
+![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok4.jpg)
+
+![przetwornica dol]({{ site.baseurl }}/assets/images/pcdol.jpg)
+
+![przetwornica gora]({{ site.baseurl }}/assets/images/pcgora.jpg)
+
+![przetwornica oscyloskop pod obciążeniem]({{ site.baseurl }}/assets/images/pcload.jpg)
+
+![przetwornica oscyloskop bez obciążenia]({{ site.baseurl }}/assets/images/pcnoload.jpg)
+
+![blat z gratami]({{ site.baseurl }}/assets/images/pcstol.jpg)
+
+pom. 1:
+
+WE: 12.3 V
+WY: 11.62 V @ 140 mA
+SiC: 19.51 V @ 0 mA
+VRSSC: 7.84 V @ 0 mA
+
+pom. 2:
+
+WE: 12.3 V
+WY: 11.63 V @ 141 mA
+SiC: 14.54 V @ 110 mA
+VRSSC: 6.45 V @ 0 mA
+
+pom. 3:
+
+WE: 12.3 V
+WY: 11.62 V @ 141 mA
+SiC: 18.49 V @ 0 mA
+VRSSC: 6.19 V @ 40 mA
+
 
 [skocz do spisu treści](#spis)
 
