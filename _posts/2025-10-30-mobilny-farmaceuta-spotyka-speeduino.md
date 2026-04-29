@@ -519,7 +519,7 @@ Dławik typu "ferrytowa klepsydra" zapewne nieźle sieje ale kogo tam obchodzi k
 
 ![piotras converter]({{ site.baseurl }}/assets/images/pconv3.jpg)
 
-W następnym wpisie będzie raport ze szczegółowego badania już kompletnego układu oraz uaktualniony schemat.
+W następnych wpisiach przedstawię pomiary już kompletnego układu oraz uaktualniony schemat.
 
 [skocz do spisu treści](#spis)
 
