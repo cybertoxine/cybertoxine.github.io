@@ -526,6 +526,8 @@ W następnym wpisie będzie raport ze szczegółowego badania już kompletnego u
 <a name="etap1r"></a>
 ### 29.04.2026
 
+Kompletne proto 1 przetwornicy:
+
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok1.jpg)
 
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok2.jpg)
