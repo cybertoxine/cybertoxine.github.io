@@ -528,6 +528,8 @@ W następnych wpisiach przedstawię pomiary już kompletnego układu oraz uaktua
 
 Kompletne proto 1 przetwornicy:
 
+![przetwornica bok]({{ site.baseurl }}/assets/images/pcdlaw.jpg)
+
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok1.jpg)
 
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok2.jpg)
