@@ -535,7 +535,7 @@ Z pojemnością C7 i C6 można spokojnie zejść do odpowiednio 22uF i 47uF, bę
 
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcdlaw.jpg)
 
-Większe dławiki łatwo się nawija - to ważne w produkcji jednostkowej, dlatego też w przetwornicy siedzi LM2567 o częstotliwości pracy zaledwie 52 KHz. Uzwojenia odizolowano papierową taśmą. L2 i L3 nawinięte są obok siebie. Nawinięcie jednego na drugim byłoby błędem. L1 jest pod L2 i L3 i jest nawinięte na całej szerokości. Nawinięty dławik oczywiście idzie do suszenia i próżniowego zalania masą epoxy. Ferrytowa klepsydra wzięta została z elektrośmieci. Niestety nie wiem co to za materiał. Rzeń robi się delikatnie ciepły podczas pracy, na obrazie z oscyloskopu nie widać objawów nasycania się więc jest ok. Póżniej jeszcze pomierzę ten dławik w -20 i w + 80 st. C.
+Większe dławiki łatwo się nawija - to ważne w produkcji jednostkowej, dlatego też w przetwornicy siedzi LM2576 o częstotliwości pracy zaledwie 52 KHz. Uzwojenia odizolowano papierową taśmą. L2 i L3 nawinięte są obok siebie. Nawinięcie jednego na drugim byłoby błędem. L1 jest pod L2 i L3 i jest nawinięte na całej szerokości. Nawinięty dławik oczywiście idzie do suszenia i próżniowego zalania masą epoxy. Ferrytowa klepsydra wzięta została z elektrośmieci. Niestety nie wiem co to za materiał. Rzeń robi się delikatnie ciepły podczas pracy, na obrazie z oscyloskopu nie widać objawów nasycania się więc jest ok. Póżniej jeszcze pomierzę ten dławik w -20 i w + 80 st. C.
 
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok1.jpg)
 
