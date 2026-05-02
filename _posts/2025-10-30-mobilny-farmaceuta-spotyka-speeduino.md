@@ -615,7 +615,10 @@ SSC: 6.19 V @ 40 mA
 Wnioski z pomiarów: 
 
 Podnieść WY z 11.62V do 14.6V (za czym polecą w górę napięcia na SiC i SSC) i będzie dobrze. Wydajność prądowa wystarczająca. Przetwornica pracuje stabilnie. Nie nagrzewa się.
-Oscylogramy ładne. Radio FM w odległości kilku metrów od urządzenia działa normalnie. LW i MW nikt nie słucha więc po co sprawdzać ;) ;).
+Oscylogramy ładne.
+
+Radio FM w odległości kilku metrów od urządzenia działa normalnie. W zakresie SW sprawdziłem oscyloskopem i może być (dopuki ktoś zza ściany nie kontaktuje się radiotelegrafią z Murzynami z południowej Afryki). LW i MW nikt nie słucha więc po co sprawdzać ;) ;).
+
 
 Rafleksja na boczku: 
 
