@@ -526,25 +526,40 @@ W następnych wpisiach przedstawię pomiary już kompletnego układu oraz uaktua
 <a name="etap1r"></a>
 ### 02.05.2026
 
-Kompletne proto 1 przetwornicy:
+Aktualny schemat elektryczny proto 1 przetwornicy:
 
 ![przetwornica schemat]({{ site.baseurl }}/assets/images/boosttp1c.png)
 
+Uwzględniłem w nim już wnioski po dzisiejszych pomiarach czyli nieizolowane napięcie wyjściowe zostało podniesione do 14.6V (R5, R6, R7) oraz zwiększono wartość rezystorów przy ledach.
+Z pojemnością C7 i C6 można spokojnie zejść do odpowiednio 22uF i 47uF, będzie wtedy mniej "bulky".
+
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcdlaw.jpg)
 
+Większe dławiki łatwo się nawija - to ważne w produkcji jednostkowej, dlatego też w przetwornicy siedzi LM2567 o częstotliwości pracy zaledwie 52 KHz. Uzwojenia odizolowano papierową taśmą. L2 i L3 nawinięte są obok siebie. Nawinięcie jednego na drugim byłoby błędem. L1 jest pod L2 i L3 i jest nawinięte na całej szerokości. Nawinięty dławik oczywiście idzie do suszenia i próżniowego zalania masą epoxy. Ferrytowa klepsydra wzięta została z elektrośmieci. Niestety nie wiem co to za materiał. Rzeń robi się delikatnie ciepły podczas pracy, na obrazie z oscyloskopu nie widać objawów nasycania się więc jest ok. Póżniej jeszcze pomierzę ten dławik w -20 i w + 80 st. C.
+
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok1.jpg)
+
+T1 mógłby leżeć. Nie nagrzewa się więc niepotrzebnie tak sterczy.
 
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok2.jpg)
 
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok3.jpg)
 
+"Bomble" C6 i C7 do wymiany na mniejsze. Sorci. Podczas składania miałem ograniczony dostęp do elektrośmieci. :)
+
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcbok4.jpg)
 
 ![przetwornica dol]({{ site.baseurl }}/assets/images/pcdol.jpg)
 
+Będą zmiany w obrazie ścieżek miedzianych.
+
 ![przetwornica gora]({{ site.baseurl }}/assets/images/pcgora.jpg)
 
+Przyznacie, że z góry wygląda stylowo. ;) ;) ;).
+
 ![przetwornica oscyloskop pod obciążeniem]({{ site.baseurl }}/assets/images/pcload.jpg)
+
+Przebieg jak z baśni o idealnym flybacku.
 
 ![przetwornica oscyloskop bez obciążenia]({{ site.baseurl }}/assets/images/pcnoload.jpg)
 
