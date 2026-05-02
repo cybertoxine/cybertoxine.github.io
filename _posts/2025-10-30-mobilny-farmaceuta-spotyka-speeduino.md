@@ -67,7 +67,7 @@ tags: [sticky]
 
 [19.04.2026](#etap1p) <span style="color:crimson">Piotras Converter odpalił.</style>
 
-[02.05.2026](#etap1r) <span style="color:crimson">Pomiary przetwornicy + fotki złożonego układu.</style>
+[02.05.2026](#etap1r) <span style="color:crimson">Pomiary przetwornicy + schemat i fotki złożonego układu.</style>
 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
