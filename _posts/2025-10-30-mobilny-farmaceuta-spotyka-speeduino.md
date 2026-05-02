@@ -557,11 +557,16 @@ Będą zmiany w obrazie ścieżek miedzianych.
 
 Przyznacie, że z góry wygląda stylowo. ;) ;) ;).
 
+Plus i minus sondy przyłączone do L1. Przebieg jak z baśni o idealnym flybacku:
+
 ![przetwornica oscyloskop pod obciążeniem]({{ site.baseurl }}/assets/images/pcload.jpg)
 
-Przebieg jak z baśni o idealnym flybacku.
+Plus i minus sondy przyłączone do L1. Przetworniczka musi pracować z pewnym minimalnym obicążeniem na wyjściu nieizolowanym inaczej wydajność prądowa wyjść izolowanych robi się bardzo mała.
+Ładowanie kondensatorów wyjść izolowanych zachodzi wraz z zanikaniem pola magnetycznego w dławiku (ujemna część przebiegu napięcia na L1):
 
 ![przetwornica oscyloskop bez obciążenia]({{ site.baseurl }}/assets/images/pcnoload.jpg)
+
+No i jeszcze stanowisko pomiarowe:
 
 ![blat z gratami]({{ site.baseurl }}/assets/images/pcstol.jpg)
 
