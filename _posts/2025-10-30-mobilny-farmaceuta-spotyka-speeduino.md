@@ -528,7 +528,7 @@ W następnych wpisiach przedstawię pomiary już kompletnego układu oraz uaktua
 
 Kompletne proto 1 przetwornicy:
 
-![przetwornica schemat]({{ site.baseurl }}/assets/images/boosttp1c.jpg)
+![przetwornica schemat]({{ site.baseurl }}/assets/images/boosttp1c.png)
 
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcdlaw.jpg)
 
