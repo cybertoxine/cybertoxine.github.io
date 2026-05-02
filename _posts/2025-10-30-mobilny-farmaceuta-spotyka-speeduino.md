@@ -570,27 +570,56 @@ No i jeszcze stanowisko pomiarowe:
 
 ![blat z gratami]({{ site.baseurl }}/assets/images/pcstol.jpg)
 
-pom. 1:
+Ciekawa topologia. Najbardziej nadaje się do podnoszenia napięcia ponieważ w fazie zanikania pola magnetycznego prąd płynie przez aż dwie diody (czyli są duże straty mocy przy niskich napięciach wyjściowych) z których tylko D4 musi wytrzymywać napięcie wyjściowe. Oczywiście przy wysokich napięciach na wyjściu T1 musi być wysokonapięciowy.
+
+Zrobione pomiary:
+
+(WE - napięcie wejściowe, WY - napięcie wyjściowe, SiC - napięcie zasilania gate driver-a w module zapłonowym, SSC - napięcie zasilania kondycjonera sygnału) 
+
+Pomiar 1:
+
+Obiążony tylko WY.
 
 WE: 12.3 V
+
 WY: 11.62 V @ 140 mA
+
 SiC: 19.51 V @ 0 mA
-VRSSC: 7.84 V @ 0 mA
 
-pom. 2:
+SSC: 7.84 V @ 0 mA
+
+Pomiar 2:
+
+Obciążono WY i SiC.
 
 WE: 12.3 V
+
 WY: 11.63 V @ 141 mA
-SiC: 14.54 V @ 110 mA
-VRSSC: 6.45 V @ 0 mA
 
-pom. 3:
+SiC: 14.54 V @ 110 mA
+
+SSC: 6.45 V @ 0 mA
+
+Pomiar 3:
+
+Obciążono WY i SSC.
 
 WE: 12.3 V
-WY: 11.62 V @ 141 mA
-SiC: 18.49 V @ 0 mA
-VRSSC: 6.19 V @ 40 mA
 
+WY: 11.62 V @ 141 mA
+
+SiC: 18.49 V @ 0 mA
+
+SSC: 6.19 V @ 40 mA
+
+Wnioski z pomiarów: 
+
+Podnieść WY z 11.62V do 14.6V (za czym polecą w górę napięcia na SiC i SSC) i będzie dobrze. Wydajność prądowa wystarczająca. Przetwornica pracuje stabilnie. Nie nagrzewa się.
+Oscylogramy ładne. Radio FM w odległości kilku metrów od urządzenia działa normalnie. LW i MW nikt nie słucha więc po co sprawdzać ;) ;).
+
+Rafleksja na boczku: 
+
+Tak BTW to LM2576 ma maksymalne wypełnienie bardzo blisko 100%. Załóżmy, że max duty cycle to 95%. W takim wypadku przy 50 V na wejściu otrzymamy 1 KV na wyjściu. Current limit w LM2567 to około 5 A. Przeniesiona moc to będzie jakieś 200W. 1 KV @ 200W przy niezłej sprawności, niskim koszcie i "przerażającej" prostocie układu to cechy nadające sens zastosowaniu go w amatorskiej robotyce do zasilania siłowników opartych o np. elastomeryczne dielektryki. Przy niższych napięciach dostępnych na platformie dławik nawinąłbym bi albo nawet tri-filarnie po czym szeregowo połączył uzwojenia przy czym dren T1 podłączyłbym do końcówki uzwojenia, którego początek dotyka nóżki U1. Ogólnie przedstawiona topologia przy użyciu taniutkiego LM2576 daje dużo możliwości w uzyskiwaniu wysokich, stabilnych napięć wyjściowych zapewniając jednocześnie zabezpieczenie przed zwarciem i przeciążeniem. 
 
 [skocz do spisu treści](#spis)
 
