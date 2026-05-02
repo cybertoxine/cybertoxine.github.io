@@ -8,7 +8,7 @@ tags: [sticky]
 ---
 
 
-<p style="color:green;">Ostatnia aktualizacja:&nbsp;29.04.2026&nbsp;</p>
+<p style="color:green;">Ostatnia aktualizacja:&nbsp;02.05.2026&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -67,7 +67,7 @@ tags: [sticky]
 
 [19.04.2026](#etap1p) <span style="color:crimson">Piotras Converter odpalił.</style>
 
-[29.04.2026](#etap1r) <span style="color:crimson">Pomiary przetwornicy + fotki złożonego układu.</style>
+[02.05.2026](#etap1r) <span style="color:crimson">Pomiary przetwornicy + fotki złożonego układu.</style>
 
    - [6b] Etapu drugiego.
 - [7] Efekty i wnioski.
@@ -524,9 +524,11 @@ W następnych wpisiach przedstawię pomiary już kompletnego układu oraz uaktua
 [skocz do spisu treści](#spis)
 
 <a name="etap1r"></a>
-### 29.04.2026
+### 02.05.2026
 
 Kompletne proto 1 przetwornicy:
+
+![przetwornica schemat]({{ site.baseurl }}/assets/images/boosttp1c.jpg)
 
 ![przetwornica bok]({{ site.baseurl }}/assets/images/pcdlaw.jpg)
 
