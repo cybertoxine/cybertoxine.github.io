@@ -584,6 +584,7 @@ W pierwszym pomiarze obciążono tylko SPE, w drugim obciążono SPE i SiC, w tr
 | SiC                 |   &nbsp;19.51 V, 0 mA        | &nbsp;14.54 V, 110 mA        | &nbsp;18.49 V, 0mA         |
 | SSC                 |    &nbsp;7.84 V, 0 mA        |  &nbsp;6.45 V, 0mA           |  &nbsp;6.19 V, 40 mA       |
 
+
 &nbsp;&nbsp;
 ( SPE - napięcie zasilania modułu Speeduino, SiC - napięcie zasilania gate driver-a w module zapłonowym, SSC - napięcie zasilania kondycjonera sygnału) 
 
