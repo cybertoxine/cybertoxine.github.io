@@ -572,6 +572,12 @@ No i jeszcze stanowisko pomiarowe:
 
 Ciekawa topologia. Najbardziej nadaje się do podnoszenia napięcia ponieważ w fazie zanikania pola magnetycznego prąd płynie przez aż dwie diody (czyli są duże straty mocy przy niskich napięciach wyjściowych) z których tylko D4 musi wytrzymywać napięcie wyjściowe. Oczywiście przy wysokich napięciach na wyjściu T1 musi być wysokonapięciowy.
 
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 Zrobione pomiary:
 
 (WE - napięcie wejściowe, WY - napięcie wyjściowe, SiC - napięcie zasilania gate driver-a w module zapłonowym, SSC - napięcie zasilania kondycjonera sygnału) 
