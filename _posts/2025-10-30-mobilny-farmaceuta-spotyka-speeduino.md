@@ -578,12 +578,13 @@ Napięcie na wejściu przy każdym pomiarze wynosiło 12.3 V.
 W pierwszym pomiarze obciążono tylko SPE, w drugim obciążono SPE i SiC, w trzecim obciążono SPE i SSC.
 
 
-| WYJŚCIE | Pomiar 1         | Pomiar 2         | Pomiar 3       |
-| --------| -----------------|------------------|----------------|
-| SPE     |   11.62 V, 140mA | 11.63 V, 141 mA  | 11.62 V, 140mA |
-| SiC     |   19.51 V, 0 mA  | 14.54 V, 110 mA  | 18.49 V, 0mA   |
-| SSC     |    7.84 V, 0 mA  |  6.45 V, 0mA     |  6.19 V, 40 mA |
+| &nbsp;WYJŚCIE &nbsp;| &nbsp;Pomiar 1&nbsp;         | &nbsp;Pomiar 2&nbsp;         | &nbsp;Pomiar 3 &nbsp;      |
+| --------------------|------------------------------|------------------------------|----------------------------|
+| SPE                 |   &nbsp;11.62 V, 140mA       | &nbsp;11.63 V, 141 mA        | &nbsp;11.62 V, 140mA       |
+| SiC                 |   &nbsp;19.51 V, 0 mA        | &nbsp;14.54 V, 110 mA        | &nbsp;18.49 V, 0mA         |
+| SSC                 |    &nbsp;7.84 V, 0 mA        |  &nbsp;6.45 V, 0mA           |  &nbsp;6.19 V, 40 mA       |
 
+&nbsp;&nbsp;
 ( SPE - napięcie zasilania modułu Speeduino, SiC - napięcie zasilania gate driver-a w module zapłonowym, SSC - napięcie zasilania kondycjonera sygnału) 
 
 
