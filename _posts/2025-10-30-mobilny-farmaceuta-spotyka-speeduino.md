@@ -572,51 +572,20 @@ No i jeszcze stanowisko pomiarowe:
 
 Ciekawa topologia. Najbardziej nadaje się do podnoszenia napięcia ponieważ w fazie zanikania pola magnetycznego prąd płynie przez aż dwie diody (czyli są duże straty mocy przy niskich napięciach wyjściowych) z których tylko D4 musi wytrzymywać napięcie wyjściowe. Oczywiście przy wysokich napięciach na wyjściu T1 musi być wysokonapięciowy.
 
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 Zrobione pomiary:
 
-(WE - napięcie wejściowe, WY - napięcie wyjściowe, SiC - napięcie zasilania gate driver-a w module zapłonowym, SSC - napięcie zasilania kondycjonera sygnału) 
+Napięcie na wejściu przy każdym pomiarze wynosiło 12.3 V.
+W pierwszym pomiarze obciążono tylko SPE, w drugim obciążono SPE i SiC, w trzecim obciążono SPE i SSC.
 
-Pomiar 1:
 
-Obiążony tylko WY.
+| WYJŚCIE | Pomiar 1         | Pomiar 2         | Pomiar 3       |
+| --------| -----------------|------------------|----------------|
+| SPE     |   11.62 V, 140mA | 11.63 V, 141 mA  | 11.62 V, 140mA |
+| SiC     |   19.51 V, 0 mA  | 14.54 V, 110 mA  | 18.49 V, 0mA   |
+| SSC     |    7.84 V, 0 mA  |  6.45 V, 0mA     |  6.19 V, 40 mA |
 
-WE: 12.3 V
+( SPE - napięcie zasilania modułu Speeduino, SiC - napięcie zasilania gate driver-a w module zapłonowym, SSC - napięcie zasilania kondycjonera sygnału) 
 
-WY: 11.62 V @ 140 mA
-
-SiC: 19.51 V @ 0 mA
-
-SSC: 7.84 V @ 0 mA
-
-Pomiar 2:
-
-Obciążono WY i SiC.
-
-WE: 12.3 V
-
-WY: 11.63 V @ 141 mA
-
-SiC: 14.54 V @ 110 mA
-
-SSC: 6.45 V @ 0 mA
-
-Pomiar 3:
-
-Obciążono WY i SSC.
-
-WE: 12.3 V
-
-WY: 11.62 V @ 141 mA
-
-SiC: 18.49 V @ 0 mA
-
-SSC: 6.19 V @ 40 mA
 
 Wnioski z pomiarów: 
 
@@ -625,10 +594,9 @@ Oscylogramy ładne.
 
 Radio FM w odległości kilku metrów od urządzenia działa normalnie. W zakresie SW sprawdziłem oscyloskopem i może być (dopuki ktoś zza ściany nie kontaktuje się radiotelegrafią z Murzynami z południowej Afryki). LW i MW nikt nie słucha więc po co sprawdzać ;) ;).
 
-
 Rafleksja na boczku: 
 
-Tak BTW to LM2576 ma maksymalne wypełnienie bardzo blisko 100%. Załóżmy, że max duty cycle to 95%. W takim wypadku przy 50 V na wejściu otrzymamy 1 KV na wyjściu. Current limit w LM2567 to około 5 A. Przeniesiona moc to będzie jakieś 200W. 1 KV @ 200W przy niezłej sprawności, niskim koszcie i "przerażającej" prostocie układu to cechy nadające sens zastosowaniu go w amatorskiej robotyce do zasilania siłowników opartych o np. elastomeryczne dielektryki. Przy niższych napięciach dostępnych na platformie dławik nawinąłbym bi albo nawet tri-filarnie po czym szeregowo połączył uzwojenia przy czym dren T1 podłączyłbym do końcówki uzwojenia, którego początek dotyka nóżki U1. Ogólnie przedstawiona topologia przy użyciu taniutkiego LM2576 daje dużo możliwości w uzyskiwaniu wysokich, stabilnych napięć wyjściowych zapewniając jednocześnie zabezpieczenie przed zwarciem i przeciążeniem. 
+Tak BTW to LM2576 ma maksymalne wypełnienie bardzo blisko 100%. Załóżmy, że max duty cycle to 95%. W takim wypadku przy 50 V na wejściu otrzymamy 1 KV na wyjściu. Current limit w LM2567 to około 5 A. Przeniesiona moc to będzie jakieś 200W. 1 KV @ 200W przy niezłej sprawności, niskim koszcie i "przerażającej" prostocie układu to cechy nadające sens zastosowaniu go w amatorskiej robotyce do zasilania siłowników opartych o np. elastomeryczne dielektryki. Przy niższych napięciach dostępnych na platformie dławik nawinąłbym bi albo nawet tri-filarnie po czym szeregowo połączył uzwojenia przy czym dren T1 podłączyłbym do końcówki uzwojenia, którego początek dotyka nóżki U1. Ogólnie przedstawiona topologia przy użyciu taniutkiego LM2576 daje dużo możliwości w uzyskiwaniu wysokich, stabilnych napięć wyjściowych zapewniając jednocześnie zabezpieczenie przed zwarciem i przeciążeniem. Nie potrzeba dokładać Snubbera i w prawie w każdym wypadku wystarczy dławik jednouzwojeniowy! Dzięki niskiej częstotliwości pracy elementy indukcyjne są proste do wykonania ręcznego a rdzenie są łatwe do pozyskania z elektroodpadów (np. przy 52KHz super pracują ferryty z kineskopowych TV i monitorów, zasilaczy komputerowych, świetlówek kompaktowych).
 
 [skocz do spisu treści](#spis)
 
