@@ -18,11 +18,17 @@ https://gcbasic.com/
 
 Więc przy okazji poznam (i przedstawię Wam) nowe przydatne narzędzie programistyczne.
 
-01.07.2026
+### 01.07.2026
 
 Sterownik zrobiłem na Attiny44A i PT6964-S. Sterownik wyświetla wynik pomiaru temperatury z czterech czujników (diody krzemowe spolaryzowane w kierunku przewodzenia),
 daje możliwość regulacji mocy pompy wody, wentylatora chłodnicy i grzałki w kotle. Później jeszcze "dokoduję" jakieś funkcję poprawiające bezpieczeństwo pracy przy maszynce.
 Użycie mikrokontrolera w perspektywie pozwoli na ustalenie programów (jak w pralce) dzięki czemu obsługa maszynki będzie ograniczała się do załadowania pojemnika, wybrania programu i naciśnięcia przycisku start. Nie trzeba będzie jej pilnować i co chwilę regulować parametrów żeby np. nie przypalić kawałka wołowiny.
+
+Na filmiku widać o co chodzi w maszynce:
+
+https://www.youtube.com/shorts/HMj3wD3re7k
+
+Nie podłączałem jeszcze kotła i pompy próżniowej, czujniki temperatury wiszą sobie na kablach. Nieszczelny płaszcz wodny - końcówka skraplacza z której sączy się woda jest do poprawy.
 
 Poniżej kod napisany w BASCOM-AVR DEMO 2.0.7.9. Później napiszę to samo w GCBASIC i okaże się który bejzikowy kompilator produkuje lepszy kod wynikowy.
 
