@@ -23,6 +23,8 @@ Więc przy okazji poznam (i przedstawię Wam) nowe przydatne narzędzie programi
 Sterownik zrobiłem na Attiny44A i PT6964-S. Sterownik wyświetla wynik pomiaru temperatury z czterech czujników (diody krzemowe spolaryzowane w kierunku przewodzenia),
 daje możliwość regulacji mocy pompy wody, wentylatora chłodnicy i grzałki w kotle. Później jeszcze "dokoduję" jakieś funkcję poprawiające bezpieczeństwo pracy przy maszynce.
 Użycie mikrokontrolera w perspektywie pozwoli na ustalenie programów (jak w pralce) dzięki czemu obsługa maszynki będzie ograniczała się do załadowania pojemnika, wybrania programu i naciśnięcia przycisku start. Nie trzeba będzie jej pilnować i co chwilę regulować parametrów żeby np. nie przypalić kawałka wołowiny.
+Płytka z wyświetlaczem, przyciskami i układem PT6964-S pochodzi z elektrośmieciowego odtwarzacza DVD w którym znajdowała się płyta z filmem o Królewnie Śnieżce. Do PT6964-S bardzo podobny jest STLED316 z tym, że ten drugi łatwiej dostępny.
+Te banalne w obsłudze układziki bardzo ułatwiają tworzenie różnych prostych urządzonek. Sterują segmentowymi ledowymi wyświetlaczami, odczytują stany przycisków a z mikrokontrolerem komunikują się magistralą szeregową. "Zacni kompani" prostszych 8-bitowców.
 
 Na filmiku widać o co chodzi w maszynce:
 
