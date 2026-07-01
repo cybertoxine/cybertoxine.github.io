@@ -9,7 +9,7 @@ tags: [featured]
 
 Wstęp:
 
-Po co komu w domu destylacja pod zmniejszonym ciśnieniem? Jak dla mnie to potrzebne AGD. Mam zamiar używać maszynki do zagęszczania soku z czernego bzu i ekstraktu z owocóœ dzikiej róży (mniej miejsca w zamrażarce zajmie) oraz do suszenia mięsa (alternatywa dla wędlin). Zmniejszenie ciśnienia pozwala na obniżenie temperatury wrzenia cieczy. Już przy temperaturze wsadu wynoszącej 60 st. maszynka będzie bardzo szybko i praktycznie do końca usuwać wodę. 
+Po co komu w domu destylacja pod zmniejszonym ciśnieniem? Jak dla mnie to potrzebne AGD. Mam zamiar używać maszynki do zagęszczania soku z czarnego bzu i ekstraktu z owoców dzikiej róży (mniej miejsca w zamrażarce zajmie) oraz do suszenia mięsa (alternatywa dla wędlin). Zmniejszenie ciśnienia pozwala na obniżenie temperatury wrzenia cieczy. Już przy temperaturze wsadu wynoszącej 60°C maszynka będzie bardzo szybko i praktycznie do końca usuwać wodę powodując wrzenie (soczki, ekstrakty) albo przyspieszone parowanie (mięso, owoce).
 
 Ponieważ Qualcomm kupił Arduino i rości sobie różne prawa do twórczości ludzi działających na tej platformie Arduino nie dotykam.
 Szukałem alternatyw i znalazłem GCBASIC. GCBASIC ze wstawkami asemblerowymi wydaje mi się na ten moment rozwiązaniem optymalnym dla programowania 8-bitowych mikrokontrolerów.
@@ -24,6 +24,11 @@ Sterownik zrobiłem na Attiny44A i PT6964-S. Sterownik wyświetla wynik pomiaru 
 daje możliwość regulacji mocy pompy wody, wentylatora chłodnicy i grzałki w kotle. Później jeszcze "dokoduję" jakieś funkcję poprawiające bezpieczeństwo pracy przy maszynce.
 Użycie mikrokontrolera w perspektywie pozwoli na ustalenie programów (jak w pralce) dzięki czemu obsługa maszynki będzie ograniczała się do załadowania pojemnika, wybrania programu i naciśnięcia przycisku start. Nie trzeba będzie jej pilnować i co chwilę regulować parametrów żeby np. nie przypalić kawałka wołowiny.
 Płytka z wyświetlaczem, przyciskami i układem PT6964-S pochodzi z elektrośmieciowego odtwarzacza DVD w którym znajdowała się płyta z filmem o Królewnie Śnieżce. Do PT6964-S bardzo podobny jest STLED316 z tym, że ten drugi łatwiej dostępny.
+
+Dokumentacja PT6964: https://www.electronicsdatasheets.com/download/52dfa14fe34e24792f7c543e.pdf%3Fformat%3Dpdf
+
+Dokumentacja STLED316: https://www.st.com/resource/en/datasheet/stled316s.pdf
+
 Te banalne w obsłudze układziki bardzo ułatwiają tworzenie różnych prostych urządzonek. Sterują segmentowymi ledowymi wyświetlaczami, odczytują stany przycisków a z mikrokontrolerem komunikują się magistralą szeregową. "Zacni kompani" prostszych 8-bitowców.
 
 Na filmiku widać o co chodzi w maszynce:
