@@ -9,7 +9,7 @@ tags: [featured]
 
 Wstęp:
 
-Po co komu w domu destylacja pod zmniejszonym ciśnieniem? Jak dla mnie to potrzebne AGD. Mam zamiar używać maszynki do zagęszczania soku z czarnego bzu i ekstraktu z owoców dzikiej róży (mniej miejsca w zamrażarce zajmie) oraz do suszenia mięsa (alternatywa dla wędlin). Zmniejszenie ciśnienia pozwala na obniżenie temperatury wrzenia cieczy. Już przy temperaturze wsadu wynoszącej 60°C maszynka będzie bardzo szybko i praktycznie do końca usuwać wodę powodując wrzenie (soczki, ekstrakty) albo przyspieszone parowanie (mięso, owoce).
+Po co komu w domu destylator pracujący pod zmniejszonym ciśnieniem? Jak dla mnie to potrzebne AGD. Mam zamiar używać maszynki do zagęszczania soku z czarnego bzu i ekstraktu z owoców dzikiej róży (mniej miejsca w zamrażarce zajmie) oraz do suszenia mięsa (alternatywa dla wędlin). Zmniejszenie ciśnienia pozwala na obniżenie temperatury wrzenia cieczy. Już przy temperaturze wsadu wynoszącej 60°C maszynka będzie bardzo szybko i praktycznie do końca usuwać wodę powodując wrzenie (soczki, ekstrakty) albo przyspieszone parowanie (mięso, owoce).
 
 Ponieważ Qualcomm kupił Arduino i rości sobie różne prawa do twórczości ludzi działających na tej platformie Arduino nie dotykam.
 Szukałem alternatyw i znalazłem GCBASIC. GCBASIC ze wstawkami asemblerowymi wydaje mi się na ten moment rozwiązaniem optymalnym dla programowania 8-bitowych mikrokontrolerów.
