@@ -3,7 +3,7 @@ layout: post
 title:  "Ucieczka z Arduino na drodze wywoływania Ducha Polskiego Aptekarstwa."
 author: MF
 categories: [przemiany fazowe, elektromechanika, mistycyzm, GCBASIC ]
-image: assets/images/duchpa.jpg
+image: assets/images/htszczyt.jpg
 tags: [featured]
 ---
 
@@ -17,6 +17,15 @@ Szukałem alternatyw i znalazłem GCBASIC. GCBASIC ze wstawkami asemblerowymi wy
 https://gcbasic.com/
 
 Więc przy okazji poznam (i przedstawię Wam) nowe przydatne narzędzie programistyczne.
+
+### 03.07.2026
+
+Skraplacz uszczelniony. Maszynka chodzi. Jeszcze tylko umieścić czujniki temperatury w docelowych miejscach, podłączyć pompę próżniową, podeprzeć pokrywę od środka (żeby podciśnienie nie spowodowało jej pęknięcia) i można suszyć mięso. Implozja pojemnika tej wielkości potrafi zrobić krzywdę szczególnie gdy elementy pojemnika są zrobione ze szkła, jak w moim projekcie, dlatego nie polecam kopiowania pomysłu bo można skończyć ze szkłem w pupie albo w oku.
+
+Na filmiku otrzymuję filiżankę wody destylowanej.
+
+https://www.youtube.com/watch?v=qicAs3IY6lc
+
 
 ### 01.07.2026
 
