@@ -9,17 +9,23 @@ tags: [featured]
 
 Wstęp:
 
-Po co komu w domu destylator pracujący pod zmniejszonym ciśnieniem? Jak dla mnie to potrzebne AGD. Mam zamiar używać maszynki do zagęszczania soku z czarnego bzu i ekstraktu z owoców dzikiej róży (mniej miejsca w zamrażarce zajmie) oraz do suszenia mięsa (alternatywa dla wędlin). Zmniejszenie ciśnienia pozwala na obniżenie temperatury wrzenia cieczy. Już przy temperaturze wsadu wynoszącej 60°C maszynka będzie bardzo szybko i praktycznie do końca usuwać wodę powodując wrzenie (soczki, ekstrakty) albo przyspieszone parowanie (mięso, owoce).
+Po co komu w domu destylator pracujący pod zmniejszonym ciśnieniem? Jak dla mnie to potrzebne AGD! Mam zamiar używać maszynki do zagęszczania soku z czarnego bzu i ekstraktu z owoców dzikiej róży (mniej miejsca w zamrażarce zajmie) oraz do suszenia mięsa (alternatywa dla wędlin). Zmniejszenie ciśnienia pozwala na obniżenie temperatury wrzenia cieczy. Już przy temperaturze wsadu wynoszącej 60°C maszynka będzie bardzo szybko i praktycznie do końca usuwać wodę powodując wrzenie (soczki, ekstrakty) albo przyspieszone parowanie (mięso, owoce).
 
-Ponieważ Qualcomm kupił Arduino i rości sobie różne prawa do twórczości ludzi działających na tej platformie Arduino nie dotykam.
+Ponieważ Qualcomm kupił Arduino i rości sobie różne prawa do twórczości ludzi działających na tej platformie to Arduino od dzisiaj "kijem nie dotykam".
 Szukałem alternatyw i znalazłem GCBASIC. GCBASIC ze wstawkami asemblerowymi wydaje mi się na ten moment rozwiązaniem optymalnym dla programowania 8-bitowych mikrokontrolerów.
 
 https://gcbasic.com/
 
-Więc przy okazji poznam (i przedstawię Wam) nowe przydatne narzędzie programistyczne.
+Więc przy okazji poznam (i przedstawię Wam) nowe przydatne narzędzie programistyczne. Arduino zostawiamy inwalidom i frajerom.
+
+Aktualnie wypada znać jakieś nowsze od Attiny44A 8-bitowce. Przerzucam się powoli na Attiny3227 (do lżejszych zadań, miodzio ADC) i AVR128DB64 (do trudnych spraw). Jak dla kupowanie gotowych modułów czy zestawów startowych jest pozbawione sensu. Od serca polecam dopracować sobie do perfekcji proces trawienia obwodów. Trochę praktyki i w 30 minut bez brudzenia rąk można sobie zrobić za grosze płytkę dostosowaną do sytuacji i wlutować w nią układ. 
+
+
+
+
+Ale to nie o tym miało być :).
 
 ### 03.07.2026
-
 Skraplacz uszczelniony. Maszynka chodzi. Jeszcze tylko umieścić czujniki temperatury w docelowych miejscach, podłączyć pompę próżniową, podeprzeć pokrywę od środka (żeby podciśnienie nie spowodowało jej pęknięcia) i można suszyć mięso. Implozja pojemnika tej wielkości potrafi zrobić krzywdę szczególnie gdy elementy pojemnika są zrobione ze szkła, jak w moim projekcie, dlatego nie polecam kopiowania pomysłu bo można skończyć ze szkłem w pupie albo w oku.
 
 Na filmiku otrzymuję filiżankę wody destylowanej.
@@ -34,7 +40,7 @@ daje możliwość regulacji mocy pompy wody, wentylatora chłodnicy i grzałki w
 Użycie mikrokontrolera w perspektywie pozwoli na ustalenie programów (jak w pralce) dzięki czemu obsługa maszynki będzie ograniczała się do załadowania pojemnika, wybrania programu i naciśnięcia przycisku start. Nie trzeba będzie jej pilnować i co chwilę regulować parametrów żeby np. nie przypalić kawałka wołowiny.
 Płytka z wyświetlaczem, przyciskami i układem PT6964-S pochodzi z elektrośmieciowego odtwarzacza DVD w którym znajdowała się płyta z filmem o Królewnie Śnieżce. Do PT6964-S bardzo podobny jest STLED316 z tym, że ten drugi łatwiej dostępny.
 
-Dokumentacja PT6964: https://www.electronicsdatasheets.com/download/52dfa14fe34e24792f7c543e.pdf%3Fformat%3Dpdf
+Dokumentacja PT6964: https://www.digchip.com/datasheets/parts/datasheet/380/PT6964-S-pdf.php
 
 Dokumentacja STLED316: https://www.st.com/resource/en/datasheet/stled316s.pdf
 
