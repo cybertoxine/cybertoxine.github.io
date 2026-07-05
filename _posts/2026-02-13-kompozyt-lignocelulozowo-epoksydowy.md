@@ -41,6 +41,30 @@ Spis treści:
 
 15.03.2026 - Oszacowanie czasu potrzebnego do zaaktywowania powierzchni fragmentów endokarpu. [skocz](#piec) 
 
+05.07.2026 - Utwardzacz taninowy? [skocz](#piec) 
+
+
+<a name="szesc"></a>
+### 05.07.2026
+
+Znalazłem ciekawą opcję na utwardzacz: https://patents.google.com/patent/CA3054787A1/en
+
+Okazuje się, że taniny są rozpuszczalne w żywicy epoksydowej w określonych warunkach. Taniny, jako utwardzacz o rozbudowanej strukturze chemicznej i posiadający liczne grupy reagujące z epitlenkami przypadające na jedną cząsteczkę, tworzą z żywicą epoksydową thermoset o wyjątkowo wysokim Tg. Do tego taniny o czystości technicznej są bardzo tanie (wkońcu to taniny ;) ) i łatwo dostępne.
+
+Układa mi się w główce następujący skład kolejnej mieszanki do wypróbowania:
+
+tanina techniczna - 12g  (właściwy hardener - temperatura utwardzania 180 °C)
+szczawian metforminy - 3g (pomocniczy hardener, do zagęszczenia mieszaniny do postaci pasty o konsystencji śmietany w 70 °C, chodzi o utrzymanie stabilności dyspersji w toku procesu otrzymywania przedmiotu)
+chitozan - 5g (mikrowypełniacz, liniowy polimer z licznymi aktywnymi grupami aminowymi tworzącymi kowalencyjne wiązania z żywicą)
+lignoceluloza pochodzenia pestkowego - 40g (lub więcej, makrowypełniacz)
+epidian 5 - 40g (żywica epoksydowa)
+
+O tym jak i czym to po kolei rozdrabniać, mieszać i grzać jeszcze muszę pomyśleć. Tak sobie patrzę na strukturę ligniny i intuicja mi podpowiada, że skoro epoxy reaguje z taninami to i z ligniną żywica powinna w 180 st. C utworzyć liczne wiązania kowalencyjne. Zatem poza krótkim trawieniem powierzchni pokruszonych pestek raczej żadna dodatkowa obróbka makrowypełniacza nie będzie potrzebna.
+
+Nie mogę doczekać się części eksperymentalnej :).
+
+[skok do spisu treści](#spii)
+
 <a name="piec"></a>
 ### 15.03.2026
 Sporządzono 46g roztworu o składzie:
