@@ -41,7 +41,7 @@ Spis treści:
 
 15.03.2026 - Oszacowanie czasu potrzebnego do zaaktywowania powierzchni fragmentów endokarpu. [skocz](#piec) 
 
-05.07.2026 - Utwardzacz taninowy? [skocz](#piec) 
+05.07.2026 - Utwardzacz taninowy? [skocz](#szesc) 
 
 
 <a name="szesc"></a>
