@@ -20,8 +20,7 @@ Więc przy okazji poznam (i przedstawię Wam) nowe przydatne narzędzie programi
 
 Aktualnie wypada znać jakieś nowsze od Attiny44A 8-bitowce. Przerzucam się powoli na Attiny3227 (do lżejszych zadań, miodzio ADC) i AVR128DB64 (do trudnych spraw). Jak dla kupowanie gotowych modułów czy zestawów startowych jest pozbawione sensu. Od serca polecam dopracować sobie do perfekcji proces trawienia obwodów. Trochę praktyki i w 30 minut bez brudzenia rąk można sobie zrobić za grosze płytkę dostosowaną do sytuacji i wlutować w nią układ. 
 
-
-
+![plytka pod avr128db64]({{ site.baseurl }}/assets/images/plytavrdb.jpg)
 
 Ale to nie o tym miało być :).
 
