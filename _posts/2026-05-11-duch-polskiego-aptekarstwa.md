@@ -29,17 +29,19 @@ Ale to nie o tym miało być :).
 
 ![uszczelka]({{ site.baseurl }}/assets/images/india1.jpg)
 
-Uszczelnienie brzegowe wydało mi się bezpieczniejsze. W razie dużego wzrostu ciśnienia utworzy się szczelina i para będzie uciekać równomiernie (mam nadzieję) przy krawędzi uszczelki.
+Uszczelnienie w formie pierścienie dociskanego do boków kotła wydało mi się bezpieczniejsze. W razie dużego wzrostu ciśnienia utworzy się szczelina i para będzie uciekać równomiernie (mam nadzieję) przy krawędzi uszczelki.
 
 Minus jest taki, że uszczelka musi być dość mocno dociśnięta. Kilka gumek załatwia robotę.
 
 ![destylator z uszczelka]({{ site.baseurl }}/assets/images/india2.jpg)
 
-Silikonowa uszczelka w kształcie zewnętrznego pierścienia spełnia swoją rolę w 100%:
+Zademonstrowana silikonowa uszczelka spełnia swoją rolę w 100%:
 
 https://www.youtube.com/shorts/CYvhuuQcX1Y
 
 Podczas pracy z podciśnieniem uszczelka zostanie "dossana" do boków więc nawet bez dociskania zapewni szczelność. 
+
+Ten różowy kikut widoczny za wylotem skraplacza wykonałem z prezerwatywy dla kotów.
 
 
 ### 03.07.2026
