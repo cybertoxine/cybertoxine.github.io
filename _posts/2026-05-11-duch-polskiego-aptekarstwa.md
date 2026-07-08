@@ -33,7 +33,7 @@ Uszczelnienie brzegowe wydało mi się bezpieczniejsze. W razie dużego wzrostu 
 
 Minus jest taki, że uszczelka musi być dość mocno dociśnięta. Kilka gumek załatwia robotę.
 
-![plytka pod avr128db64]({{ site.baseurl }}/assets/images/india2.jpg)
+![destylator z uszczelka]({{ site.baseurl }}/assets/images/india2.jpg)
 
 Silikonowa uszczelka w kształcie zewnętrznego pierścienia spełnia swoją rolę w 100%:
 
