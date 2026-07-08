@@ -24,6 +24,24 @@ Aktualnie wypada znać jakieś nowsze od Attiny44A 8-bitowce. Przerzucam się po
 
 Ale to nie o tym miało być :).
 
+### 08.07.2026
+Żeby Duch Polskiego Aptekarstwa nie pojawił się w losowym miejscu (np. w muszli klozetowej) zrobiłem specjalny krąg do przywoływania bytów z zaświatów:
+
+![uszczelka]({{ site.baseurl }}/assets/images/india1.jpg)
+
+Uszczelnienie brzegowe wydało mi się bezpieczniejsze. W razie dużego wzrostu ciśnienia utworzy się szczelina i para będzie uciekać równomiernie (mam nadzieję) przy krawędzi uszczelki.
+
+Minus jest taki, że uszczelka musi być dość mocno dociśnięta. Kilka gumek załatwia robotę.
+
+![plytka pod avr128db64]({{ site.baseurl }}/assets/images/india2.jpg)
+
+Silikonowa uszczelka w kształcie zewnętrznego pierścienia spełnia swoją rolę w 100%:
+
+https://www.youtube.com/shorts/CYvhuuQcX1Y
+
+Podczas pracy z podciśnieniem uszczelka zostanie "dossana" do boków więc nawet bez dociskania zapewni szczelność. 
+
+
 ### 03.07.2026
 Skraplacz uszczelniony. Maszynka chodzi. Jeszcze tylko umieścić czujniki temperatury w docelowych miejscach, podłączyć pompę próżniową, podeprzeć pokrywę od środka (żeby podciśnienie nie spowodowało jej pęknięcia) i można suszyć mięso. Implozja pojemnika tej wielkości potrafi zrobić krzywdę szczególnie gdy elementy pojemnika są zrobione ze szkła, jak w moim projekcie, dlatego nie polecam kopiowania pomysłu bo można skończyć ze szkłem w pupie albo w oku.
 
