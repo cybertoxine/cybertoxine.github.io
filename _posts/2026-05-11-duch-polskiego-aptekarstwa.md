@@ -43,7 +43,7 @@ Zestawiono aparaturę widoczną na szorcie:
 
 https://www.youtube.com/shorts/Kzhzz8uErAo
 
-Do pojemnika ze szkła borokrzemowego wrzuciłem 2 plastry wieprzowej szynki i umieściłem w łaźni wodnej.
+Do pojemnika ze szkła borokrzemowego wrzuciłem 2 plastry wieprzowej szynki. Pojemnik umieściłem w łaźni wodnej.
 
 ![uszczelka]({{ site.baseurl }}/assets/images/duszek0.jpg)
 
