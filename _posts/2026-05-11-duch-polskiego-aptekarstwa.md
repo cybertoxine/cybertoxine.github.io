@@ -7,6 +7,7 @@ image: assets/images/htszczyt.jpg
 tags: [featured]
 ---
 
+<a name="zero"></a>
 Wstęp:
 
 Po co komu w domu destylator pracujący pod zmniejszonym ciśnieniem? Jak dla mnie to potrzebne AGD! Mam zamiar używać maszynki do zagęszczania soku z czarnego bzu i ekstraktu z owoców dzikiej róży (mniej miejsca w zamrażarce zajmie) oraz do suszenia mięsa (alternatywa dla wędlin). Zmniejszenie ciśnienia pozwala na obniżenie temperatury wrzenia cieczy. Już przy temperaturze wsadu wynoszącej 60°C maszynka będzie bardzo szybko i praktycznie do końca usuwać wodę powodując wrzenie (soczki, ekstrakty) albo przyspieszone parowanie (mięso, owoce).
@@ -24,6 +25,52 @@ Aktualnie wypada znać jakieś nowsze od Attiny44A 8-bitowce. Przerzucam się po
 
 Ale to nie o tym miało być :).
 
+Spis treści:
+
+11.05.2026 - Wstęp + dygresja. [skocz](#zero) 
+
+01.07.2026 - O sterowniku, listing kodu źródłowego, o planie porównania kodu wynikowego z BASCOMA do tego z GCBASIC.[skocz](#jeden) 
+
+03.07.2026 - Uruchomienie po drobnych poprawkach.[skocz](#dwa) 
+
+08.07.2026 - Uszczelnienie boczne i kocia antykoncepcja.[skocz](#trzy) 
+
+16.07.2026 - Udane przywołanie Ducha Polskiego Aptekarstwa.[skocz](#cztery) 
+
+<a name="cztery"></a>
+### 16.07.2026
+Zestawiono aparaturę widoczną na szorcie:
+
+https://www.youtube.com/shorts/Kzhzz8uErAo
+
+Do pojemnika ze szkła borokrzemowego wrzuciłem 2 plastry wieprzowej szynki i umieściłem w łaźni wodnej.
+
+![uszczelka]({{ site.baseurl }}/assets/images/duszek0.jpg)
+
+Wodę w łaźni niepotrzebnie tak mocno nagrzałem. Przez to białko się ścieło.
+Suszenie przebiegało sprawnie. Pompa próżniowa dawała radę. Inhalatory tłokowe to niezłe pompy próżniowe okazuje się :). 
+Jeśli taki inhalator miałaby pracować ciągle to wypadałoby poprawić chłodzenie asynchronicznego silnika. Jak na współpracujące nylonowe elementy robi się zbyt ciepły.
+Szkoda, że nie znam materiału z jakiego wykonano uszczelnienia tłoka i zawory, być może taka pompa oprócz wody i etanolu toleruje też pary innych rozpuszczalników.
+
+![uszczelka]({{ site.baseurl }}/assets/images/duszek1.jpg)
+
+Pokrywa pojemnika do próżniowego przechowywania żywności okazała się być zbyt podatna dlatego w centrum umieszczono podporę.
+
+![uszczelka]({{ site.baseurl }}/assets/images/duszek2.jpg)
+
+Do dziurki w pokrywie został na wcisk wsadzony odcinek silikonowego węża.
+
+![uszczelka]({{ site.baseurl }}/assets/images/duszek3.jpg)
+
+Widok od spodu. Sorry za nieapetycznego paznokcia. Zeszłego dnia konserwowałem blachy Rometa galotaninami.
+
+![uszczelka]({{ site.baseurl }}/assets/images/duszek4.jpg)
+
+No i jest! Duch Polskiego Aptekarstwa czyli destylat z dupy świni. ;)
+
+![uszczelka]({{ site.baseurl }}/assets/images/duszek6.jpg)
+
+<a name="trzy"></a>
 ### 08.07.2026
 Żeby Duch Polskiego Aptekarstwa nie pojawił się w losowym miejscu (np. w muszli klozetowej) zrobiłem specjalny krąg do przywoływania bytów z zaświatów:
 
@@ -43,7 +90,7 @@ Podczas pracy z podciśnieniem uszczelka zostanie "dossana" do boków więc nawe
 
 Ten różowy kikut widoczny za wylotem skraplacza wykonałem z prezerwatywy dla kotów.
 
-
+<a name="dwa"></a>
 ### 03.07.2026
 Skraplacz uszczelniony. Maszynka chodzi. Jeszcze tylko umieścić czujniki temperatury w docelowych miejscach, podłączyć pompę próżniową, podeprzeć pokrywę od środka (żeby podciśnienie nie spowodowało jej pęknięcia) i można suszyć mięso. Implozja pojemnika tej wielkości potrafi zrobić krzywdę szczególnie gdy elementy pojemnika są zrobione ze szkła, jak w moim projekcie, dlatego nie polecam kopiowania pomysłu bo można skończyć ze szkłem w pupie albo w oku.
 
@@ -51,7 +98,7 @@ Na filmiku otrzymuję filiżankę wody destylowanej.
 
 https://www.youtube.com/watch?v=qicAs3IY6lc
 
-
+<a name="jeden"></a>
 ### 01.07.2026
 
 Sterownik zrobiłem na Attiny44A i PT6964-S. Sterownik wyświetla wynik pomiaru temperatury z czterech czujników (diody krzemowe spolaryzowane w kierunku przewodzenia),
