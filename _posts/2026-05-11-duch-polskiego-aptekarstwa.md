@@ -50,6 +50,7 @@ Do pojemnika ze szkła borokrzemowego wrzuciłem 2 plastry wieprzowej szynki i u
 Wodę w łaźni niepotrzebnie tak mocno nagrzałem. Przez to białko się ścieło.
 Suszenie przebiegało sprawnie. Pompa próżniowa dawała radę. Inhalatory tłokowe to niezłe pompy próżniowe okazuje się :). 
 Jeśli taki inhalator miałaby pracować ciągle to wypadałoby poprawić chłodzenie asynchronicznego silnika. Jak na współpracujące nylonowe elementy robi się zbyt ciepły.
+Właśnie z powodu wysokiej temperatury napędu musiałem przedwcześnie przerwać suszenie.
 Szkoda, że nie znam materiału z jakiego wykonano uszczelnienia tłoka i zawory, być może taka pompa oprócz wody i etanolu toleruje też pary innych rozpuszczalników.
 
 ![uszczelka]({{ site.baseurl }}/assets/images/duszek1.jpg)
