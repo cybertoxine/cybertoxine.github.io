@@ -54,13 +54,15 @@ Okazuje się, że taniny są rozpuszczalne w żywicy epoksydowej w określonych 
 Układa mi się w główce następujący skład kolejnej mieszanki do wypróbowania:
 
 ```
-tanina techniczna - 12g  (właściwy hardener - temperatura utwardzania 180 °C)
-szczawian metforminy - 3g (pomocniczy hardener, do zagęszczenia mieszaniny do postaci pasty o konsystencji śmietany w 70 °C, chodzi o utrzymanie stabilności dyspersji w toku procesu otrzymywania przedmiotu)
-chitozan - 5g (mikrowypełniacz, liniowy polimer z licznymi aktywnymi grupami aminowymi tworzącymi kowalencyjne wiązania z żywicą)
-lignoceluloza pochodzenia pestkowego - 40g (lub więcej, makrowypełniacz)
-epidian 5 - 40g (żywica epoksydowa)
+tanina techniczna       12g (właściwy hardener, temperatura utwardzania około 180 °C)
+szczawian metforminy     3g (pomocniczy hardener, katalizator)
+chitozan                 5g (mikrowypełniacz, liniowy polimer z licznymi aktywnymi grupami aminowymi)
+lignoceluloza           40g (40 lub więcej, makrowypełniacz, pokruszone endokarpy)
+epidian 5               40g (żywica epoksydowa)
 
 ```
+Szczawian metforminy posłuży do zwiększenia lepkości mieszaniny (poprzez częściowe usieciowanie w 70 °C ) do stopnia objawiającego się powstaniem galaretowatej pasty, chodzi o utrzymanie stabilności dyspersji w toku procesu otrzymywania przedmiotu.
+
 O tym jak i czym to po kolei rozdrabniać, mieszać i grzać jeszcze muszę pomyśleć. Tak sobie patrzę na strukturę ligniny i intuicja mi podpowiada, że skoro epoxy reaguje z taninami to i z ligniną żywica powinna w 180 st. C utworzyć liczne wiązania kowalencyjne. Zatem poza krótkim trawieniem powierzchni pokruszonych pestek raczej żadna dodatkowa obróbka makrowypełniacza nie będzie potrzebna.
 
 Nie mogę doczekać się części eksperymentalnej :).
