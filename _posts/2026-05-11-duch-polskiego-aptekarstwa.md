@@ -25,6 +25,7 @@ Aktualnie wypada znać jakieś nowsze od Attiny44A 8-bitowce. Przerzucam się po
 
 Ale to nie o tym miało być :).
 
+<a name="spis"></a>
 Spis treści:
 
 11.05.2026 - Wstęp + dygresja. [skocz](#zero) 
@@ -71,6 +72,8 @@ No i jest! Duch Polskiego Aptekarstwa czyli destylat z dupy świni. ;)
 
 ![uszczelka]({{ site.baseurl }}/assets/images/duszek6.jpg)
 
+[skocz do spisu treści](#spis)
+
 <a name="trzy"></a>
 ### 08.07.2026
 Żeby Duch Polskiego Aptekarstwa nie pojawił się w losowym miejscu (np. w muszli klozetowej) zrobiłem specjalny krąg do przywoływania bytów z zaświatów:
@@ -91,6 +94,8 @@ Podczas pracy z podciśnieniem uszczelka zostanie "dossana" do boków więc nawe
 
 Ten różowy kikut widoczny za wylotem skraplacza wykonałem z prezerwatywy dla kotów.
 
+[skocz do spisu treści](#spis)
+
 <a name="dwa"></a>
 ### 03.07.2026
 Skraplacz uszczelniony. Maszynka chodzi. Jeszcze tylko umieścić czujniki temperatury w docelowych miejscach, podłączyć pompę próżniową, podeprzeć pokrywę od środka (żeby podciśnienie nie spowodowało jej pęknięcia) i można suszyć mięso. Implozja pojemnika tej wielkości potrafi zrobić krzywdę szczególnie gdy elementy pojemnika są zrobione ze szkła, jak w moim projekcie, dlatego nie polecam kopiowania pomysłu bo można skończyć ze szkłem w pupie albo w oku.
@@ -98,6 +103,8 @@ Skraplacz uszczelniony. Maszynka chodzi. Jeszcze tylko umieścić czujniki tempe
 Na filmiku otrzymuję filiżankę wody destylowanej.
 
 https://www.youtube.com/watch?v=qicAs3IY6lc
+
+[skocz do spisu treści](#spis)
 
 <a name="jeden"></a>
 ### 01.07.2026
@@ -578,3 +585,5 @@ Dta:
 Data 0 , dig0 , dig1, dig2, dig3, dig4, dig5, dig6, dig7, dig8, dig9
 
 ```
+[skocz do spisu treści](#spis)
+
