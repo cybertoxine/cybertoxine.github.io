@@ -35,6 +35,20 @@ Spis treści:
 
 01.03.2026 - Obserwacja równomolarnej mieszaniny glukozy i mocznika umieszczonej w temperaturze 200 st. C. [skocz](#piec) 
 
+17.07.2026 - Starter na JFET. [skocz](#szesc) 
+
+<a name="szesc"></a>
+### 17.07.2026
+
+![jfet self oscilating converter]({{ site.baseurl }}/assets/images/yaakov0.jpg)
+
+
+![jfet self oscilating converter]({{ site.baseurl }}/assets/images/yaakov1.jpg)
+
+https://www.onsemi.com/download/data-sheet/pdf/j109-d.pdf
+
+[skok do spisu treści](#spi)
+
 <a name="piec"></a>
 ### 01.03.2026
 
