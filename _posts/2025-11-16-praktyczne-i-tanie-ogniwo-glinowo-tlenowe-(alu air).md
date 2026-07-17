@@ -40,12 +40,23 @@ Spis treści:
 <a name="szesc"></a>
 ### 17.07.2026
 
-![jfet self oscilating converter]({{ site.baseurl }}/assets/images/yaakov0.jpg)
+Germanowy AD136 VI zaniosę jednak do muzeum. Znalazłem omówienie niskonapięciowej, "startowej" przetwornicy możliwej do wykonania na komponentach aktualnie jeszcze produkowanych:
 
+https://www.youtube.com/watch?v=XzZO1zF2ufo
+
+Np. niedrogi J109 nadaje się do zastosowania w takim układzie. Nota katalogowa:
+
+https://www.onsemi.com/download/data-sheet/pdf/j109-d.pdf
+
+Układ wg poniższego schematu startuje bezproblemowo od 0.5V i już przy tym napięciu, przy zastosowaniu J109 będzie w stanie uruchomić główną przetwornicę.
 
 ![jfet self oscilating converter]({{ site.baseurl }}/assets/images/yaakov1.jpg)
 
-https://www.onsemi.com/download/data-sheet/pdf/j109-d.pdf
+A tu opcja 3-uzwojeniowa:
+
+![jfet self oscilating converter]({{ site.baseurl }}/assets/images/yaakov0.jpg)
+
+Slajdy pochodzą z materiału umieszczonego w pierwszym linku (yt).
 
 [skok do spisu treści](#spi)
 
