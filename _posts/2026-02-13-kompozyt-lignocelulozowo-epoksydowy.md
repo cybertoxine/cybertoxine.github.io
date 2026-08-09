@@ -55,17 +55,23 @@ Układa mi się w główce następujący skład kolejnej mieszanki do wypróbowa
 
 ```
 tanina techniczna       12g (właściwy hardener, temperatura utwardzania około 180 °C)
-szczawian metforminy     3g (pomocniczy hardener, katalizator)
+laurynian metforminy     3g (mydło metforminowe, pomocniczy hardener, katalizator)
 chitozan                 5g (mikrowypełniacz, liniowy polimer z licznymi aktywnymi grupami aminowymi)
 lignoceluloza           40g (40 lub więcej, makrowypełniacz, pokruszone endokarpy)
 epidian 5               40g (żywica epoksydowa)
 
 ```
-Szczawian metforminy posłuży do zwiększenia lepkości mieszaniny (poprzez częściowe usieciowanie w 70 °C ) do stopnia objawiającego się powstaniem galaretowatej pasty, chodzi o utrzymanie stabilności dyspersji w toku procesu otrzymywania przedmiotu.
+Laurynian metforminy posłuży do zwiększenia lepkości mieszaniny (poprzez częściowe usieciowanie w 70 °C ) do stopnia objawiającego się powstaniem galaretowatej pasty, chodzi o utrzymanie stabilności dyspersji (kawałków pestek w matrixie) w toku procesu otrzymywania przedmiotu.
 
 O tym jak i czym to po kolei rozdrabniać, mieszać i grzać jeszcze muszę pomyśleć. Tak sobie patrzę na strukturę ligniny i intuicja mi podpowiada, że skoro epoxy reaguje z taninami to i z ligniną żywica powinna w 180 st. C utworzyć liczne wiązania kowalencyjne. Zatem poza krótkim trawieniem powierzchni pokruszonych pestek raczej żadna dodatkowa obróbka makrowypełniacza nie będzie potrzebna.
 
-Nie mogę doczekać się części eksperymentalnej :).
+Ponadto jak donoszą w:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0266353816305061?via%3Dihub
+
+W obecności amin z epitlenkami potrafi zareagować i "goła" celuloza.
+
+Nie mogę doczekać się części eksperymentalnej :). Cel to jak najepsza relacja kosztu do wytrzymałości na rozciąganie i Tg > 150 st. C.
 
 [skok do spisu treści](#spii)
 
