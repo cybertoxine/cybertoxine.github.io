@@ -34,6 +34,8 @@ Dlaczego warto poświęcić czas na obróbkę czarnego bzu?
 
 ![korek i pompy]({{ site.baseurl }}/assets/images/krew5.jpg)
 
+https://www.youtube.com/shorts/Hd6u_XOGxhM
+
 ![podstawka]({{ site.baseurl }}/assets/images/krew6.jpg)
 
 
