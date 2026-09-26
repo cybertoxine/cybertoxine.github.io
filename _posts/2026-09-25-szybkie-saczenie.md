@@ -19,7 +19,7 @@ Dlaczego warto poświęcić czas na obróbkę czarnego bzu?
 
    Zatem efektem pracy będzie wartościowy produkt roślinny, który oprócz substancji odżywczych i atrakcyjnych cech organoleptycznych posiada też właściwości lecznicze dostosowane do okresu jesienno-zimowego.
 
-3. Robiąc przetwory sami sobie wybierzemy zawsze odpowiednie miejsce zbioru (zdala od opryskiwanych pól, dróg itd.), wybierzemy najładniejsze zdrowe i dojżałe owoce, za obróbkę materiału zabierzemy się od razu przerabiając świerze owoce. Wysoka jakość produktu jaką możemy uzyskać jest nie do osiągnięcia (albo nie jest opłacalna do osiągania) podczas produkcji w dużej skali.
+3. Robiąc przetwory sami sobie wybierzemy zawsze odpowiednie miejsce zbioru (zdala od opryskiwanych pól, dróg itd.), wybierzemy najładniejsze zdrowe i dojżałe owoce, za obróbkę materiału zabierzemy się od razu przerabiając świeże owoce. Wysoka jakość produktu jaką możemy uzyskać jest nie do osiągnięcia (albo nie jest opłacalna do osiągania) podczas produkcji w dużej skali.
 
 
 
