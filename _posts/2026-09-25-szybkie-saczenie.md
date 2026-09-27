@@ -21,7 +21,7 @@ Dlaczego warto poświęcić czas na obróbkę czarnego bzu?
 
 3. Robiąc przetwory sami sobie wybierzemy zawsze odpowiednie miejsce zbioru (zdala od opryskiwanych pól, dróg itd.), wybierzemy najładniejsze zdrowe i dojżałe owoce, za obróbkę materiału zabierzemy się od razu przerabiając świeże owoce. Wysoka jakość produktu jaką możemy uzyskać jest nie do osiągnięcia (albo nie jest opłacalna do osiągania) podczas produkcji w dużej skali.
 
-
+Około 24% suchej masy nasion stanowi olej https://www.sciencedirect.com/science/article/abs/pii/S0308814624034083. Dla porównania w uprawianych gatunkach rzepaku procentowa zawartość oleju w nasionach to około 43%. Rzut oka na profil tłuszczów występujących w obu olejach wystarczy by wyłonić zwycięzcę - zimnotłoczony olej z nasion bzu deklasyfikuje konkurenta. Ciekawe jak wyglądałaby wydajność z hektara.
 
 
 ![sito]({{ site.baseurl }}/assets/images/krew0.jpg)
