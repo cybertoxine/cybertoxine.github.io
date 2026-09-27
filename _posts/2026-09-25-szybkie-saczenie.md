@@ -34,8 +34,27 @@ Około 24% suchej masy nasion stanowi olej https://www.sciencedirect.com/science
 
 ![korek i pompy]({{ site.baseurl }}/assets/images/krew5.jpg)
 
-https://www.youtube.com/shorts/Hd6u_XOGxhM
-
 ![podstawka]({{ site.baseurl }}/assets/images/krew6.jpg)
+
+
+![wanna]({{ site.baseurl }}/assets/images/krew7.jpg)
+
+
+![gar z bzem]({{ site.baseurl }}/assets/images/krew8.jpg)
+
+
+![krzak bzu]({{ site.baseurl }}/assets/images/krew9.jpg)
+
+
+![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
+
+
+![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
+
+
+![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
+
+
+https://www.youtube.com/shorts/Hd6u_XOGxhM
 
 
