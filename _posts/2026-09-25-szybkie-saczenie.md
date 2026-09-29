@@ -7,6 +7,7 @@ image: assets/images/krew1.jpg
 tags: [featured]
 ---
 
+<a name="zero"></a>
 Wstęp:
 
 Dlaczego warto poświęcić czas na obróbkę czarnego bzu?
@@ -23,10 +24,24 @@ Dlaczego warto poświęcić czas na obróbkę czarnego bzu?
 
 Około 24% suchej masy nasion stanowi olej https://www.sciencedirect.com/science/article/abs/pii/S0308814624034083. Dla porównania w uprawianych gatunkach rzepaku procentowa zawartość oleju w nasionach to około 43%. Rzut oka na profil tłuszczów występujących w obu olejach wystarczy by wyłonić zwycięzcę - zimnotłoczony olej z nasion bzu deklasyfikuje konkurenta. Ciekawe jak wyglądałaby wydajność z hektara.
 
+<a name="spis"></a>
+Spis treści:
+
+25.09.2026 - Wstęp. Dlaczego warto? Jakie atrakcje ukryte są w niepozornym krzewie Sambucus nigra L. ? [skocz](#zero) 
+
+28.09.2026 - Ilustrowana opowieść o sokowyciskarce za 10 ziko. [skocz](#jeden) 
+
+??.??.???? - ...piszę...
+
+<a name="jeden"></a>
+### 16.07.2026
+
 ```
 W 1 litrowej butelce z PET nawiercono otwory wiertłem 1mm.
-```
+
 ![sito]({{ site.baseurl }}/assets/images/krew0.jpg)
+```
+
 ```
 Obroty były ustalone na większe niż niezbędne do przewiercenia po to by brzegi się nadtopiły.
 ```
@@ -91,4 +106,5 @@ Tak w akcji wygląda sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko:
 ```
 https://www.youtube.com/shorts/Hd6u_XOGxhM
 
+[skocz do spisu treści](#spis)
 
