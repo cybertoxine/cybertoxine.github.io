@@ -94,7 +94,6 @@ Kilka zdjęć z wyprawy po bez.
 ![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
-```
 
 [skocz do spisu treści](#spis)
 
