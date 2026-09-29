@@ -2,7 +2,7 @@
 layout: post
 title:  "Wyciskanie soku z owoców bzu czarnego przyrządem do filtracji pod ciśnieniem i otrzymywanie trwałego koncentratu."
 author: MF
-categories: [bez czarny, operacje laboratoryjne, sprzęt laboratoryjny, promocje w pepco, zdrowa żywność ]
+categories: [bez czarny, operacje laboratoryjne, sprzęt laboratoryjny, promocje w pupco, zdrowa żywność ]
 image: assets/images/krew1.jpg
 tags: [featured]
 ---
@@ -35,76 +35,66 @@ Spis treści:
 
 <a name="jeden"></a>
 ### 16.07.2026
-
 ```
 W 1 litrowej butelce z PET nawiercono otwory wiertłem 1mm.
-
-![sito]({{ site.baseurl }}/assets/images/krew0.jpg)
-```
-
-```
 Obroty były ustalone na większe niż niezbędne do przewiercenia po to by brzegi się nadtopiły.
 ```
+![sito]({{ site.baseurl }}/assets/images/krew0.jpg)
 ```
 W PUPCO kupiłem za 15 zł na promocji pistolet do baniek.
-```
-![bankogenerator]({{ site.baseurl }}/assets/images/krew2.jpg)
-
-```
 Pistolet zawierał w środku 4 pompy perystaltyczne sprzężone z wentylatorami.
-```
-![pompa]({{ site.baseurl }}/assets/images/krew3.jpg)
-```
 Fragment obudowy zawierający sekcję z wentylatorem wycięto.
 ```
+![bankogenerator]({{ site.baseurl }}/assets/images/krew2.jpg)
+![pompa]({{ site.baseurl }}/assets/images/krew3.jpg)
 ```
-Dwie pomki zasilane z powerbanka zapewniały wystarczające ciśnienie:
+Dwie pomki połączone równolegle, zasilane z powerbanka, zapewniały wystarczające ciśnienie.
+By zapobiec aktywowaniu się zabezpieczenia przeciwzwarciowego w powerbanku szeregowo z pompkami dołożono rezystor o wartości około 2 Ohm.
+Rezystor zapobiega też iskrzeniu szczotek przy rozruchu. Zwiększa to żywotność napędu.
+Silikonowe wężyki zostały wciśnięte w otwory wykonane w zakrętce. Lepsze połączenie nie jest potrzebne.
 ```
 ![korek i pompy]({{ site.baseurl }}/assets/images/krew5.jpg)
 ```
 Sok, mimo że gęsty (nie dodawałem wody) na początku leci szybko.
+Gdy butelka robiła się bardzo twarda odkręcałem butelkę i nakręcałem nakrętkę bez otworów.
+Następnie butelkę odwracałem i lekko udeżałem korkiem o stół. Osuwający się "klocek" można dodatkowo rozdrobnić ściskając ścianki butelki.
+Ten manewr oczyszczał otwory na dnie przez co tempo filtracji wzrastało do wartości początkowej.
+
 ```
 ![kapiacy sok]({{ site.baseurl }}/assets/images/krew4.jpg)
 
 ![podstawka]({{ site.baseurl }}/assets/images/krew6.jpg)
 
 ```
-Gdy butelka robiła się bardzo twarda odkręcałem butelkę i nakręcałem szczelną nakrętkę, butelkę odwracałem i lekko udeżałem korkiem o stół.
-Ten manewr oczyszczał otwory na dnie przez co tempo filtracji wzrastało do wartości początkowej.
-```
-```
-Dowody zbrodni:
+Wyjątkowo brudna robota, najlepiej robić wszystko w wannie albo na zewnątrz. Na zdjęciu dowody zbrodni. 
 ```
 ![wanna]({{ site.baseurl }}/assets/images/krew7.jpg)
 
 ```
-Bez podgrzewałem do zagotowania cały czas mieszając. Następnie rozdrabiałem go blenderem NA WOLNYCH OBROTACH. Miazga musi nieco się ochłodzić - inaczej PET zacznie krystalizować co doprowadzi do deformacji fragmentu szyjki zawierającego gwint, skutkującej utratą szczelności.
+Bez podgrzewałem do zagotowania cały czas mieszając.
+Następnie rozdrabiałem go blenderem NA WOLNYCH OBROTACH.
+Miazga musi nieco ochłodzić - inaczej PET zacznie krystalizować co doprowadzi do deformacji fragmentu szyjki zawierającego gwint.
+Przyjmuje się, że graniczna temperatura powyżej której amorficzny PET zaczyna się deformować to 65 st. C.
 ```
 ![gar z bzem]({{ site.baseurl }}/assets/images/krew8.jpg)
 ```
-Tak wygląda bez gdyby ktoś nie wiedział:
-```
-![krzak bzu]({{ site.baseurl }}/assets/images/krew9.jpg)
-```
-Antyreklama Sudocremu:
-```
-![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
-```
-Bez i Romet:
-```
-![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
-```
-Romet i bez:
-```
-![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
-```
-Pierwszy przesącz przeznaczam do dalszej obróbki, drugi (po zalaniu butelki z sitkiem wodą niskozmineralizowaną do pełna) sobie popijam, trzeci jest na tyle słaby, że nie ma sensu go robić.
+Pierwszy przesącz przeznaczam do dalszej obróbki.
+Drugi (po zalaniu butelki z sitkiem wodą niskozmineralizowaną do pełna) sobie popijam.
+Trzeci jest na tyle słaby, że nie ma sensu go robić.
 ```
 ![prima sort]({{ site.baseurl }}/assets/images/krew13.jpg)
 ```
-Tak w akcji wygląda sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko:
+Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt short):
 ```
 https://www.youtube.com/shorts/Hd6u_XOGxhM
+```
+Kilka zdjęć z wyprawy po bez.
+```
+![krzak bzu]({{ site.baseurl }}/assets/images/krew9.jpg)
+![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
+![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
+![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
+```
 
 [skocz do spisu treści](#spis)
 
