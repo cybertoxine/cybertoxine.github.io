@@ -35,9 +35,9 @@ Spis treści:
 
 <a name="jeden"></a>
 ### 16.07.2026
-
-> W 1 litrowej butelce z PET nawiercono otwory wiertłem 1mm.
-> Obroty były ustalone na większe niż niezbędne do przewiercenia po to by brzegi się nadtopiły.
+***
+>W 1 litrowej butelce z PET nawiercono otwory wiertłem 1mm.
+>Obroty były ustalone na większe niż niezbędne do przewiercenia po to by brzegi się nadtopiły.
 >![sito]({{ site.baseurl }}/assets/images/krew0.jpg)
 ***
 >W PUPCO kupiłem za 15 zł na promocji pistolet do baniek.
