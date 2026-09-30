@@ -50,44 +50,55 @@ Fragment obudowy zawierający sekcję z wentylatorem wycięto.
 ![pompa]({{ site.baseurl }}/assets/images/krew3.jpg)
 
 ***
->Dwie pomki połączone równolegle, zasilane z powerbanka, zapewniały wystarczające ciśnienie.
->By zapobiec aktywowaniu się zabezpieczenia przeciwzwarciowego w powerbanku szeregowo z pompkami dołożono rezystor o wartości około 2 Ohm.
->Rezystor zapobiega też iskrzeniu szczotek przy rozruchu. Zwiększa to żywotność napędu.
->Silikonowe wężyki zostały wciśnięte w otwory wykonane w zakrętce. Lepsze połączenie nie jest potrzebne.
->![korek i pompy]({{ site.baseurl }}/assets/images/krew5.jpg)
+Dwie pomki połączone równolegle, zasilane z powerbanka, zapewniały wystarczające ciśnienie.
+By zapobiec aktywowaniu się zabezpieczenia przeciwzwarciowego w powerbanku szeregowo z pompkami dołożono rezystor o wartości około 2 Ohm.
+Rezystor zapobiega też iskrzeniu szczotek przy rozruchu. Zwiększa to żywotność napędu.
+Silikonowe wężyki zostały wciśnięte w otwory wykonane w zakrętce. Lepsze połączenie nie jest potrzebne.
 ***
->Sok, mimo że gęsty (nie dodawałem wody) na początku leci szybko.
->Gdy butelka robiła się bardzo twarda odkręcałem butelkę i nakręcałem nakrętkę bez otworów.
->Następnie butelkę odwracałem i lekko udeżałem korkiem o stół. Osuwający się "klocek" można dodatkowo rozdrobnić ściskając ścianki butelki.
->Ten manewr oczyszczał otwory na dnie przez co tempo filtracji wzrastało do wartości początkowej.
->![kapiacy sok]({{ site.baseurl }}/assets/images/krew4.jpg)
->![podstawka]({{ site.baseurl }}/assets/images/krew6.jpg)
-***
->Wyjątkowo brudna robota, najlepiej robić wszystko w wannie albo na zewnątrz. Na zdjęciu dowody zbrodni. 
->![wanna]({{ site.baseurl }}/assets/images/krew7.jpg)
-***
->Bez podgrzewałem do zagotowania cały czas mieszając.
->Następnie rozdrabiałem go blenderem NA WOLNYCH OBROTACH.
->Miazga musi nieco ochłodzić - inaczej PET zacznie krystalizować co doprowadzi do deformacji fragmentu szyjki zawierającego gwint.
->Przyjmuje się, że graniczna temperatura powyżej której amorficzny PET zaczyna się deformować to 65 st. C.
->![gar z bzem]({{ site.baseurl }}/assets/images/krew8.jpg)
-***
->Pierwszy przesącz przeznaczam do dalszej obróbki.
->Drugi (po zalaniu butelki z sitkiem wodą niskozmineralizowaną do pełna) sobie popijam.
->Trzeci jest na tyle słaby, że nie ma sensu go robić.
->![prima sort]({{ site.baseurl }}/assets/images/krew13.jpg)
-***
->Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt short):
+![korek i pompy]({{ site.baseurl }}/assets/images/krew5.jpg)
 
-<div>
-<iframe width="466" height="829" src="https://www.youtube.com/embed/Hd6u_XOGxhM" title="Uzyskiwanie gęstego soku z bzu metodą filtracji pod ciśnieniem." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 ***
->Kilka zdjęć z wyprawy po bez.
->![krzak bzu]({{ site.baseurl }}/assets/images/krew9.jpg)
->![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
->![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
->![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
+Sok, mimo że gęsty (nie dodawałem wody) na początku leci szybko.
+Gdy butelka robiła się bardzo twarda odkręcałem butelkę i nakręcałem nakrętkę bez otworów.
+Następnie butelkę odwracałem i lekko udeżałem korkiem o stół. Osuwający się "klocek" można dodatkowo rozdrobnić ściskając ścianki butelki.
+Ten manewr oczyszczał otwory na dnie przez co tempo filtracji wzrastało do wartości początkowej.
+***
+![kapiacy sok]({{ site.baseurl }}/assets/images/krew4.jpg)
+![podstawka]({{ site.baseurl }}/assets/images/krew6.jpg)
+
+***
+Dowody zbrodni. Wyjątkowo brudna robota, najlepiej robić wszystko w wannie albo na zewnątrz. 
+***
+![wanna]({{ site.baseurl }}/assets/images/krew7.jpg)
+
+***
+Bez podgrzewałem do zagotowania cały czas mieszając.
+Następnie rozdrabiałem go blenderem NA WOLNYCH OBROTACH.
+Miazga musi nieco ochłodzić - inaczej PET zacznie krystalizować co doprowadzi do deformacji fragmentu szyjki zawierającego gwint.
+Przyjmuje się, że graniczna temperatura powyżej której amorficzny PET zaczyna się deformować to 65 st. C.
+***
+![gar z bzem]({{ site.baseurl }}/assets/images/krew8.jpg)
+
+***
+Pierwszy przesącz przeznaczam do dalszej obróbki.
+Drugi (po zalaniu butelki z sitkiem wodą niskozmineralizowaną do pełna) sobie popijam.
+Trzeci jest na tyle słaby, że nie ma sensu go robić.
+***
+![prima sort]({{ site.baseurl }}/assets/images/krew13.jpg)
+
+***
+Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt short):
+***
+
+<iframe width="466" height="829" src="https://www.youtube.com/embed/Hd6u_XOGxhM" title="Uzyskiwanie gęstego soku z bzu metodą filtracji pod ciśnieniem." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+***
+Kilka zdjęć z wyprawy po bez.
+***
+![krzak bzu]({{ site.baseurl }}/assets/images/krew9.jpg)
+![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
+![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
+![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
 
 [skocz do spisu treści](#spis)
 
