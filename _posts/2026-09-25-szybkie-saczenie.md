@@ -36,15 +36,19 @@ Spis treści:
 <a name="jeden"></a>
 ### 16.07.2026
 ***
->W 1 litrowej butelce z PET nawiercono otwory wiertłem 1mm.
->Obroty były ustalone na większe niż niezbędne do przewiercenia po to by brzegi się nadtopiły.
->![sito]({{ site.baseurl }}/assets/images/krew0.jpg)
+W 1 litrowej butelce z PET nawiercono otwory wiertłem 1mm.
+Obroty były ustalone na większe niż niezbędne do przewiercenia po to by brzegi się nadtopiły.
 ***
->W PUPCO kupiłem za 15 zł na promocji pistolet do baniek.
->Pistolet zawierał w środku 4 pompy perystaltyczne sprzężone z wentylatorami.
->Fragment obudowy zawierający sekcję z wentylatorem wycięto.
->![bankogenerator]({{ site.baseurl }}/assets/images/krew2.jpg)
->![pompa]({{ site.baseurl }}/assets/images/krew3.jpg)
+![sito]({{ site.baseurl }}/assets/images/krew0.jpg)
+
+***
+W PUPCO kupiłem za 15 zł na promocji pistolet do baniek.
+Pistolet zawierał w środku 4 pompy perystaltyczne sprzężone z wentylatorami.
+Fragment obudowy zawierający sekcję z wentylatorem wycięto.
+***
+![bankogenerator]({{ site.baseurl }}/assets/images/krew2.jpg)
+![pompa]({{ site.baseurl }}/assets/images/krew3.jpg)
+
 ***
 >Dwie pomki połączone równolegle, zasilane z powerbanka, zapewniały wystarczające ciśnienie.
 >By zapobiec aktywowaniu się zabezpieczenia przeciwzwarciowego w powerbanku szeregowo z pompkami dołożono rezystor o wartości około 2 Ohm.
