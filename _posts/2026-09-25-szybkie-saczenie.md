@@ -75,7 +75,9 @@ Spis treści:
 
 >Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt short):
 
+<div>
 <iframe width="466" height="829" src="https://www.youtube.com/embed/Hd6u_XOGxhM" title="Uzyskiwanie gęstego soku z bzu metodą filtracji pod ciśnieniem." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 >Kilka zdjęć z wyprawy po bez.
 >![krzak bzu]({{ site.baseurl }}/assets/images/krew9.jpg)
