@@ -89,8 +89,7 @@ Trzeci jest na tyle słaby, że nie ma sensu go robić.
 ***
 Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt short):
 ***
-
-<p><iframe width="466" height="829" src="https://www.youtube.com/embed/Hd6u_XOGxhM" title="Uzyskiwanie gęstego soku z bzu metodą filtracji pod ciśnieniem." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+{% include bezfilmik0.html id="filmik0" %}
 
 ***
 Kilka zdjęć z wyprawy po bez.
