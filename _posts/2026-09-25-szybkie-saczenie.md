@@ -87,22 +87,17 @@ Trzeci jest na tyle słaby, że nie ma sensu go robić.
 ![prima sort]({{ site.baseurl }}/assets/images/krew13.jpg)
 
 ***
-Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt short):
+Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt link): https://www.youtube.com/watch?v=Hd6u_XOGxhM
 ***
-<a href="javascript:alert('test')">test</a>
-
-{% raw %}
-
-<iframe width="466" height="829" src="https://www.youtube.com/embed/Hd6u_XOGxhM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
-
-{% endraw %}
+Po bez byłem Rometem.
 ***
-Kilka zdjęć z wyprawy po bez.
-***
+
 ![krzak bzu]({{ site.baseurl }}/assets/images/krew9.jpg)
 ![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
+
+<a href="javascript:alert('Jupi! Odpaliło js!')">testowy link</a>
 
 [skocz do spisu treści](#spis)
 
