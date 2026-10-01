@@ -82,14 +82,13 @@ Przyjmuje się, że graniczna temperatura powyżej której amorficzny PET zaczyn
 ***
 Pierwszy przesącz przeznaczam do dalszej obróbki.
 Drugi (po zalaniu butelki z sitkiem wodą niskozmineralizowaną do pełna) sobie popijam.
-Trzeci jest na tyle słaby, że nie ma sensu go robić.
+Trzeci jest na tyle słaby, że nie ma sensu go zbierać.
 ***
 ![prima sort]({{ site.baseurl }}/assets/images/krew13.jpg)
 
 ***
 Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt link): https://www.youtube.com/watch?v=Hd6u_XOGxhM
-***
-Po bez byłem Rometem.
+A po bez byłem motorkiem.
 ***
 
 ![krzak bzu]({{ site.baseurl }}/assets/images/krew9.jpg)
@@ -97,7 +96,8 @@ Po bez byłem Rometem.
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
 
-<a href="javascript:alert('Jupi! Odpaliło js!')">testowy link</a>
+<a id="ll" href="javascript:alert('Jupi! Odpaliło js!')">testowy link</a>
+<a href="javascript:alert('chain test start'); document.getElementById('ll').click();">testowy link2</a>
 
 [skocz do spisu treści](#spis)
 
