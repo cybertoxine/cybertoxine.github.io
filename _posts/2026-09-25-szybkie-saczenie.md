@@ -89,6 +89,8 @@ Trzeci jest na tyle słaby, że nie ma sensu go robić.
 ***
 Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt short):
 ***
+<a href="javascript:alert('test')">test</a>
+
 {% raw %}
 
 <iframe width="466" height="829" src="https://www.youtube.com/embed/Hd6u_XOGxhM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
