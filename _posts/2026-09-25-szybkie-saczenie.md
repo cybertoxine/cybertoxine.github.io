@@ -98,14 +98,10 @@ A po bez byłem motorkiem.
 
 <div id="ll">
 </div>
-<a href=
-   
-   "javascript:alert('chain test start');
-   document.getElementById('ll').innerHTML = '<iframe width="466" height=829" 
-   src="https://www.youtube.com/embed/Hd6u_XOGxhM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
-   picture-in-picture; web-share">';"
-   
->testowy link2</a>
+
+<script>
+alert('chain test start'); 
+</script>
 
 [skocz do spisu treści](#spis)
 
