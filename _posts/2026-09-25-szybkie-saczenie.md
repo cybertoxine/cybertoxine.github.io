@@ -96,7 +96,7 @@ A po bez byłem motorkiem.
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
 
-<div id="ll" onclick="window.open(' https://www.youtube.com/watch?v=Hd6u_XOGxhM' , '_blank', 'toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=400,height=400');">
+<div id="ll" onclick="window.open(' https://www.youtube.com/watch?v=Hd6u_XOGxhM' , '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,top=500,left=500,width=640,height=480');">
 test
 </div>
 
