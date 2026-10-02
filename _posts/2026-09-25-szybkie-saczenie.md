@@ -96,12 +96,11 @@ A po bez byłem motorkiem.
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
 
-<div id="ll">
+<div id="ll" onclick="window.open(' https://www.youtube.com/watch?v=Hd6u_XOGxhM');">
+test
 </div>
 
-<script>
-alert('chain test start'); 
-</script>
+
 
 [skocz do spisu treści](#spis)
 
