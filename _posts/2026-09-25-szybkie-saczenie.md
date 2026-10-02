@@ -96,8 +96,16 @@ A po bez byłem motorkiem.
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
 
-<a id="ll" href="javascript:alert('Jupi! Odpaliło js!')">testowy link</a>
-<a href="javascript:alert('chain test start'); document.getElementById('ll').click();">testowy link2</a>
+<div id="ll">
+</div>
+<a href=
+   
+   "javascript:alert('chain test start');
+   document.getElementById('ll').innerHTML = '<iframe width="466" height=829" 
+   src="https://www.youtube.com/embed/Hd6u_XOGxhM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+   picture-in-picture; web-share">';"
+   
+>testowy link2</a>
 
 [skocz do spisu treści](#spis)
 
