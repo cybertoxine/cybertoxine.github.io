@@ -88,7 +88,12 @@ Trzeci jest na tyle słaby, że nie ma sensu go zbierać.
 ![prima sort]({{ site.baseurl }}/assets/images/krew13.jpg)
 
 ***
-Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko (yt link): https://www.youtube.com/watch?v=Hd6u_XOGxhM
+Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko.
+***
+
+{% include bezfilmik0.html id=page.youtubeId %}
+
+***
 A po bez byłem motorkiem.
 ***
 
@@ -96,17 +101,6 @@ A po bez byłem motorkiem.
 ![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
-
-
-<div onclick="window.open(' https://www.youtube.com/watch?v=Hd6u_XOGxhM' , '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,top=500,left=500,width=640,height=480');">
-test nowe okno
-</div>
-
-{% include bezfilmik0.html id=page.youtubeId %}
-
-
-
-
 
 
 [skocz do spisu treści](#spis)
