@@ -5,7 +5,6 @@ author: MF
 categories: [bez czarny, operacje laboratoryjne, sprzęt laboratoryjny, promocje w pupco, zdrowa żywność ]
 image: assets/images/krew1.jpg
 tags: [featured]
-youtubeId: Hd6u_XOGxhM
 ---
 
 <a name="zero"></a>
@@ -97,11 +96,15 @@ A po bez byłem motorkiem.
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
 
+
 <div onclick="window.open(' https://www.youtube.com/watch?v=Hd6u_XOGxhM' , '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,top=500,left=500,width=640,height=480');">
 test nowe okno
 </div>
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=Hd6u_XOGxhM %}
+
+
+
 
 
 
