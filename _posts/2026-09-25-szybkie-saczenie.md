@@ -96,9 +96,16 @@ A po bez byłem motorkiem.
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
 
-<div id="ll" onclick="window.open(' https://www.youtube.com/watch?v=Hd6u_XOGxhM' , '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,top=500,left=500,width=640,height=480');">
-test
+<div onclick="window.open(' https://www.youtube.com/watch?v=Hd6u_XOGxhM' , '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,top=500,left=500,width=640,height=480');">
+test nowe okno
 </div>
+
+<div id="ll"></div>
+
+<div onclick="document.getElementById("ll").innerHTML = '<video controls width="250"> <source src="/shared-assets/videos/flower.webm" type="video/webm"/></video>'>
+test tagu video
+</div>
+
 
 
 
