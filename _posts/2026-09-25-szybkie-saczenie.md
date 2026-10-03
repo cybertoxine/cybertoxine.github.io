@@ -5,6 +5,7 @@ author: MF
 categories: [bez czarny, operacje laboratoryjne, sprzęt laboratoryjny, promocje w pupco, zdrowa żywność ]
 image: assets/images/krew1.jpg
 tags: [featured]
+youtubeId: Hd6u_XOGxhM
 ---
 
 <a name="zero"></a>
@@ -100,12 +101,7 @@ A po bez byłem motorkiem.
 test nowe okno
 </div>
 
-<div id="ll"></div>
-
-<div onclick="document.getElementById('ll').innerHTML = '<video controls width="250"> <source src="/shared-assets/videos/flower.webm" type="video/webm"/></video>'>
-test tagu video
-</div>
-
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 
