@@ -102,9 +102,10 @@ test nowe okno
 
 <div id="ll"></div>
 
-<div onclick="document.getElementById("ll").innerHTML = '<video controls width="250"> <source src="/shared-assets/videos/flower.webm" type="video/webm"/></video>'>
+<div onclick="document.getElementById('ll').innerHTML = '<video controls width="250"> <source src="/shared-assets/videos/flower.webm" type="video/webm"/></video>'>
 test tagu video
 </div>
+
 
 
 
