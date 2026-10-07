@@ -39,14 +39,14 @@ Spis treści:
 ***
 W 1 litrowej butelce z PET nawiercono otwory wiertłem 1mm.
 Obroty były ustalone na większe niż niezbędne do przewiercenia po to by brzegi się nadtopiły.
-***
+
 ![sito]({{ site.baseurl }}/assets/images/krew0.jpg)
 
 ***
 W PUPCO kupiłem za 15 zł na promocji pistolet do baniek.
 Pistolet zawierał w środku 4 pompy perystaltyczne sprzężone z wentylatorami.
 Fragment obudowy zawierający sekcję z wentylatorem wycięto.
-***
+
 ![bankogenerator]({{ site.baseurl }}/assets/images/krew2.jpg)
 ![pompa]({{ site.baseurl }}/assets/images/krew3.jpg)
 
@@ -55,7 +55,7 @@ Dwie pomki połączone równolegle, zasilane z powerbanka, zapewniały wystarcza
 By zapobiec aktywowaniu się zabezpieczenia przeciwzwarciowego w powerbanku szeregowo z pompkami dołożono rezystor o wartości około 2 Ohm.
 Rezystor zapobiega też iskrzeniu szczotek przy rozruchu. Zwiększa to żywotność napędu.
 Silikonowe wężyki zostały wciśnięte w otwory wykonane w zakrętce. Lepsze połączenie nie jest potrzebne.
-***
+
 ![korek i pompy]({{ site.baseurl }}/assets/images/krew5.jpg)
 
 ***
@@ -63,13 +63,13 @@ Sok, mimo że gęsty (nie dodawałem wody) na początku leci szybko.
 Gdy butelka robiła się bardzo twarda odkręcałem butelkę i nakręcałem nakrętkę bez otworów.
 Następnie butelkę odwracałem i lekko udeżałem korkiem o stół. Osuwający się "klocek" można dodatkowo rozdrobnić ściskając ścianki butelki.
 Ten manewr oczyszczał otwory na dnie przez co tempo filtracji wzrastało do wartości początkowej.
-***
+
 ![kapiacy sok]({{ site.baseurl }}/assets/images/krew4.jpg)
 ![podstawka]({{ site.baseurl }}/assets/images/krew6.jpg)
 
 ***
 Dowody zbrodni. Wyjątkowo brudna robota, najlepiej robić wszystko w wannie albo na zewnątrz. 
-***
+
 ![wanna]({{ site.baseurl }}/assets/images/krew7.jpg)
 
 ***
@@ -77,25 +77,25 @@ Bez podgrzewałem do zagotowania cały czas mieszając.
 Następnie rozdrabiałem go blenderem NA WOLNYCH OBROTACH.
 Miazga musi nieco ochłodzić - inaczej PET zacznie krystalizować co doprowadzi do deformacji fragmentu szyjki zawierającego gwint.
 Przyjmuje się, że graniczna temperatura powyżej której amorficzny PET zaczyna się deformować to 65 st. C.
-***
+
 ![gar z bzem]({{ site.baseurl }}/assets/images/krew8.jpg)
 
 ***
 Pierwszy przesącz przeznaczam do dalszej obróbki.
 Drugi (po zalaniu butelki z sitkiem wodą niskozmineralizowaną do pełna) sobie popijam.
 Trzeci jest na tyle słaby, że nie ma sensu go zbierać.
-***
+
 ![prima sort]({{ site.baseurl }}/assets/images/krew13.jpg)
 
 ***
 Pracujący sprzęt do filtracji pod ciśnieniem zrobiony za 10 ziko.
-***
+
 
 {% include bezfilmik0.html id=page.youtubeId %}
 
 ***
 A po bez byłem motorkiem.
-***
+
 
 ![krzak bzu]({{ site.baseurl }}/assets/images/krew9.jpg)
 ![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
