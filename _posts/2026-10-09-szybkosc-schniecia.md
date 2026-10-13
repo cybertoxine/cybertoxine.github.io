@@ -6,10 +6,15 @@ categories: [len, sieciowanie olejów schnących, impregnacja papieru, lipofilow
 image: assets/images/len0.jpg
 tags: [featured]
 ---
-https://www.naturalpigments.eu/artist-materials/role-of-oil-painting-driers
 
-The synergistic influence of metal cations on the drying and viscosity of linseed oil assessed by means of model samples containing synthesised metal carboxylates.
-(S. Kirkpatrick, J. Sanyova, K. Janssens, G. Van der Snickt)
+"The Role of Oil Painting Driers: A Selection Guide for Artists"
+link: https://www.naturalpigments.eu/artist-materials/role-of-oil-painting-driers
+
+"The synergistic influence of metal cations on the drying and viscosity of linseed oil assessed by means of model samples containing synthesised metal carboxylates."
+link: https://www.researchgate.net/publication/381546245_The_synergistic_influence_of_metal_cations_on_the_drying_and_viscosity_of_linseed_oil_assessed_by_means_of_model_samples_containing_synthesised_metal_carboxylates
+
+"Review of the kinetics and simulations of linseed oil autoxidation."
+link: https://www.sciencedirect.com/science/article/pii/S0300944020312522
 
 ![saczek z mydlem]({{ site.baseurl }}/assets/images/len3.jpg)
 
