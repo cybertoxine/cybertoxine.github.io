@@ -56,9 +56,17 @@ Kolejne próby to:
 
 1 - 8.5g oleju lnianego + 1.5g dirycynolanu miedzi (bakteriobójcze i grzybobójcze właściwość miedzi dadzą odporność na wilgoć, super jakby okazało się, że próbka "schnnie" szybciej od gołego oleju).
 
-2 - z wapniem (jeszcze nie wiem ile)
+2 - 7.5g oleju lnianego + 1g dilaurynianu wapnia + 1.5g dirycynolanu miedzi
 
 3 - z manganem (jeszcze nie mam odpowiedniej soli)
+
+Kobalt rządzi. 1% kokosowego mydła na kobalcie w oleju lnianym powinno wystarczyć by już po 24h w temperaturze pokojowej do naniesionej powłoki nie kleił się kurz!
+
+Olej lniany dla koni chodzi po 13 zł za litr... Zależy mi na recepturze zawierającej miedź żeby mi grzyby nie jadły ściany w garażu.
+
+Kobalt jest potencjalnie rakotwórczy. W miejscu gdzie człowiek co chwilę ociera się o ścianę nie wydaje się to najlepszym wyborem. 
+
+BTW Olej lniany świetnie impregnuje karton.
 
 ![nowe mydła]({{ site.baseurl }}/assets/images/len8.jpg)
 
