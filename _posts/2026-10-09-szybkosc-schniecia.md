@@ -27,6 +27,8 @@ dilaurynian kobaltu - masa mola: 459.6g, masa mola kobaltu: 58.93g, (masa metalu
 
 dilaurynian niklu - masa mola: 457.3g, masa mola niklu: 58.69g, (masa metalu będzie stanowić około 0,128 masy mydła)
 
+próbka 0 - 20g oleju lnianego
+
 1 próbka - 20g oleju lnianego + 0.6g mydła żelazowego 
 
 2 próbka - 20g oleju lnianego + 0.4g mydła miedziowego
@@ -40,4 +42,23 @@ dilaurynian niklu - masa mola: 457.3g, masa mola niklu: 58.69g, (masa metalu bę
 ![pokryty karton]({{ site.baseurl }}/assets/images/len6.jpg)
 
 ![pozostalosc]({{ site.baseurl }}/assets/images/len7.jpg)
+
+Po 20 godzinach próbka 3 wyraźnie różniła się od reszty. Różnicy pomiędzy 1,2, 4 i 0 nie potrafiłem stwierdzić organoleptycznie.
+Chwilami miałem wrażenie, że 2 jest bardziej utwardzona od 0.
+
+Próbka z kobaltem mogła być dotykana bez brudzenia palca, różnica jest radykalna.
+
+Sporządzono 2 nowe mydła. Mydło miedziowe z oleju rycynowego i mydło wapniowe z oleju kokosowego. Głównymi składnikami tych mydeł są odpowiednio dirycynolan miedzi i dilaurynian wapnia.
+
+Masa mola dirycynolanu miedzi to aż 658.46 g (masa metalu to 0.096 masy tego mydła). Rycynolan powinien się ładnie rozpuszczać w oleju lnianym.
+
+Kolejne próby to:
+
+1 - 8.5g oleju lnianego + 1.5g dirycynolanu miedzi (bakteriobójcze i grzybobójcze właściwość miedzi dadzą odporność na wilgoć, super jakby okazało się, że próbka "schnnie" szybciej od gołego oleju).
+
+2 - z wapniem (jeszcze nie wiem ile)
+
+3 - z manganem (jeszcze nie mam odpowiedniej soli)
+
+![nowe mydła]({{ site.baseurl }}/assets/images/len8.jpg)
 
