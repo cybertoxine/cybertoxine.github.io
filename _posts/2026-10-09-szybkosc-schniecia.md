@@ -16,6 +16,9 @@ link: https://www.researchgate.net/publication/381546245_The_synergistic_influen
 "Review of the kinetics and simulations of linseed oil autoxidation."
 link: https://www.sciencedirect.com/science/article/pii/S0300944020312522
 
+"Copper Linoleate: A new low toxicity wide spectrum, heavy duty wood preservative."
+link: https://www.researchgate.net/publication/259098976_Copper_Linoleate_A_new_low_toxicity_wide_spectrum_heavy_duty_wood_preservative
+
 ![saczek z mydlem]({{ site.baseurl }}/assets/images/len3.jpg)
 
 ![suszenie mydla]({{ site.baseurl }}/assets/images/len4.jpg)
