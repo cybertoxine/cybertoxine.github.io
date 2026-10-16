@@ -6,18 +6,20 @@ categories: [len, sieciowanie olejów schnących, impregnacja papieru, lipofilow
 image: assets/images/len0.jpg
 tags: [featured]
 ---
+<a name="wstep"></a>
 
-"The Role of Oil Painting Driers: A Selection Guide for Artists"
-link: https://www.naturalpigments.eu/artist-materials/role-of-oil-painting-driers
+Wstęp:
 
-"The synergistic influence of metal cations on the drying and viscosity of linseed oil assessed by means of model samples containing synthesised metal carboxylates."
-link: https://www.researchgate.net/publication/381546245_The_synergistic_influence_of_metal_cations_on_the_drying_and_viscosity_of_linseed_oil_assessed_by_means_of_model_samples_containing_synthesised_metal_carboxylates
+xxxxxxx
 
-"Review of the kinetics and simulations of linseed oil autoxidation."
-link: https://www.sciencedirect.com/science/article/pii/S0300944020312522
+<a name="spis"></a>
 
-"Copper Linoleate: A new low toxicity wide spectrum, heavy duty wood preservative."
-link: https://www.researchgate.net/publication/259098976_Copper_Linoleate_A_new_low_toxicity_wide_spectrum_heavy_duty_wood_preservative
+## Spis treści:
+
+xxxxxxx
+
+
+## 12.10.2026:
 
 ![saczek z mydlem]({{ site.baseurl }}/assets/images/len3.jpg)
 
@@ -51,6 +53,8 @@ próbka 0 - 20g oleju lnianego
 
 ![pozostalosc]({{ site.baseurl }}/assets/images/len7.jpg)
 
+## 13.10.2026:
+
 Po 20 godzinach próbka 3 wyraźnie różniła się od reszty. Różnicy pomiędzy 1,2, 4 i 0 nie potrafiłem stwierdzić organoleptycznie.
 Chwilami miałem wrażenie, że 2 jest bardziej utwardzona od 0.
 
@@ -58,23 +62,73 @@ Próbka z kobaltem mogła być dotykana bez brudzenia palca, różnica jest rady
 
 Sporządzono 2 nowe mydła. Mydło miedziowe z oleju rycynowego i mydło wapniowe z oleju kokosowego. Głównymi składnikami tych mydeł są odpowiednio dirycynolan miedzi i dilaurynian wapnia.
 
+![nowe mydła]({{ site.baseurl }}/assets/images/len8.jpg)
+
 Masa mola dirycynolanu miedzi to aż 658.46 g (masa metalu to 0.096 masy tego mydła). Rycynolan powinien się ładnie rozpuszczać w oleju lnianym.
 
-Kolejne próby to:
+Do 8.5g oleju lnianego dodano 1.5g dirycynolanu miedzi (próbka 5). Składniki wymieszano na ciepło. Całość wylano na karton.
 
-1 - 8.5g oleju lnianego + 1.5g dirycynolanu miedzi (bakteriobójcze i grzybobójcze właściwość miedzi dadzą odporność na wilgoć, super jakby okazało się, że próbka "schnnie" szybciej od gołego oleju).
+## 14.10.2026:
 
-2 - 7.5g oleju lnianego + 1g dilaurynianu wapnia + 1.5g dirycynolanu miedzi
+![nowe mydła]({{ site.baseurl }}/assets/images/len13.jpg)
 
-3 - z manganem (jeszcze nie mam odpowiedniej soli)
+Dirycynolan miedzi coś słabo rozpuścił się w oleju lnianym. Spróbuję jeszcze dosuszyć tę sól.
 
-Kobalt rządzi. 1% kokosowego mydła na kobalcie w oleju lnianym powinno wystarczyć by już po 24h w temperaturze pokojowej do naniesionej powłoki nie kleił się kurz!
+Mieszanina (próbka 5) nadal płynna. Nie zauważyłem by konsystencja nałożonej warstwy zmieniła się w ciągu 24 h.
 
-Olej lniany dla koni chodzi po 13 zł za litr... Zależy mi na recepturze zawierającej miedź żeby mi grzyby nie jadły ściany w garażu.
+## 15.10.2026:
 
-Kobalt jest potencjalnie rakotwórczy. W miejscu gdzie człowiek co chwilę ociera się o ścianę nie wydaje się to najlepszym wyborem. 
+Postanowiłem przeprowadzić próbę z manganem.
 
-BTW Olej lniany świetnie impregnuje karton.
+Najpierw mydło wapniowe sporządzone z oleju kokosowego zalano 30% kwasem siarkowym. Roztwór podgrzewano i mieszano przez chwilę po czym odstawiono na kilkanaście minut.
 
-![nowe mydła]({{ site.baseurl }}/assets/images/len8.jpg)
+Do strzykawki zebrano górną warstwę zawierającą wolne kwasy tłuszczowe. (głownie nasycone o łańcuchu krótszym od 15).
+
+![strzykawka]({{ site.baseurl }}/assets/images/len11.jpg)
+
+100mg manganianu(VII) potasu zwilżono kwasami tłuszczowymi. Obok umieszczono trochę 85% gliceryny (kilka kropel) i resztę kwasów tłuszczowych.
+
+![strzykawka]({{ site.baseurl }}/assets/images/len15.jpg)
+
+Powoli i z wyczuciem ucierano manganian(VII) potasu mieszając jednocześnie 85% glicerynę i kwasy tłuszczowe. Pilnowano by temperatura mieszaniny zbytnio nie wzrosła.
+
+![ucieranie]({{ site.baseurl }}/assets/images/len14.jpg)
+
+Następnie do zimnej już "ucierki" dodawano porcjami olej lniany cały czas mieszając. Dodano tyle oleju lnianego by waga manganu w powstałej mieszaninie stanowiła 0.5% całości.
+
+Brązową mieszaninę (próbka 6) rozprowadzono na kawałku kartonu.
+
+![brazowa farba]({{ site.baseurl }}/assets/images/len10.jpg)
+
+## 16.10.2026:
+
+Po 20 godzinach w temperaturze pokojowej (próbka 6) była już "twarda w dotyku".
+
+![kartoniki]({{ site.baseurl }}/assets/images/len9.jpg)
+
+Wnioski: 
+
+1. W temperaturze pokojowej, na powietrzu, przydatną praktycznie zdolnością katalizowania reakcji sieciowania oleju lnianego charakteryzują się kobalt i mangan.
+2. W warunkach domowych, przy zastosowaniu oleju lnianego przeznaczonego dla zwierząt, jest możliwe sporządzenie farby olejnej albo impregnatu w cenie niższej niż 12zł za litr.
+3. Impregnowany "podrasowanym" olejem lnianym karton charakteryzuje się dobrymi cechami mechanicznymi i całkiem niezłą odpornością na wodę. Taki karton może pełnić rolę taniego i ekologicznego materiału konstrukcyjnego.
+
+## Warte polecenia prace powiązane z tematem:
+
+"The Role of Oil Painting Driers: A Selection Guide for Artists"
+link: https://www.naturalpigments.eu/artist-materials/role-of-oil-painting-driers
+
+"The synergistic influence of metal cations on the drying and viscosity of linseed oil assessed by means of model samples containing synthesised metal carboxylates."
+link: https://www.researchgate.net/publication/381546245_The_synergistic_influence_of_metal_cations_on_the_drying_and_viscosity_of_linseed_oil_assessed_by_means_of_model_samples_containing_synthesised_metal_carboxylates
+
+"Review of the kinetics and simulations of linseed oil autoxidation."
+link: https://www.sciencedirect.com/science/article/pii/S0300944020312522
+
+"Copper Linoleate: A new low toxicity wide spectrum, heavy duty wood preservative."
+link: https://www.researchgate.net/publication/259098976_Copper_Linoleate_A_new_low_toxicity_wide_spectrum_heavy_duty_wood_preservative
+
+
+
+
+
+
 
