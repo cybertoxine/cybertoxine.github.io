@@ -20,7 +20,7 @@ xxxxxxx
 2. Spis treści.[skocz](#spis)
 3. Warte polecenia prace związane z tematem.[skocz](#zero)
 4. Sporządzenie soli kobaltu, niklu, żelaza i miedzi z użyciem oleju kokosowego, rozpuszczenie ich w oleju lnianym i wykonanie 4 próbek.[skocz](#jeden)
-5. Oględziny próbek i wnioski. Sporządzenie soli miedzi z użyciem oleju rycynowego i soli wapnia z użyciem oleju kokosowego.[skocz](#dwa)
+5. Oględziny próbek i wnioski. Sporządzenie soli miedzi z użyciem oleju rycynowego oraz soli wapnia z użyciem oleju kokosowego.[skocz](#dwa)
 6. Opis wyniku próby 5 (z dirycynolanem miedzi).[skocz](#trzy)
 7. Próba 6 (z manganem). Opis bezpiecznego przeprowadzenia reakcji utleniania glicerolu manganianem(VII) potasu przy obecności wolnych kwasów tłuszczowych.[skocz](#cztery)
 8. Oględziny próbki 6. Wnioski, obserwacje i przemyślenia jakie poczyniono do tej pory.[skocz](#piec)
