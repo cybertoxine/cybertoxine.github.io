@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sprawdzenie aktywności katalitycznej soli metali przejściowych i kwasów tłuszczowych w reakcji oleju lnianego z powietrzem w temperaturze pokojowej."
+title:  "Sprawdzenie aktywności katalitycznej soli metali przejściowych z kwasami tłuszczowymi w reakcji oleju lnianego z powietrzem w temperaturze pokojowej."
 author: MF
 categories: [len, sieciowanie olejów schnących, impregnacja papieru, lipofilowe sole metali, chemia związków metaloorganicznych ]
 image: assets/images/len0.jpg
