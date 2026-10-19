@@ -19,11 +19,27 @@ xxxxxxx
 1. Wstęp[skocz](#wstep)
 2. Spis treści.[skocz](#spis)
 3. Warte polecenia prace związane z tematem.[skocz](#zero)
-4. Sporządzenie soli kobaltu, niklu, żelaza i miedzi z użyciem oleju kokosowego, rozpuszczenie ich w oleju lnianym i wykonanie 4 próbek.[skocz](#jeden)
-5. Oględziny próbek i wnioski. Sporządzenie soli miedzi z użyciem oleju rycynowego oraz soli wapnia z użyciem oleju kokosowego.[skocz](#dwa)
-6. Opis wyniku próby 5 (z dirycynolanem miedzi).[skocz](#trzy)
-7. Próba 6 (z manganem). Opis bezpiecznego przeprowadzenia reakcji utleniania glicerolu manganianem(VII) potasu przy obecności wolnych kwasów tłuszczowych.[skocz](#cztery)
-8. Oględziny próbki 6. Wnioski, obserwacje i przemyślenia jakie poczyniono do tej pory.[skocz](#piec)
+4. 12.10.2026 Sporządzenie soli kobaltu, niklu, żelaza i miedzi z użyciem oleju kokosowego, rozpuszczenie ich w oleju lnianym i wykonanie 4 próbek.[skocz](#jeden)
+5. 13.10.2026 Oględziny próbek i wnioski. Sporządzenie soli miedzi z użyciem oleju rycynowego oraz soli wapnia z użyciem oleju kokosowego.[skocz](#dwa)
+6. 14.10.2026 Opis wyniku próby 5 (z dirycynolanem miedzi).[skocz](#trzy)
+7. 15.10.2026 Próba 6 (z manganem). Opis bezpiecznego przeprowadzenia reakcji utleniania glicerolu manganianem(VII) potasu przy obecności wolnych kwasów tłuszczowych.[skocz](#cztery)
+8. 16.10.2026 Oględziny próbki 6. Wnioski, obserwacje i przemyślenia jakie poczyniono do tej pory.[skocz](#piec)
+9. 19.10.2026 Mieszanka miedziowo-manganowa.[skocz](#szesc)
+
+
+<a name="szesc"></a>
+
+## 19.10.2026:
+
+Wypróbowano recepturę farby (próbka 7) przeznaczonej do wnętrz, nie zawierającej składników toksycznych dla ludzi. Dzięki dużej zawartości miedzi farba jest mało apetyczna dla grzybów, bakterii, gryzoni i robaków.
+Katalizator sporządzono tak jak to opisano przy we wpisie z 15.10.2026. 7% masy mieszaniny stanowi mydło miedziowe z oleju kokosowego. Mangan to 0.5% masy farby.
+
+![probka z manganem i miedzia]({{ site.baseurl }}/assets/images/len16.jpg)
+
+Farba w modnym ostatnio kolorze ;-). Bardziej wesołe kolory są do uzyskania z użyciem kobaltu. Kolor roztwóru mydła kobaltowego (próbka 3) był bardzo lekko zmieniony w stosunku do koloru czystego oleju.
+Kobalt podejrzewa się o działanie rakotwórcze u ludzi. Pył powstały z ścierającej się farby trafiałby do płuc dlatego w zastosowaniach "do środka" lepiej użyć manganu.
+
+[skocz do spisu treści](#spis)
 
 <a name="piec"></a>
 
