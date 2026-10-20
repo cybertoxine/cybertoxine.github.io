@@ -29,6 +29,21 @@ xxxxxxx
 
 <a name="szesc"></a>
 
+## 20.10.2026:
+
+Minęło 20 h w temperaturze 15 - 20 st. C. Próbka 7 wygląda tak:
+
+![probka z manganem i miedzia]({{ site.baseurl }}/assets/images/len17.jpg)
+
+Można dotykać palcem bez brudzenia go (bez brudzenia palca ;-)). Matowa, szorstka powierzchnia w kolorze ruskiego czołgu. Farba z mydłem miedziowym przypomina smar - chłonne podłoża wyciągają z niej olej pozostawiając więcej mydła na powierzchni. Ani to dobrze ani źle - zależy jaki jest cel "malarza". Do impregnacji kartonu dobrze.
+
+Widzę potencjał do dalszego obniżenia kosztu powłoki z zachowaniem albo nawet polepszeniem porządanych parametrów. Zastanawiam się nad dodatkiem bentonitu, zastanawiam się też nad drobinami CaCO3 opłaszczonymi łańcuchami alkilowymi (struktura taka jak smarów z kompleksem sulfonianu wapnia). Koszt obu wypełniaczy znacznie mniejszy od kosztu oleju lnianego dla koni jednak rozdrobnienie do odpowiedniego poziomu to dodatkowy czas, zużyta energia i popsucie młynka do kawy. Z ciekawości i dla samego osiągnięcia polegającego na zejściu z kosztem farby do 9 ziko za L, wykonam test z miedzią, manganem i bentonitem (czyli, że z piaskiem do którego sikają koty - próbka 8) oraz miedzią, manganemi i CaCO3 (czyli, że z kredą - próbka 9). 
+
+[skocz do spisu treści](#spis)
+
+
+<a name="szesc"></a>
+
 ## 19.10.2026:
 
 Wypróbowano recepturę farby (próbka 7) przeznaczonej do wnętrz, nie zawierającej składników toksycznych dla ludzi. Dzięki dużej zawartości miedzi farba jest mało apetyczna dla grzybów, bakterii, gryzoni i robaków.
