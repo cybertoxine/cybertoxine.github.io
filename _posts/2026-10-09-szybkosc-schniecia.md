@@ -16,18 +16,20 @@ xxxxxxx
 
 ## Spis treści:
 
-1. Wstęp[skocz](#wstep)
-2. Spis treści.[skocz](#spis)
-3. Warte polecenia prace związane z tematem.[skocz](#zero)
-4. 12.10.2026 Sporządzenie soli kobaltu, niklu, żelaza i miedzi z użyciem oleju kokosowego, rozpuszczenie ich w oleju lnianym i wykonanie 4 próbek.[skocz](#jeden)
-5. 13.10.2026 Oględziny próbek i wnioski. Sporządzenie soli miedzi z użyciem oleju rycynowego oraz soli wapnia z użyciem oleju kokosowego.[skocz](#dwa)
-6. 14.10.2026 Opis wyniku próby 5 (z dirycynolanem miedzi).[skocz](#trzy)
-7. 15.10.2026 Próba 6 (z manganem). Opis bezpiecznego przeprowadzenia reakcji utleniania glicerolu manganianem(VII) potasu przy obecności wolnych kwasów tłuszczowych.[skocz](#cztery)
-8. 16.10.2026 Oględziny próbki 6. Wnioski, obserwacje i przemyślenia jakie poczyniono do tej pory.[skocz](#piec)
-9. 19.10.2026 Mieszanka miedziowo-manganowa.[skocz](#szesc)
+1. Wstęp. [skocz](#wstep)
+2. Spis treści. [skocz](#spis)
+3. Warte polecenia prace związane z tematem. [skocz](#zero)
+4. 12.10.2026 Sporządzenie soli kobaltu, niklu, żelaza i miedzi z użyciem oleju kokosowego, rozpuszczenie ich w oleju lnianym i wykonanie 4 próbek. [skocz](#jeden)
+5. 13.10.2026 Oględziny próbek i wnioski. Sporządzenie soli miedzi z użyciem oleju rycynowego oraz soli wapnia z użyciem oleju kokosowego. [skocz](#dwa)
+6. 14.10.2026 Opis wyniku próby 5 (z dirycynolanem miedzi). [skocz](#trzy)
+7. 15.10.2026 Próba 6 (z manganem). Opis bezpiecznego przeprowadzenia reakcji utleniania glicerolu manganianem(VII) potasu przy obecności wolnych kwasów tłuszczowych. [skocz](#cztery)
+8. 16.10.2026 Oględziny próbki 6. Wnioski, obserwacje i przemyślenia jakie poczyniono do tej pory. [skocz](#piec)
+9. 19.10.2026 Mieszanka miedziowo-manganowa. [skocz](#szesc)
+10. 20.10.2026 Dotykanie próbki 7 i pomysł na zejście z kosztem do 9 ziko / L. [skocz](#siedem)
 
 
-<a name="szesc"></a>
+
+<a name="siedem"></a>
 
 ## 20.10.2026:
 
