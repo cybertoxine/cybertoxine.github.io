@@ -26,7 +26,46 @@ xxxxxxx
 8. 16.10.2026 Oględziny próbki 6. Wnioski, obserwacje i przemyślenia jakie poczyniono do tej pory. [skocz](#piec)
 9. 19.10.2026 Mieszanka miedziowo-manganowa. [skocz](#szesc)
 10. 20.10.2026 Dotykanie próbki 7 i pomysł na zejście z kosztem do 9 ziko / L. [skocz](#siedem)
+11. 21.10.2026 Sporządzenie próbek z wypełniaczem. Sprawdzenie jak zachowuje się bentonit i węglan wapnia. [skocz](#osiem)
+12. 22.10.2026 Praktyczne wykorzystanie zdobytej wiedzy. Ekonomiczna farba olejna na wewnętrzne ściany wolnostojącego garażu (próbka 10). [skocz](#dziewiec)
 
+
+<a name="dziewiec"></a>
+
+## 22.10.2026:
+
+![reakcja]({{ site.baseurl }}/assets/images/len28.jpg)
+
+![odwazone reagenty]({{ site.baseurl }}/assets/images/len27.jpg)
+
+![pasta]({{ site.baseurl }}/assets/images/len26.jpg)
+
+![pasta z olejem]({{ site.baseurl }}/assets/images/len25.jpg)
+
+![rozne podloza]({{ site.baseurl }}/assets/images/len24.jpg)
+
+
+[skocz do spisu treści](#spis)
+
+
+<a name="osiem"></a>
+
+## 21.10.2026:
+
+![odwazanie rycynolanu]({{ site.baseurl }}/assets/images/len23.jpg)
+
+![w mlynku]({{ site.baseurl }}/assets/images/len22.jpg)
+
+![dwie zawiesiny ]({{ site.baseurl }}/assets/images/len21.jpg)
+
+![nowe probki]({{ site.baseurl }}/assets/images/len20.jpg)
+
+![z weglanem]({{ site.baseurl }}/assets/images/len19.jpg)
+
+![z bentonitem]({{ site.baseurl }}/assets/images/len18.jpg)
+
+
+[skocz do spisu treści](#spis)
 
 
 <a name="siedem"></a>
@@ -39,7 +78,7 @@ Minęło 20 h w temperaturze 15 - 20 st. C. Próbka 7 wygląda tak:
 
 Można dotykać palcem bez brudzenia go (bez brudzenia palca ;-)). Matowa, szorstka powierzchnia w kolorze ruskiego czołgu. Farba z mydłem miedziowym przypomina smar - chłonne podłoża wyciągają z niej olej pozostawiając więcej mydła na powierzchni. Ani to dobrze ani źle - zależy jaki jest cel "malarza". Do impregnacji kartonu dobrze.
 
-Widzę potencjał do dalszego obniżenia kosztu powłoki z zachowaniem albo nawet polepszeniem porządanych parametrów. Zastanawiam się nad dodatkiem bentonitu, zastanawiam się też nad drobinami CaCO3 opłaszczonymi łańcuchami alkilowymi (struktura taka jak smarów z kompleksem sulfonianu wapnia). Koszt obu wypełniaczy znacznie mniejszy od kosztu oleju lnianego dla koni jednak rozdrobnienie do odpowiedniego poziomu to dodatkowy czas, zużyta energia i popsucie młynka do kawy. Z ciekawości i dla samego osiągnięcia polegającego na zejściu z kosztem farby do 9 ziko za L, wykonam test z miedzią, manganem i bentonitem (czyli, że z piaskiem do którego sikają koty - próbka 8) oraz miedzią, manganemi i CaCO3 (czyli, że z kredą - próbka 9). 
+Widzę potencjał do dalszego obniżenia kosztu powłoki z zachowaniem albo nawet polepszeniem porządanych parametrów. Zastanawiam się nad dodatkiem bentonitu, zastanawiam się też nad drobinami CaCO3 opłaszczonymi łańcuchami alkilowymi (struktura taka jak smarów z kompleksem sulfonianu wapnia). Koszt obu wypełniaczy znacznie mniejszy od kosztu oleju lnianego dla koni jednak rozdrobnienie do odpowiedniego poziomu to dodatkowy czas, zużyta energia i popsucie młynka do kawy. Z ciekawości i dla samego osiągnięcia polegającego na zejściu z kosztem farby do 9 ziko za L, wykonam test z miedzią, manganem i bentonitem (czyli, że z piaskiem do którego sikają koty - próbka 8) oraz miedzią, manganem i CaCO3 (czyli, że z kredą - próbka 9). 
 
 [skocz do spisu treści](#spis)
 
