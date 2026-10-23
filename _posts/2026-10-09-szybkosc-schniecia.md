@@ -34,16 +34,30 @@ xxxxxxx
 
 ## 22.10.2026:
 
+Sporządzenie zadowalająco trwałej zawiesiny węglanu wapnia w oleju jest łatwe. 
+
 ![reakcja]({{ site.baseurl }}/assets/images/len28.jpg)
+
+Oprócz działania przeciwdrobnoustrojowego, roli pigmentu i rozpuszczalnika w reakcji "opłaszczania" rycynolan miedzi korzytnie zmienia konsystencję farby. Farba tak nie płynie, jest lekko żelowa.
+Prawdopodobnie zachodzi tutaj efekt jak w smarach zagęszczanych mydłami - mydło tworzy w nich trójwymiarową sieć, rodzaj "gąbki" w którą wsiąka olej.
+
+Rycynolan, kwas i węglan energicznie zmieszałem na ciepło. Węglan był już drobno zmielony więc mieszałem bez rozcierania. Węglan wapnia w skali Mohsa ma twardość 3 więc z rozdrabnianiem nie ma problemu.
 
 ![odwazone reagenty]({{ site.baseurl }}/assets/images/len27.jpg)
 
+Wyszła z tego taka ładna pasta:
+
 ![pasta]({{ site.baseurl }}/assets/images/len26.jpg)
+
+Do ciepłej pasty dodawałem porcjami olej. Na końcu dodano katalizator. Oczywiście to wszystko było dokładnie mieszane.
 
 ![pasta z olejem]({{ site.baseurl }}/assets/images/len25.jpg)
 
+Farbę (próbka 10) rozprowadziłem na 3 podłoża. Bardzo chłonne (jakaś sklejka), średno chłonne (karton, ten z tych bardziej zbitych) i o zerowej chłonności (gruba folia EVA).
+
 ![rozne podloza]({{ site.baseurl }}/assets/images/len24.jpg)
 
+Skład farby to 30g węglanu wapnia + 4.5g mydła miedziowego wytworzonego z oleju rycynowego + 5.5g mieszaniny kwasów tłuszczowych z oleju kokosowego + 40g oleju lnianego. Wcześniej posługiwałem się nazwami pojedynczych związków chemicznych dla jasności przekazu. Naturalne oleje są mieszaninami różnych kwasów tłuszczowych połączonych wiązaniem estrowym z glicerolem. Węglan wapnia miałęm o czystości 98%+. Katalizatora dodałem tyle by zawartość manganu w odniesieniu do wagi oleju lnianego wynosiła 0.1% licząc się z powolnym "schnięciem" takiej mieszanki. Tmperatura otoczenia w momencie odkładania pomalowanych materiałów wynosiła 18 st. C.
 
 [skocz do spisu treści](#spis)
 
