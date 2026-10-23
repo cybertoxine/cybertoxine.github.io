@@ -10,7 +10,14 @@ tags: [featured]
 
 Wstęp:
 
-xxxxxxx
+Wystarczy kilku pośredników, podwyższone ostatnio koszty transportu, VAT i...ceny farb olejnych sięgają absurdalnych wartości. Za normalną najtańsza emalię olejno-ftalowa w dużych puszkach trzeba obecnie zapłacić około 30 zł / L przy zakupie 10 L puszki. Tymczasem świeżo wyciśnięty olej lniany przeznaczony do karmienia zwierząt można kupić w cenie 12zł / L. Jeśli użyjemy wypełniacza w postaci zmielonej kredy i poświęcimy nieco czasu (naprawdę mało!) na operacje laboratoryjne to będziemy mieć farbę za 9 zł / L. Dla kogoś kogo celem jest pomalowanie ścian w budynku gospodarczym samodzielne wykonanie farby przyniesie istotne oszczędności. Stosując trick polegający na dodaniu soli miedzi zabezpieczymy jednocześnie ściany przed atakiem głodnego grzyba.
+
+Powłoki na bazie olejów "schnących" (piszę w cudzysłowie ponieważ te oleje nie schną tylko dochodzi do polimeryzacji) to nic nowego. Technologia jest znana i dobrze opisana. Obrazy malowane na płótnie stanowią źródło niezliczonych próbek dzięki którym można określić wpływ różnych dodatków na trwałość i inne właściwości farb olejnych.
+
+Czysty olej lniany "schnie" bezsensownie powoli dlatego dodaje się do niego katalizatory by szybciej reagował z tlenem z powietrza. Kiedyś powszechnie stosowano tlenek ołowiu jednak obecnie wiadomo o toksyczności tej substancji i już się tego nie robi. Sole kobaltu, jak się przekonałem, są niesamowicie aktywne. Po 30 minutach od nałożenia na karton oleju lnianego zaprawionego kobaltem temperatura kartonu wzrosła o kilka st. C. a po 20 godzinach przy temperaturze otoczenia wynoszącej 18 st. C. powłoka była już sztywna w dotyku! Niestety sole kobaltu podejrzewa się o działanie rakotwórcze. Ponoć odnotowano większą częstość występowania nowotworów płuc u osób zajmujących się przeróbką rud kobaltu. Mangan z tego co zaobserwowałem jest mniej aktywny od kobaltu i dość mocno barwi olej na brązowo. Jeśli farba na drugi dzień miałaby już nie brudzić rąk przy dotykaniu jej to, niestety, musi być w odcieniu brązu. Mangan w takiej postaci i w takim stężeniu jakie występuje w farbie uważa się za bezpieczny dla zdrowia.
+
+Na samym dole wpisu podlinkowałem kilka prac. Po przeczytniu ich posiądzie się wiedzę wystarczającą do rozpoczęcia projektowania formulacji dostosowanych do własnych potrzeb. U mnie zaistniała potrzeba pomalowania wewnętrznych ścian w wolnostojącym garażu.
+
 
 <a name="spis"></a>
 
