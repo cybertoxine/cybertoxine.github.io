@@ -64,7 +64,10 @@ Farbę (próbka 10) rozprowadziłem na 3 podłoża. Bardzo chłonne (jakaś skle
 
 ![rozne podloza]({{ site.baseurl }}/assets/images/len24.jpg)
 
-Skład farby to 30g węglanu wapnia + 4.5g mydła miedziowego wytworzonego z oleju rycynowego + 5.5g mieszaniny kwasów tłuszczowych z oleju kokosowego + 40g oleju lnianego. Wcześniej posługiwałem się nazwami pojedynczych związków chemicznych dla jasności przekazu. Naturalne oleje są mieszaninami różnych kwasów tłuszczowych połączonych wiązaniem estrowym z glicerolem. Węglan wapnia miałęm o czystości 98%+. Katalizatora dodałem tyle by zawartość manganu w odniesieniu do wagi oleju lnianego wynosiła 0.1% licząc się z powolnym "schnięciem" takiej mieszanki. Tmperatura otoczenia w momencie odkładania pomalowanych materiałów wynosiła 18 st. C.
+Skład farby to 30g węglanu wapnia + 4.5g mydła miedziowego wytworzonego z oleju rycynowego + 5.5g mieszaniny kwasów tłuszczowych z oleju kokosowego + 40g oleju lnianego. Wcześniej posługiwałem się nazwami pojedynczych związków chemicznych dla jasności przekazu. Naturalne oleje są mieszaninami różnych kwasów tłuszczowych połączonych wiązaniem estrowym z glicerolem. Węglan wapnia miałem o czystości 98%+. Katalizatora dodałem tyle by zawartość manganu w odniesieniu do wagi oleju lnianego wynosiła 0.1% licząc się z powolnym "schnięciem" takiej mieszanki. Temperatura otoczenia w momencie odkładania pomalowanych materiałów wynosiła 18 st. C.
+
+Wczoraj wylane na karton próbki 8 i 9 można było bezpobrudzeniowo dotykać.
+
 
 [skocz do spisu treści](#spis)
 
@@ -73,17 +76,31 @@ Skład farby to 30g węglanu wapnia + 4.5g mydła miedziowego wytworzonego z ole
 
 ## 21.10.2026:
 
+Tym razem porządnie wysuszyłem rycynolan miedzi, przekrystalizowałem go i stopiłem. Z powodu obecności grup -OH ta sól mniej od laurynianu nie lubi wody.
+
 ![odwazanie rycynolanu]({{ site.baseurl }}/assets/images/len23.jpg)
+
+Wrzuciłem CaCO3, rycynolan i kwas laurynowy do młynka, podlałem etanolem i zmieliłem. Po zalaniu podłogi, rąk i młynka stwierdziłem, że następnym razem stopię to po prostu (bez etanolu i mielenia).
 
 ![w mlynku]({{ site.baseurl }}/assets/images/len22.jpg)
 
+Później oddzielnie zmieliłem bentonit. Oba produkty przemiału zalałem olejem, przemieszałem i odstawiłem na godzinkę by sprawdzić jak szybko drobiny opadają.
+
 ![dwie zawiesiny ]({{ site.baseurl }}/assets/images/len21.jpg)
+
+Próbkę 8 i 9 przeniosłem na karton.
 
 ![nowe probki]({{ site.baseurl }}/assets/images/len20.jpg)
 
+Olej z próbki 9 szybko wsiąkał w karton pozostawiając wypełniacz na powierzchni kartonu.
+
 ![z weglanem]({{ site.baseurl }}/assets/images/len19.jpg)
 
+Tak samo z próbką 8. Mogłem do tych próbek wsadzić wężyk ze sprężonym powietrzem i "przebombelkować" je trochę w celu zagęszczenia przed rozlaniem na kartony. Żwirek dla kotów zawierał jakiś twardy piach.
+
 ![z bentonitem]({{ site.baseurl }}/assets/images/len18.jpg)
+
+Farby olejne tego typu łatwo i szybko doprowadza się do porządanej konsystencji przepuszczając powietrze przez gorący płyn.
 
 
 [skocz do spisu treści](#spis)
