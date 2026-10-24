@@ -39,7 +39,23 @@ Na samym dole wpisu podlinkowałem kilka prac. Po przeczytniu ich posiądzie si�
 
 <a name="dziewiec"></a>
 
-## 22.10.2026:
+## 24.10.2026:
+
+Po 2 dniach próbka 10 wylana na kartonie sklejce i folii mogła być palcowana bezpobrudzeniowo. W porównaniu do próbek zawierających 0.5 % Mn potrzebowała podwojnego okresu czasu by stężeć do takiego samego poziomu.
+
+Kilka zdjęć mikroskopowych:
+
+pr 10 folia EVA
+
+![p10]({{ site.baseurl }}/assets/images/len34.jpg)
+
+pr10 karton
+
+![p10]({{ site.baseurl }}/assets/images/len33.jpg)
+
+pr 8 karton
+
+![p9]({{ site.baseurl }}/assets/images/len32.jpg)
 
 pr 7 karton
 
