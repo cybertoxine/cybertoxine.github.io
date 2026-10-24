@@ -41,7 +41,7 @@ Na samym dole wpisu podlinkowałem kilka prac. Po przeczytniu ich posiądzie si�
 
 ## 24.10.2026:
 
-Po 2 dniach próbka 10 wylana na kartonie sklejce i folii mogła być palcowana bezpobrudzeniowo. W porównaniu do próbek zawierających 0.5 % Mn potrzebowała podwojnego okresu czasu by stężeć do takiego samego poziomu. Jestem ciekaw jak dziesiątka będzie wyglądała za tydzień. BTW Próbka 3 to punkt wyjścia dla świetnego impregnatu do kartonu!
+Po 2 dniach próbka nr 10 wylana na kartonie, sklejce i folii mogła być palcowana bezpobrudzeniowo. W porównaniu do próbek zawierających 0.5 % Mn potrzebowała podwojonego okresu czasu by stężeć do takiego samego stopnia. Jestem ciekaw jak dziesiątka będzie wyglądała za tydzień. BTW Próbka 3 to punkt wyjścia dla świetnego impregnatu do kartonu!
 
 ![wystawa]({{ site.baseurl }}/assets/images/len35.jpg)
 
