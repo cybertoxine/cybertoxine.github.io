@@ -35,7 +35,26 @@ Na samym dole wpisu podlinkowałem kilka prac. Po przeczytniu ich posiądzie si�
 10. 20.10.2026 Dotykanie próbki 7 i pomysł na zejście z kosztem do 9 ziko / L. [skocz](#siedem)
 11. 21.10.2026 Sporządzenie próbek z wypełniaczem. Sprawdzenie jak zachowuje się bentonit i węglan wapnia. [skocz](#osiem)
 12. 22.10.2026 Praktyczne wykorzystanie zdobytej wiedzy. Ekonomiczna farba olejna na wewnętrzne ściany wolnostojącego garażu (próbka 10). [skocz](#dziewiec)
+13. 24.10.2026 Dotykanie próbki 10, zdjęcia mikroskopowe. [skocz](#dziesiec)
 
+<a name="dziewiec"></a>
+
+## 22.10.2026:
+
+pr 7 karton
+
+![p7]({{ site.baseurl }}/assets/images/len31.jpg)
+
+pr 3 karton
+
+![p3]({{ site.baseurl }}/assets/images/len29.jpg)
+
+pr 6 karton
+
+![p6]({{ site.baseurl }}/assets/images/len30.jpg)
+
+
+[skocz do spisu treści](#spis)
 
 <a name="dziewiec"></a>
 
