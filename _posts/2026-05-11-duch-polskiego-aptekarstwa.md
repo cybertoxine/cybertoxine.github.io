@@ -30,13 +30,23 @@ Spis treści:
 
 11.05.2026 - Wstęp + dygresja. [skocz](#zero) 
 
-01.07.2026 - O sterowniku, listing kodu źródłowego, o planie porównania kodu wynikowego z BASCOMA do tego z GCBASIC.[skocz](#jeden) 
+01.07.2026 - O sterowniku, listing kodu źródłowego, o planie porównania kodu wynikowego z BASCOMA do tego z GCBASIC. [skocz](#jeden) 
 
-03.07.2026 - Uruchomienie po drobnych poprawkach.[skocz](#dwa) 
+03.07.2026 - Uruchomienie po drobnych poprawkach. [skocz](#dwa) 
 
-08.07.2026 - Uszczelnienie boczne i kocia antykoncepcja.[skocz](#trzy) 
+08.07.2026 - Uszczelnienie boczne i kocia antykoncepcja. [skocz](#trzy) 
 
-16.07.2026 - Udane przywołanie Ducha Polskiego Aptekarstwa.[skocz](#cztery) 
+16.07.2026 - Udane przywołanie Ducha Polskiego Aptekarstwa. [skocz](#cztery) 
+
+25.10.2026 - Dołożenie drugiej chłodnicy. [skocz](#piec) 
+
+<a name="piec"></a>
+### 25.10.2026
+Teraz zdolność skraplacza do pobierania ciepła od par, przy skraplaniu wody, dzięki obniżeniu temperatury chłodziwa, przy pracy ciągłej, przekracza 1kW! Cienkościenna rurka ze stali nierdzewnej umieszczona w płaszczu wodnym ma 43cm i średnicę zewnętrzną wynoszącą 5mm czyli powierzchnia przez którą następuje transfer ciepła to zaledwie 67 cm2. Wychodzi 15W na cm2. Rurka jest prosta więc łatwo ją udrożnić/wyczyścić/zajrzeć do środka. Woda w płaszczu oprócz przesuwania się w górę cyrkuluje zataczając okręgi dookoła rurki. Cienkościenna metalowa rurka + cyrkulacja szybko przemieszczającego się chłodziwa skutkują rewelacyjnym stosunkiem wydajności do rozmiaru maszynki.
+
+![next cooler]({{ site.baseurl }}/assets/images/cool2.jpg)
+
+[skocz do spisu treści](#spis)
 
 <a name="cztery"></a>
 ### 16.07.2026
