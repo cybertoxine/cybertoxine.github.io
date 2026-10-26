@@ -47,27 +47,27 @@ Po 2 dniach próbka nr 10 wylana na kartonie, sklejce i folii mogła być palcow
 
 Kilka zdjęć mikroskopowych:
 
-pr 10 folia EVA
+Próbka 10 (na folii z EVA) - Widać doskonałe rozproszenie wypełniacza w matrycy. Proporcja wagowa węglanu wapnia do oleju lnianego wynosi tutaj 3:4. Myślę, że w przypadku podłoży niechłonnych optymalna byłaby proporcja 6:4.
 
 ![p10]({{ site.baseurl }}/assets/images/len34.jpg)
 
-pr10 karton
+Próbka 10 (karton) - W przypadku kartonu proporcja węglanu wapnia do oleju lnianego wygląda na optymalną.
 
 ![p10]({{ site.baseurl }}/assets/images/len33.jpg)
 
-pr 8 karton
+Próbka 8 (karton) - Z bentonitem coś by się dało zrobić ale najpierw to go trzeba przesiać po zmieleniu.
 
 ![p9]({{ site.baseurl }}/assets/images/len32.jpg)
 
-pr 7 karton
+Próbka 7 (karton) - Widać, że rozpuszczalność laurynianu miedzi nie jest dobra. Rozproszenie słabe. Możliwe, że ucieranie w niskiej temperaturze coś by tu pomogło.
 
 ![p7]({{ site.baseurl }}/assets/images/len31.jpg)
 
-pr 3 karton
+Próbka 3 (karton) - Kobalt lubi cienkie powłoki i praktycznie nie barwi oleju w stężeniu w którym wykazuje wystarczającą aktywność. Próbka w dotyku jest twarda i gładka. Ciekawe jak powłoki z kobaltem zachowywałyby się po wystawieniu na pełne słońce, jaka jest ich trwałość w naszym klimacie przy zastosowaniu na zewnątrz.
 
 ![p3]({{ site.baseurl }}/assets/images/len29.jpg)
 
-pr 6 karton
+Próbka 6 (karton)  - Widać kawałki czarnego tlenku manganu(IV).
 
 ![p6]({{ site.baseurl }}/assets/images/len30.jpg)
 
