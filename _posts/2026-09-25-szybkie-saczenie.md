@@ -69,7 +69,9 @@ Dosypałem cukru pod kurek...
 
 ![koniec]({{ site.baseurl }}/assets/images/bzz0.jpg)
 
-Po skoncentrowaniu soku ilość cukru niezbędnego do zapewnienia trwałości mikrobiologicznej jest na tyle mała, że nie psuje ona walorów smakowych sporządzanych napojów.
+Po skoncentrowaniu soku ilość cukru niezbędnego do zapewnienia trwałości mikrobiologicznej jest na tyle mała, że nie psuje ona walorów smakowych sporządzanych napojów. 
+W przemyśle roztwory zawierające powyżej 64% sacharozy uznaje się za mikrobiologicznie stabilne. 
+Do koncentratów soków sacharozy można dać mniej ponieważ już same składniki koncentratu wykazują znaczne ciśnienie osmotyczne.
 
 [skocz do spisu treści](#spis) 
 
@@ -143,6 +145,4 @@ A po bez byłem motorkiem.
 
 [skocz do spisu treści](#spis) 
 
-
-[skocz do spisu treści](#spis)
 
