@@ -26,16 +26,55 @@ Dlaczego warto poświęcić czas na obróbkę czarnego bzu?
 Około 24% suchej masy nasion stanowi olej https://www.sciencedirect.com/science/article/abs/pii/S0308814624034083. Dla porównania w uprawianych gatunkach rzepaku procentowa zawartość oleju w nasionach to około 43%. Rzut oka na profil tłuszczów występujących w obu olejach wystarczy by wyłonić zwycięzcę - zimnotłoczony olej z nasion bzu deklasyfikuje konkurenta. Ciekawe jak wyglądałaby wydajność z hektara.
 
 <a name="spis"></a>
+
 Spis treści:
 
 25.09.2026 - Wstęp. Dlaczego warto? Jakie atrakcje ukryte są w niepozornym krzewie Sambucus nigra L. ? [skocz](#zero) 
 
 28.09.2026 - Ilustrowana opowieść o sokowyciskarce za 10 ziko. [skocz](#jeden) 
 
-??.??.???? - ...piszę...
+27.10.2026 - Koncentrowanie bziej mocy. [skocz](#dwa) 
+
+<a name="dwa"></a>
+### 27.10.2026
+***
+Zestawiono aparaturę do destylacji pod zmniejszonym ciśnieniem.
+
+![proznia]({{ site.baseurl }}/assets/images/bzz5.jpg)
+
+Do zbiornika ze szkła borokrzemowego ustawionego na płycie grzejnej firmy ELDOM SCIENTIFIC nalano nierozcieńczonego soku z bzu i uruchomiono aparaturę.
+
+![nalewanie]({{ site.baseurl }}/assets/images/bzz6.jpg)
+
+Pierwotnie cieczy było tyle:
+
+![ile bylo]({{ site.baseurl }}/assets/images/bzz4.jpg)
+
+A na końcu tyle:
+
+![ile bylo]({{ site.baseurl }}/assets/images/bzz3.jpg)
+
+Temperatura soku oscylowała wokół 65 st. C. Gdy objętość zmalała około dwukrotnie wrzenie zaczęło zachodzić bużliwie oraz dało się zauważyć, że pojawia się osad na dnie.
+Gdy sok "strzelił" na tyle mocno, że kilka kropel wpadło do rury ssącej zatrzymałem proces by uniknąć strat materiału.
+
+Zlałem zawartość zbiornika do słoiczka. Po lewej stronie widać ile wody usunięto z soku. Na oko to lekko ponad połowa objętości koncentratu.
+
+![ile odciagnieto]({{ site.baseurl }}/assets/images/bzz2.jpg)
+
+Dosypałem cukru pod kurek...
+
+![po dodaniu cukru]({{ site.baseurl }}/assets/images/bzz1.jpg)
+
+... i mam produkt trwały w temperaturze pokojowej.
+
+![koniec]({{ site.baseurl }}/assets/images/bzz0.jpg)
+
+Po skoncentrowaniu soku ilość cukru niezbędnego do zapewnienia trwałości mikrobiologicznej jest na tyle mała, że nie psuje ona walorów smakowych sporządzanych napojów.
+
+[skocz do spisu treści](#spis) 
 
 <a name="jeden"></a>
-### 16.07.2026
+### 28.09.2026
 ***
 W 1 litrowej butelce z PET nawiercono otwory wiertłem 1mm.
 Obroty były ustalone na większe niż niezbędne do przewiercenia po to by brzegi się nadtopiły.
@@ -101,6 +140,8 @@ A po bez byłem motorkiem.
 ![pełny bagażnik]({{ site.baseurl }}/assets/images/krew10.jpg)
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
+
+[skocz do spisu treści](#spis) 
 
 
 [skocz do spisu treści](#spis)
