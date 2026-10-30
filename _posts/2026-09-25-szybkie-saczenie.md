@@ -23,7 +23,9 @@ Zatem efektem pracy będzie wartościowy produkt roślinny, który oprócz subst
 
 4. Robiąc przetwory sami sobie wybierzemy zawsze odpowiednie miejsce zbioru (zdala od opryskiwanych pól, dróg itd.), wybierzemy najładniejsze zdrowe i dojżałe owoce, za obróbkę materiału zabierzemy się od razu przerabiając świeże owoce. Wysoka jakość produktu jaką możemy uzyskać jest nie do osiągnięcia (albo nie jest opłacalna do osiągania) podczas produkcji w dużej skali.
 
-Około 24% suchej masy nasion stanowi olej, donoszą nałukowce: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0308814624034083">A crude, cold-pressed oil from elderberry (Sambucus nigra L.) seeds: Comprehensive approach to properties and characterization using HPLC, DSC, and multispectroscopic methods</a>. Dla porównania w uprawianych gatunkach rzepaku procentowa zawartość oleju w nasionach to około 43%. Rzut oka na profil tłuszczów występujących w obu olejach wystarczy by wyłonić zwycięzcę - zimnotłoczony olej z nasion bzu deklasyfikuje konkurenta. Ciekawe jak wyglądałaby wydajność z hektara.
+Około 24% suchej masy nasion stanowi olej, donoszą nałukowce: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0308814624034083">A crude, cold-pressed oil from elderberry (Sambucus nigra L.) seeds: Comprehensive approach to properties and characterization using HPLC, DSC, and multispectroscopic methods</a>. 
+
+Dla porównania w uprawianych gatunkach rzepaku procentowa zawartość oleju w nasionach to około 43%. Rzut oka na profil tłuszczów występujących w obu olejach wystarczy by wyłonić zwycięzcę - zimnotłoczony olej z nasion bzu deklasyfikuje konkurenta. Ciekawe jak wyglądałaby wydajność z hektara.
 
 <a name="spis"></a>
 
@@ -71,9 +73,11 @@ Dosypałem cukru pod kurek...
 
 Po skoncentrowaniu soku ilość cukru niezbędnego do zapewnienia trwałości mikrobiologicznej jest na tyle mała, że nie psuje ona walorów smakowych sporządzanych napojów. 
 W przemyśle roztwory zawierające powyżej 64% sacharozy uznaje się za mikrobiologicznie stabilne. 
-Do koncentratów soków sacharozy można dać mniej ponieważ już same składniki koncentratu wykazują znaczne ciśnienie osmotyczne.
+Do koncentratów soków sacharozy można dać mniej ponieważ już same składniki koncentratu wykazują znaczne ciśnienie osmotyczne. Ciśnienie osmotyczne łatwo zmierzyć poprzez porównanie z wzorcowym roztworem przy użyciu np. półprzepuszczalnej błony albo nawet kawałka papieru.
 
-[skocz do spisu treści](#spis) 
+Degustując koncentrat na następny dzień dało się zauważyć częściową utratę aromatu dlatego nadal najlepszą metodą konserwacji pozostaje głębokie mrożenie świeżo wyciśniętego soku.
+
+[### skocz do spisu treści ###](#spis) 
 
 <a name="jeden"></a>
 ### 28.09.2026
@@ -143,6 +147,6 @@ A po bez byłem motorkiem.
 ![romet i bez]({{ site.baseurl }}/assets/images/krew11.jpg)
 ![bez i romet]({{ site.baseurl }}/assets/images/krew12.jpg)
 
-[skocz do spisu treści](#spis) 
+[### skocz do spisu treści ###](#spis) 
 
 
