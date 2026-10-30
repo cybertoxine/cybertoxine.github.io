@@ -72,7 +72,7 @@ Próbka 6 (karton)  - Widać kawałki czarnego tlenku manganu(IV).
 ![p6]({{ site.baseurl }}/assets/images/len30.jpg)
 
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 <a name="dziewiec"></a>
 
@@ -106,7 +106,7 @@ Skład farby to 30g węglanu wapnia + 4.5g mydła miedziowego wytworzonego z ole
 Wczoraj wylane na karton próbki 8 i 9 można było bezpobrudzeniowo dotykać.
 
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 
 <a name="osiem"></a>
@@ -140,7 +140,7 @@ Tak samo z próbką 8. Mogłem do tych próbek wsadzić wężyk ze sprężonym p
 Farby olejne tego typu łatwo i szybko doprowadza się do porządanej konsystencji przepuszczając powietrze przez gorący płyn.
 
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 
 <a name="siedem"></a>
@@ -155,7 +155,7 @@ Można dotykać palcem bez brudzenia go (bez brudzenia palca ;-)). Matowa, szors
 
 Widzę potencjał do dalszego obniżenia kosztu powłoki z zachowaniem albo nawet polepszeniem porządanych parametrów. Zastanawiam się nad dodatkiem bentonitu, zastanawiam się też nad drobinami CaCO3 opłaszczonymi łańcuchami alkilowymi (struktura taka jak smarów z kompleksem sulfonianu wapnia). Koszt obu wypełniaczy znacznie mniejszy od kosztu oleju lnianego dla koni jednak rozdrobnienie do odpowiedniego poziomu to dodatkowy czas, zużyta energia i popsucie młynka do kawy. Z ciekawości i dla samego osiągnięcia polegającego na zejściu z kosztem farby do 9 ziko za L, wykonam test z miedzią, manganem i bentonitem (czyli, że z piaskiem do którego sikają koty - próbka 8) oraz miedzią, manganem i CaCO3 (czyli, że z kredą - próbka 9). 
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 
 <a name="szesc"></a>
@@ -170,7 +170,7 @@ Katalizator sporządzono tak jak to opisano przy we wpisie z 15.10.2026. 7% masy
 Farba w modnym ostatnio kolorze ;-). Bardziej wesołe kolory są do uzyskania z użyciem kobaltu. Kolor roztwóru mydła kobaltowego (próbka 3) był bardzo lekko zmieniony w stosunku do koloru czystego oleju.
 Kobalt podejrzewa się o działanie rakotwórcze u ludzi. Pył powstały z ścierającej się farby trafiałby do płuc dlatego w zastosowaniach "do środka" lepiej użyć manganu.
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 <a name="piec"></a>
 
@@ -186,7 +186,7 @@ Wnioski, obserwacje, przemyślenia:
 2. W warunkach domowych, przy zastosowaniu oleju lnianego przeznaczonego dla zwierząt, jest możliwe sporządzenie farby olejnej albo impregnatu w cenie niższej niż 12zł za litr.
 3. Impregnowany "podrasowanym" olejem lnianym karton charakteryzuje się dobrymi cechami mechanicznymi i całkiem niezłą odpornością na wodę. Taki karton może pełnić rolę taniego i ekologicznego materiału konstrukcyjnego.
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 <a name="cztery"></a>
 
@@ -214,7 +214,7 @@ Brązową mieszaninę (próbka 6) rozprowadzono na kawałku kartonu.
 
 ![brazowa farba]({{ site.baseurl }}/assets/images/len10.jpg)
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 <a name="trzy"></a>
 
@@ -226,7 +226,7 @@ Dirycynolan miedzi coś słabo rozpuścił się w oleju lnianym. Spróbuję jesz
 
 Mieszanina (próbka 5) nadal płynna. Nie zauważyłem by konsystencja nałożonej warstwy zmieniła się w ciągu 24 h.
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 <a name="dwa"></a>
 
@@ -245,7 +245,7 @@ Masa mola dirycynolanu miedzi to aż 658.46 g (masa metalu to 0.096 masy tego my
 
 Do 8.5g oleju lnianego dodano 1.5g dirycynolanu miedzi (próbka 5). Składniki wymieszano na ciepło. Całość wylano na karton.
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 <a name="jeden"></a>
 
@@ -283,7 +283,7 @@ próbka 0 - 20g oleju lnianego
 
 ![pozostalosc]({{ site.baseurl }}/assets/images/len7.jpg)
 
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 <a name="zero"></a>
 
@@ -299,8 +299,7 @@ próbka 0 - 20g oleju lnianego
 
 <a href="https://www.researchgate.net/publication/259098976_Copper_Linoleate_A_new_low_toxicity_wide_spectrum_heavy_duty_wood_preservative">Copper Linoleate: A new low toxicity wide spectrum, heavy duty wood preservative.</a>
 
-
-[skocz do spisu treści](#spis)
+[### skocz do spisu treści ###](#spis)
 
 
 
