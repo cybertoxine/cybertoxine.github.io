@@ -15,15 +15,15 @@ Dlaczego warto poświęcić czas na obróbkę czarnego bzu?
 
 1. Po znalezieniu odpowiedniego miejsca owoce zbiera się bardzo szybko, rwie się prawie tak samo sprawnie jak winogrona. Podczas zbioru pomocny okazuje się dwumetrowy patyk zakończony haczkiem, którym przybliża się i przytrzymuje gałęzie.
 
-2. Jak możemy przeczytać w "Antiviral and healing potential of Sambucus nigra extracts" (Michalina Bartak, Agata Lange, Anna Słońska-Zielonka, Joanna Cymerys-Bulenda) https://www.revistabionatura.com/2020.05.03.18.html
+2. Jak możemy przeczytać w <a href="https://www.revistabionatura.com/2020.05.03.18.html">Antiviral and healing potential of Sambucus nigra extracts. </a>
 
    "Clinical trials on the impact of S. nigra for influenza virus have proven an excellent scientific basis for the use of S. nigra extracts to combat the disease caused by the virus, classifying it on level B (based on the criteria)"
 
-   Zatem efektem pracy będzie wartościowy produkt roślinny, który oprócz substancji odżywczych i atrakcyjnych cech organoleptycznych posiada też właściwości lecznicze dostosowane do okresu jesienno-zimowego.
+Zatem efektem pracy będzie wartościowy produkt roślinny, który oprócz substancji odżywczych i atrakcyjnych cech organoleptycznych posiada też właściwości lecznicze dostosowane do okresu jesienno-zimowego.
 
-3. Robiąc przetwory sami sobie wybierzemy zawsze odpowiednie miejsce zbioru (zdala od opryskiwanych pól, dróg itd.), wybierzemy najładniejsze zdrowe i dojżałe owoce, za obróbkę materiału zabierzemy się od razu przerabiając świeże owoce. Wysoka jakość produktu jaką możemy uzyskać jest nie do osiągnięcia (albo nie jest opłacalna do osiągania) podczas produkcji w dużej skali.
+4. Robiąc przetwory sami sobie wybierzemy zawsze odpowiednie miejsce zbioru (zdala od opryskiwanych pól, dróg itd.), wybierzemy najładniejsze zdrowe i dojżałe owoce, za obróbkę materiału zabierzemy się od razu przerabiając świeże owoce. Wysoka jakość produktu jaką możemy uzyskać jest nie do osiągnięcia (albo nie jest opłacalna do osiągania) podczas produkcji w dużej skali.
 
-Około 24% suchej masy nasion stanowi olej https://www.sciencedirect.com/science/article/abs/pii/S0308814624034083. Dla porównania w uprawianych gatunkach rzepaku procentowa zawartość oleju w nasionach to około 43%. Rzut oka na profil tłuszczów występujących w obu olejach wystarczy by wyłonić zwycięzcę - zimnotłoczony olej z nasion bzu deklasyfikuje konkurenta. Ciekawe jak wyglądałaby wydajność z hektara.
+Około 24% suchej masy nasion stanowi olej, donoszą nałukowce: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0308814624034083">A crude, cold-pressed oil from elderberry (Sambucus nigra L.) seeds: Comprehensive approach to properties and characterization using HPLC, DSC, and multispectroscopic methods</a>. Dla porównania w uprawianych gatunkach rzepaku procentowa zawartość oleju w nasionach to około 43%. Rzut oka na profil tłuszczów występujących w obu olejach wystarczy by wyłonić zwycięzcę - zimnotłoczony olej z nasion bzu deklasyfikuje konkurenta. Ciekawe jak wyglądałaby wydajność z hektara.
 
 <a name="spis"></a>
 
