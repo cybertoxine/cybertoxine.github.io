@@ -14,7 +14,7 @@ Wystarczy kilku pośredników, podwyższone ostatnio koszty transportu, VAT i...
 
 Powłoki na bazie olejów "schnących" (piszę w cudzysłowie ponieważ te oleje nie schną tylko dochodzi do polimeryzacji) to nic nowego. Technologia jest znana i dobrze opisana. Obrazy malowane na płótnie stanowią źródło niezliczonych próbek dzięki którym można określić wpływ różnych dodatków na trwałość i inne właściwości farb olejnych.
 
-Czysty olej lniany "schnie" bezsensownie powoli dlatego dodaje się do niego katalizatory by szybciej reagował z tlenem z powietrza. Kiedyś powszechnie stosowano tlenek ołowiu jednak obecnie wiadomo o toksyczności tej substancji i już się tego nie robi. Sole kobaltu, jak się przekonałem, są niesamowicie aktywne. Po 30 minutach od nałożenia na karton oleju lnianego zaprawionego kobaltem temperatura kartonu wzrosła o kilka st. C. a po 20 godzinach przy temperaturze otoczenia wynoszącej 18 st. C. powłoka była już sztywna w dotyku! Niestety sole kobaltu podejrzewa się o działanie rakotwórcze. Ponoć odnotowano większą częstość występowania nowotworów płuc u osób zajmujących się przeróbką rud kobaltu. Mangan z tego co zaobserwowałem jest mniej aktywny od kobaltu i dość mocno barwi olej na brązowo. Jeśli farba na drugi dzień miałaby już nie brudzić rąk przy dotykaniu jej to, niestety, musi być w odcieniu brązu. Mangan w takiej postaci i w takim stężeniu jakie występuje w farbie uważa się za bezpieczny dla zdrowia.
+Czysty olej lniany "schnie" bezsensownie powoli dlatego dodaje się do niego katalizatory by szybciej reagował z tlenem z powietrza. Kiedyś powszechnie stosowano tlenek ołowiu jednak obecnie wiadomo o toksyczności tej substancji i już się tego nie robi. Sole kobaltu, jak się przekonałem, są niesamowicie aktywne. Po 30 minutach od nałożenia na karton oleju lnianego zaprawionego kobaltem temperatura kartonu wzrosła o kilka °C a po 20 godzinach przy temperaturze otoczenia wynoszącej 18 °C powłoka była już sztywna w dotyku! Niestety sole kobaltu podejrzewa się o działanie rakotwórcze. Ponoć odnotowano większą częstość występowania nowotworów płuc u osób zajmujących się przeróbką rud kobaltu. Mangan z tego co zaobserwowałem jest mniej aktywny od kobaltu i dość mocno barwi olej na brązowo. Jeśli farba na drugi dzień miałaby już nie brudzić rąk przy dotykaniu jej to, niestety, musi być w odcieniu brązu. Mangan w takiej postaci i w takim stężeniu jakie występuje w farbie uważa się za bezpieczny dla zdrowia.
 
 Na samym dole wpisu podlinkowałem kilka prac. Po przeczytniu ich posiądzie się wiedzę wystarczającą do rozpoczęcia projektowania formulacji dostosowanych do własnych potrzeb. U mnie zaistniała potrzeba pomalowania wewnętrznych ścian w wolnostojącym garażu.
 
@@ -101,7 +101,7 @@ Farbę (próbka 10) rozprowadziłem na 3 podłoża. Bardzo chłonne (jakaś skle
 
 ![rozne podloza]({{ site.baseurl }}/assets/images/len24.jpg)
 
-Skład farby to 30g węglanu wapnia + 4.5g mydła miedziowego wytworzonego z oleju rycynowego + 5.5g mieszaniny kwasów tłuszczowych z oleju kokosowego + 40g oleju lnianego. Wcześniej posługiwałem się nazwami pojedynczych związków chemicznych dla jasności przekazu. Naturalne oleje są mieszaninami różnych kwasów tłuszczowych połączonych wiązaniem estrowym z glicerolem. Węglan wapnia miałem o czystości 98%+. Katalizatora dodałem tyle by zawartość manganu w odniesieniu do wagi oleju lnianego wynosiła 0.1% licząc się z powolnym "schnięciem" takiej mieszanki. Temperatura otoczenia w momencie odkładania pomalowanych materiałów wynosiła 18 st. C.
+Skład farby to 30g węglanu wapnia + 4.5g mydła miedziowego wytworzonego z oleju rycynowego + 5.5g mieszaniny kwasów tłuszczowych z oleju kokosowego + 40g oleju lnianego. Wcześniej posługiwałem się nazwami pojedynczych związków chemicznych dla jasności przekazu. Naturalne oleje są mieszaninami różnych kwasów tłuszczowych połączonych wiązaniem estrowym z glicerolem. Węglan wapnia miałem o czystości 98%+. Katalizatora dodałem tyle by zawartość manganu w odniesieniu do wagi oleju lnianego wynosiła 0.1% licząc się z powolnym "schnięciem" takiej mieszanki. Temperatura otoczenia w momencie odkładania pomalowanych materiałów wynosiła 18 °C.
 
 Wczoraj wylane na karton próbki 8 i 9 można było bezpobrudzeniowo dotykać.
 
@@ -147,7 +147,7 @@ Farby olejne tego typu łatwo i szybko doprowadza się do porządanej konsystenc
 
 ## 20.10.2026:
 
-Minęło 20 h w temperaturze 15 - 20 st. C. Próbka 7 wygląda tak:
+Minęło 20 h w temperaturze 15 - 20 °C. Próbka 7 wygląda tak:
 
 ![probka z manganem i miedzia]({{ site.baseurl }}/assets/images/len17.jpg)
 
@@ -289,17 +289,16 @@ próbka 0 - 20g oleju lnianego
 
 ## Warte polecenia prace powiązane z tematem:
 
-"The Role of Oil Painting Driers: A Selection Guide for Artists"
-link: https://www.naturalpigments.eu/artist-materials/role-of-oil-painting-driers
+<a href="https://www.naturalpigments.eu/artist-materials/role-of-oil-painting-driers">The Role of Oil Painting Driers: A Selection Guide for Artists</a>
 
-"The synergistic influence of metal cations on the drying and viscosity of linseed oil assessed by means of model samples containing synthesised metal carboxylates."
-link: https://www.researchgate.net/publication/381546245_The_synergistic_influence_of_metal_cations_on_the_drying_and_viscosity_of_linseed_oil_assessed_by_means_of_model_samples_containing_synthesised_metal_carboxylates
+<a href="https://www.researchgate.net/publication/381546245_The_synergistic_influence_of_metal_cations_on_the_drying_and_viscosity_of_linseed_oil_assessed_by_means_of_model_samples_containing_synthesised_metal_carboxylates
+">The synergistic influence of metal cations on the drying and viscosity of linseed oil assessed by means of model samples containing synthesised metal carboxylates.
+</a>
 
-"Review of the kinetics and simulations of linseed oil autoxidation."
-link: https://www.sciencedirect.com/science/article/pii/S0300944020312522
+<a href="https://www.sciencedirect.com/science/article/pii/S0300944020312522">Review of the kinetics and simulations of linseed oil autoxidation.</a>
 
-"Copper Linoleate: A new low toxicity wide spectrum, heavy duty wood preservative."
-link: https://www.researchgate.net/publication/259098976_Copper_Linoleate_A_new_low_toxicity_wide_spectrum_heavy_duty_wood_preservative
+<a href="https://www.researchgate.net/publication/259098976_Copper_Linoleate_A_new_low_toxicity_wide_spectrum_heavy_duty_wood_preservative">Copper Linoleate: A new low toxicity wide spectrum, heavy duty wood preservative.</a>
+
 
 [skocz do spisu treści](#spis)
 
