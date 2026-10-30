@@ -9,6 +9,8 @@ youtubeId: Hd6u_XOGxhM
 ---
 
 <a name="zero"></a>
+
+
 Wstęp:
 
 Dlaczego warto poświęcić czas na obróbkę czarnego bzu?
@@ -59,7 +61,7 @@ A na końcu tyle:
 Temperatura soku oscylowała wokół 65 st. C. Gdy objętość zmalała około dwukrotnie wrzenie zaczęło zachodzić bużliwie oraz dało się zauważyć, że pojawia się osad na dnie.
 Gdy sok "strzelił" na tyle mocno, że kilka kropel wpadło do rury ssącej zatrzymałem proces by uniknąć strat materiału.
 
-Zlałem zawartość zbiornika do słoiczka. Po lewej stronie widać ile wody usunięto z soku. Na oko to lekko ponad połowa objętości koncentratu.
+Zlałem zawartość zbiornika do słoiczka. Po lewej stronie widać ile wody usunięto z soku. Na oko to lekko ponad połowa objętości tego co na starcie znalazło się w naczyniu.
 
 ![ile odciagnieto]({{ site.baseurl }}/assets/images/bzz2.jpg)
 
