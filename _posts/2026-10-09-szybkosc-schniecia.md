@@ -5,6 +5,7 @@ author: MF
 categories: [len, sieciowanie olejów schnących, impregnacja papieru, lipofilowe sole metali, chemia związków metaloorganicznych ]
 image: assets/images/len0.jpg
 tags: [featured]
+youtubeId: Hd6u_XOGxhM
 ---
 <a name="wstep"></a>
 
