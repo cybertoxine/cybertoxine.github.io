@@ -5,7 +5,7 @@ author: MF
 categories: [len, sieciowanie olejów schnących, impregnacja papieru, lipofilowe sole metali, chemia związków metaloorganicznych ]
 image: assets/images/len0.jpg
 tags: [featured]
-youtubeId: Hd6u_XOGxhM
+youtubeId: louyU1FniLU
 ---
 <a name="wstep"></a>
 
@@ -37,6 +37,15 @@ Na samym dole wpisu podlinkowałem kilka prac. Po przeczytniu ich posiądzie si�
 11. 21.10.2026 Sporządzenie próbek z wypełniaczem. Sprawdzenie jak zachowuje się bentonit i węglan wapnia. [skocz](#osiem)
 12. 22.10.2026 Praktyczne wykorzystanie zdobytej wiedzy. Ekonomiczna farba olejna na wewnętrzne ściany wolnostojącego garażu (próbka 10). [skocz](#dziewiec)
 13. 24.10.2026 Dotykanie próbki 10, zdjęcia mikroskopowe. [skocz](#dziesiec)
+14. 01.11.2026 Dotykanie próbki 10, zdjęcia mikroskopowe. [skocz](#jedena)
+
+
+
+<a name="jedena"></a>
+
+{% include bezfilmik0.html id=page.youtubeId %}
+
+[### skocz do spisu treści ###](#spis)
 
 <a name="dziesiec"></a>
 
