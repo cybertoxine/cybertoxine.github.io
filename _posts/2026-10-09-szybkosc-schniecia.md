@@ -37,7 +37,7 @@ Na samym dole wpisu podlinkowałem kilka prac. Po przeczytniu ich posiądzie si�
 11. 21.10.2026 Sporządzenie próbek z wypełniaczem. Sprawdzenie jak zachowuje się bentonit i węglan wapnia. [skocz](#osiem)
 12. 22.10.2026 Praktyczne wykorzystanie zdobytej wiedzy. Ekonomiczna farba olejna na wewnętrzne ściany wolnostojącego garażu (próbka 10). [skocz](#dziewiec)
 13. 24.10.2026 Dotykanie próbki 10, zdjęcia mikroskopowe. [skocz](#dziesiec)
-14. 01.11.2026 ...piszę... [skocz](#jedena)
+14. 01.11.2026 Można opierać się. [skocz](#jedena)
 
 
 
@@ -45,9 +45,12 @@ Na samym dole wpisu podlinkowałem kilka prac. Po przeczytniu ich posiądzie si�
 
 ## 01.11.2026:
 
-...piszę...
+Po 10 dniach w temperaturze pokojowej powłoka położona na średniochłonnym podłożu jest już w takim stanie, że nie zaszkodzi jej dotknięcie ręką, otarcie łokciem, oparcie się plecami itd.
+W dotyku przypomina matę silikonową. Brud się nie klei.
 
 {% include bezfilmik0.html id=page.youtubeId %}
+
+Ta farba lubi być kładziona w cienkiej warstwie. Rzucam próbkę w kąt i obejrzę ją jeszcze za 60 dni. Kolor z czasem przemieszczał się w stronę brązowawożółtej zieleni. Pastelowe z połyskiem.
 
 
 [### skocz do spisu treści ###](#spis)
